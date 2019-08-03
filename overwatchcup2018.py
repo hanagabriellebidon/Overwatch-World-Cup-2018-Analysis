@@ -37,12 +37,13 @@ with open('players.json') as json_data:
 df_players = pd.DataFrame(players)
 df_players = df_players[['playername', 'team', 'role']]
 
+df_players.head()
+
 # Parse all the team fights between two teams in each map and round type.
 def parse_match(mat):
-    num_teamfight = len(mat['Map']['Roundtype'])
     df_teamfightStats = pd.DataFrame({mat['teamfightID']:{'Map': mat['Map'], 'Round Type': mat['Roundtype'],
     'Blue Team': mat['Blue Team'], 'Red Team': mat['Red Team'], 'Beginning of Fight': mat['Time stamp when fight began'],
-    'Length of Teamfight': mat['length of fight in seconds'], 'Kils Blue': mat['Kills Blue'], 'Kills Red': mat['Kills Red'],
+    'Length of Teamfight': mat['length of fight in seconds'], 'Kills Blue': mat['Kills Blue'], 'Kills Red': mat['Kills Red'],
     'Ults Blue': mat['Ults Blue'], 'Ults Red': mat['Ults Red'], 'First Blood': mat['First Blood']}})
     return (df_teamfightStats.transpose())
 
@@ -53,38 +54,12 @@ init_teamfight['teamfightID'] = 'teamfight'
 
 df_teamfightStats = parse_match(init_teamfight)
 
-# with open('owl.json') as json_data:
-#     match_stats = json.load(json_data)
-#
-# init_match = match_stats[0].copy()
-# init_match['matchID']= 'trial'
-# df_matchStats = parse_match(init_match)
-#
-# for match in match_stats:
-#
-#     df_matchStats = pd.concat([df_matchStats, parse_match(match)])
-#
-# df_matchStats = df_matchStats.drop('trial', axis = 0)
-# df_matchStats = df_matchStats[['Date', 'Team1', 'Team2', 'Team1_Score', 'Team2_Score',
-#                              'Fights_1', 'Fights_2', 'Kills_1', 'Kills_2',
-#                              'Map1', 'Score_1_1', 'Score_1_2', 'MatchDet_1_1', 'MatchDet_1_2',
-#                              'Map2', 'Score_2_1', 'Score_2_2', 'MatchDet_2_1', 'MatchDet_2_2',
-#                              'Map3', 'Score_3_1', 'Score_3_2', 'MatchDet_3_1', 'MatchDet_3_2',
-#                              'Map4', 'Score_4_1', 'Score_4_2', 'MatchDet_4_1', 'MatchDet_4_2',
-#                              'Map5', 'Score_5_1', 'Score_5_2', 'MatchDet_5_1', 'MatchDet_5_2'
-#                              ]]
-#
-# df_matchStats['Team1_Score'] = pd.to_numeric(df_matchStats['Team1_Score'])
-# df_matchStats['Team2_Score'] = pd.to_numeric(df_matchStats['Team2_Score'])
-# df_matchStats['Fights_1'] = pd.to_numeric(df_matchStats['Fights_1'])
-# df_matchStats['Fights_2'] = pd.to_numeric(df_matchStats['Fights_2'])
-# df_matchStats['Kills_1'] = pd.to_numeric(df_matchStats['Kills_1'])
-# df_matchStats['Kills_2'] = pd.to_numeric(df_matchStats['Kills_2'])
-# df_matchStats['Score_1_1'] = pd.to_numeric(df_matchStats['Score_1_1'])
-# df_matchStats['Score_1_2'] = pd.to_numeric(df_matchStats['Score_1_2'])
-# df_matchStats['Score_2_1'] = pd.to_numeric(df_matchStats['Score_2_1'])
-# df_matchStats['Score_2_2'] = pd.to_numeric(df_matchStats['Score_2_2'])
-# df_matchStats['Score_3_1'] = pd.to_numeric(df_matchStats['Score_3_1'])
-# df_matchStats['Score_3_2'] = pd.to_numeric(df_matchStats['Score_3_2'])
-# df_matchStats['Score_4_1'] = pd.to_numeric(df_matchStats['Score_4_1'])
-# df_matchStats['Score_4_2'] = pd.to_numeric(df_matchStats['Score_4_2'])
+for teamfight in teamfight_stats:
+    df_teamfightStats = pd.concat([df_teamfightStats, parse_match(teamfight)])
+
+df_teamfightStats = df_teamfightStats.drop('teamfight', axis = 0)
+df_teamfightStats = df_teamfightStats[['Map', 'Round Type', 'Blue Team', 'Red Team', 'Beginning of Fight', 'Length of Teamfight',
+'Kills Blue', 'Kills Red', 'Ults Blue', 'Ults Red', 'First Blood']]
+
+df_teamfightStats.head()
+
