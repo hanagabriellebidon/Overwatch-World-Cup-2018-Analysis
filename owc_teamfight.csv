@@ -1,0 +1,4291 @@
+Map,Roundtype,Blue Team,Red Team,time,len,KB,KR,UB,UR,FB
+Nepal,Sanctum,HK,RUS,1:18,39,2,7,0,0,B
+Nepal,Sanctum,HK,RUS,2:57,12,1,3,0,0,R
+Nepal,Sanctum,HK,RUS,3:45,19,6,0,0,1,B
+Nepal,Sanctum,HK,RUS,4:25,32,1,4,2,3,B
+Nepal,Village,HK,RUS,0:36,0,0,1,0,0,R
+Nepal,Village,HK,RUS,0:44,25,0,5,0,2,R
+Nepal,Village,HK,RUS,1:26,0,0,1,0,0,R
+Nepal,Village,HK,RUS,1:52,15,1,4,0,0,R
+Nepal,Village,HK,RUS,2:36,6,1,2,1,0,R
+Nepal,Village,HK,RUS,3:07,12,0,6,0,3,R
+King's Row,Defense,HK,RUS,0:14,19,2,2,0,0,B
+King's Row,Defense,HK,RUS,0:55,27,0,9,1,1,R
+King's Row,Defense,HK,RUS,2:20,27,1,7,0,3,R
+King's Row,Defense,HK,RUS,3:07,30,0,7,3,4,R
+King's Row,Attack,HK,RUS,0:24,12,0,1,0,1,R
+King's Row,Attack,HK,RUS,1:00,18,1,3,0,2,B
+King's Row,Attack,HK,RUS,1:42,44,7,3,3,4,B
+King's Row,Attack,HK,RUS,3:05,17,0,3,1,1,R
+King's Row,Attack,HK,RUS,3:55,3,0,3,0,0,R
+King's Row,Attack,HK,RUS,4:15,7,0,3,0,0,R
+King's Row,Attack,HK,RUS,4:49,1,0,1,1,0,R
+King's Row,Attack,HK,RUS,5:18,18,0,4,0,3,R
+King's Row,Attack,HK,RUS,6:08,41,4,8,3,3,B
+Temple of Anubis,Defense,HK,RUS,0:39,19,0,5,0,0,R
+Temple of Anubis,Defense,HK,RUS,1:32,12,0,5,1,2,R
+Temple of Anubis,Attack,HK,RUS,0:52,8,0,3,0,0,R
+Temple of Anubis,Attack,HK,RUS,1:33,19,5,1,0,1,B
+Temple of Anubis,Attack,HK,RUS,2:30,0,0,1,0,0,R
+Temple of Anubis,Attack,HK,RUS,3:03,26,0,3,0,2,R
+Temple of Anubis,Attack,HK,RUS,4:07,23,0,4,0,0,R
+Temple of Anubis,Attack,HK,RUS,4:58,18,2,6,1,1,R
+Temple of Anubis,Attack,HK,RUS,5:46,0,0,1,0,0,R
+Temple of Anubis,Attack,HK,RUS,6:12,19,0,5,0,1,R
+Temple of Anubis,Attack,HK,RUS,7:15,47,6,5,2,0,R
+Rialto,Defense,HK,RUS,0:15,0,1,0,0,0,B
+Rialto,Defense,HK,RUS,0:46,13,0,3,0,0,R
+Rialto,Defense,HK,RUS,1:17,47,6,3,4,5,R
+Rialto,Defense,HK,RUS,2:32,42,3,8,2,2,B
+Rialto,Defense,HK,RUS,4:14,34,5,3,1,2,B
+Rialto,Defense,HK,RUS,5:25,67,4,13,4,4,R
+Rialto,Defense,HK,RUS,7:04,61,5,7,2,9,B
+Rialto,Defense,HK,RUS,8:14,16,5,0,1,1,B
+Rialto,Defense,HK,RUS,8:53,4,1,1,0,1,B
+Rialto,Attack,HK,RUS,0:28,0,0,1,0,0,R
+Rialto,Attack,HK,RUS,0:53,60,5,6,2,3,B
+Rialto,Attack,HK,RUS,2:05,36,2,6,2,3,B
+Rialto,Attack,HK,RUS,3:22,0,0,1,0,0,R
+Rialto,Attack,HK,RUS,3:41,37,2,8,4,2,B
+Oasis,University,TW,KR,0:13,0,1,0,0,0,B
+Oasis,University,TW,KR,0:38,33,0,6,1,1,R
+Oasis,University,TW,KR,1:56,12,0,3,2,1,R
+Oasis,University,TW,KR,2:26,21,0,4,1,3,R
+Oasis,University,TW,KR,3:22,13,1,6,1,1,R
+Oasis,City Center,TW,KR,0:25,34,4,3,0,1,B
+Oasis,City Center,TW,KR,1:32,30,5,2,3,1,R
+Oasis,City Center,TW,KR,2:38,33,7,1,5,1,R
+Oasis,Gardens,TW,KR,0:26,0,1,0,0,0,B
+Oasis,Gardens,TW,KR,0:52,45,3,10,2,1,B
+Oasis,Gardens,TW,KR,2:46,16,0,3,0,1,R
+Oasis,Gardens,TW,KR,3:36,20,1,5,1,2,R
+King's Row,Attack,TW,KR,0:11,0,0,1,0,0,R
+King's Row,Attack,TW,KR,0:28,0,0,1,0,0,R
+King's Row,Attack,TW,KR,0:46,30,0,6,0,1,R
+King's Row,Attack,TW,KR,1:54,10,0,4,0,2,R
+King's Row,Attack,TW,KR,2:31,2,1,1,0,1,B
+King's Row,Attack,TW,KR,2:42,11,1,0,0,0,B
+King's Row,Attack,TW,KR,3:06,43,7,4,1,2,B
+King's Row,Attack,TW,KR,4:37,44,3,3,1,1,R
+King's Row,Attack,TW,KR,5:54,11,1,0,0,0,B
+King's Row,Attack,TW,KR,6:17,39,2,7,1,3,R
+King's Row,Defense,TW,KR,0:56,0,1,0,0,0,B
+King's Row,Defense,TW,KR,1:06,24,1,6,0,1,R
+King's Row,Defense,TW,KR,2:12,38,2,7,2,3,R
+King's Row,Defense,TW,KR,3:18,13,0,5,0,0,R
+Temple of Anubis,Attack,TW,KR,0:12,0,0,1,0,0,R
+Temple of Anubis,Attack,TW,KR,0:45,32,3,9,0,0,B
+Temple of Anubis,Attack,TW,KR,1:29,7,0,1,0,1,R
+Temple of Anubis,Attack,TW,KR,1:55,9,0,2,0,0,R
+Temple of Anubis,Attack,TW,KR,2:28,0,0,1,0,0,R
+Temple of Anubis,Attack,TW,KR,2:36,27,0,4,0,2,R
+Temple of Anubis,Attack,TW,KR,3:26,14,0,5,1,2,R
+Temple of Anubis,Attack,TW,KR,3:47,41,6,1,3,2,B
+Temple of Anubis,Attack,TW,KR,5:10,21,0,4,1,1,R
+Temple of Anubis,Attack,TW,KR,6:21,22,0,5,0,1,R
+Temple of Anubis,Attack,TW,KR,7:25,17,0,4,0,0,R
+Temple of Anubis,Attack,TW,KR,8:05,45,0,8,4,4,R
+Temple of Anubis,Defense,TW,KR,0:23,21,5,0,0,0,B
+Temple of Anubis,Defense,TW,KR,1:01,43,2,7,3,4,R
+Temple of Anubis,Defense,TW,KR,3:15,42,0,9,4,4,R
+Rialto,Attack,TW,KR,0:36,55,11,3,1,0,B
+Rialto,Attack,TW,KR,2:07,28,2,6,4,4,B
+Rialto,Attack,TW,KR,3:13,18,1,6,1,1,R
+Rialto,Attack,TW,KR,4:23,25,4,0,2,3,B
+Rialto,Attack,TW,KR,5:30,6,0,2,0,0,R
+Rialto,Attack,TW,KR,6:13,10,0,4,0,1,R
+Rialto,Attack,TW,KR,6:47,40,2,4,2,4,R
+Rialto,Attack,TW,KR,7:43,31,1,7,2,3,B
+Rialto,Defense,TW,KR,0:22,3,1,2,0,0,R
+Rialto,Defense,TW,KR,0:38,11,0,1,0,1,R
+Rialto,Defense,TW,KR,1:13,0,1,0,0,0,B
+Rialto,Defense,TW,KR,1:31,12,0,6,0,0,R
+Rialto,Defense,TW,KR,2:24,6,2,1,2,1,B
+Rialto,Defense,TW,KR,3:12,15,0,4,0,2,R
+Rialto,Defense,TW,KR,3:46,8,0,4,0,0,R
+Rialto,Defense,TW,KR,4:32,19,2,4,1,2,R
+Ilios,Ruins,HK,FL,0:46,17,4,0,0,0,B
+Ilios,Ruins,HK,FL,1:25,21,0,4,1,1,R
+Ilios,Ruins,HK,FL,2:08,17,2,4,0,2,R
+Ilios,Ruins,HK,FL,2:44,16,1,4,3,1,R
+Ilios,Ruins,HK,FL,3:23,0,0,1,0,0,R
+Ilios,Ruins,HK,FL,3:50,3,0,2,0,0,R
+Ilios,Lighthouse,HK,FL,0:57,14,1,6,0,0,R
+Ilios,Lighthouse,HK,FL,1:35,14,5,0,0,0,B
+Ilios,Lighthouse,HK,FL,2:11,15,0,5,1,1,R
+Ilios,Lighthouse,HK,FL,2:49,8,0,2,0,0,R
+Ilios,Lighthouse,HK,FL,3:21,2,0,1,2,1,R
+Ilios,Lighthouse,HK,FL,3:51,20,2,3,3,3,B
+King's Row,Attack,HK,FL,0:18,0,0,1,0,0,R
+King's Row,Attack,HK,FL,0:52,11,0,1,0,2,R
+King's Row,Attack,HK,FL,1:37,48,3,5,2,6,B
+King's Row,Attack,HK,FL,3:01,11,0,4,0,0,R
+King's Row,Attack,HK,FL,3:32,29,7,3,3,3,R
+King's Row,Attack,HK,FL,4:57,8,0,2,1,1,R
+King's Row,Attack,HK,FL,5:33,28,3,3,3,3,B
+King's Row,Attack,HK,FL,6:27,20,0,6,1,2,R
+King's Row,Defense,HK,FL,0:32,5,0,2,0,0,R
+King's Row,Defense,HK,FL,0:54,0,0,1,0,0,R
+King's Row,Defense,HK,FL,1:20,5,1,3,0,2,R
+Temple of Anubis,Attack,HK,FL,0:43,12,1,2,0,0,R
+Temple of Anubis,Attack,HK,FL,2:08,20,1,5,2,0,R
+Temple of Anubis,Attack,HK,FL,3:22,42,0,7,3,4,R
+Temple of Anubis,Defense,HK,FL,0:33,13,1,5,0,0,R
+Rialto,Attack,HK,FL,0:36,29,2,2,1,1,R
+Rialto,Attack,HK,FL,1:21,5,0,1,1,1,R
+Rialto,Attack,HK,FL,1:37,20,1,4,0,2,B
+Rialto,Attack,HK,FL,2:29,24,5,1,1,0,B
+Rialto,Attack,HK,FL,3:15,30,7,2,2,2,B
+Rialto,Attack,HK,FL,4:02,33,3,4,2,1,B
+Rialto,Attack,HK,FL,4:50,14,1,5,1,1,R
+Rialto,Attack,HK,FL,5:24,90,5,8,4,4,R
+Rialto,Attack,HK,FL,7:23,4,0,2,0,1,R
+Rialto,Defense,HK,FL,0:43,9,0,2,0,1,R
+Rialto,Defense,HK,FL,1:00,35,1,6,2,4,R
+Rialto,Defense,HK,FL,2:09,24,3,2,3,3,B
+Rialto,Defense,HK,FL,2:48,27,1,4,0,3,R
+Oasis,University,JP,RUS,0:29,7,2,0,0,0,B
+Oasis,University,JP,RUS,1:04,4,4,0,0,0,B
+Oasis,University,JP,RUS,1:34,39,5,4,5,3,R
+Oasis,University,JP,RUS,2:22,21,4,2,1,2,R
+Oasis,Gardens,JP,RUS,0:22,0,0,1,0,0,R
+Oasis,Gardens,JP,RUS,0:45,7,1,1,0,1,R
+Oasis,Gardens,JP,RUS,0:58,26,5,1,1,0,B
+Oasis,Gardens,JP,RUS,1:44,21,5,0,1,1,B
+Oasis,Gardens,JP,RUS,2:30,37,2,7,1,2,R
+Oasis,Gardens,JP,RUS,3:36,15,2,3,3,1,B
+Oasis,Gardens,JP,RUS,4:14,0,0,1,0,1,R
+Oasis,Gardens,JP,RUS,4:27,24,6,0,1,2,B
+Oasis,Gardens,JP,RUS,5:12,34,6,2,2,1,B
+Eichenwalde,Defense,JP,RUS,0:52,38,5,1,1,1,B
+Eichenwalde,Defense,JP,RUS,1:55,24,2,2,3,1,R
+Eichenwalde,Defense,JP,RUS,2:47,13,0,6,0,1,R
+Eichenwalde,Defense,JP,RUS,3:36,26,3,5,3,2,R
+Eichenwalde,Defense,JP,RUS,4:18,2,1,1,0,0,R
+Eichenwalde,Defense,JP,RUS,4:30,41,4,4,1,3,R
+Eichenwalde,Defense,JP,RUS,5:28,40,2,6,2,2,B
+Eichenwalde,Defense,JP,RUS,6:28,30,1,4,1,1,R
+Eichenwalde,Defense,JP,RUS,7:10,36,5,3,2,4,B
+Eichenwalde,Defense,JP,RUS,8:01,27,7,2,4,1,B
+Eichenwalde,Attack,JP,RUS,0:26,0,0,1,0,0,R
+Eichenwalde,Attack,JP,RUS,0:56,3,1,0,1,0,B
+Eichenwalde,Attack,JP,RUS,1:19,24,0,4,1,1,R
+Eichenwalde,Attack,JP,RUS,2:31,49,6,4,2,1,B
+Eichenwalde,Attack,JP,RUS,3:35,2,0,2,0,0,R
+Eichenwalde,Attack,JP,RUS,4:00,19,0,6,1,1,R
+Eichenwalde,Attack,JP,RUS,5:03,12,2,1,2,2,B
+Eichenwalde,Attack,JP,RUS,5:22,31,3,6,2,2,B
+Eichenwalde,Attack,JP,RUS,6:15,34,1,6,2,3,B
+Volskaya Industries,Defense,JP,RUS,0:33,17,0,5,0,1,R
+Volskaya Industries,Defense,JP,RUS,1:21,9,4,1,1,2,B
+Volskaya Industries,Defense,JP,RUS,2:14,18,5,1,0,2,R
+Volskaya Industries,Defense,JP,RUS,3:08,39,2,6,4,2,R
+Volskaya Industries,Defense,JP,RUS,4:04,22,2,6,0,2,R
+Volskaya Industries,Defense,JP,RUS,4:33,18,6,0,3,1,B
+Volskaya Industries,Defense,JP,RUS,5:40,40,6,4,1,2,R
+Volskaya Industries,Defense,JP,RUS,6:46,15,6,1,2,0,R
+Volskaya Industries,Defense,JP,RUS,7:27,47,1,11,3,3,R
+Volskaya Industries,Attack,JP,RUS,0:34,2,1,1,0,0,R
+Volskaya Industries,Attack,JP,RUS,0:51,10,1,5,0,0,R
+Volskaya Industries,Attack,JP,RUS,1:32,6,1,2,0,1,R
+Volskaya Industries,Attack,JP,RUS,1:59,28,3,5,0,0,B
+Volskaya Industries,Attack,JP,RUS,2:47,15,0,4,0,1,R
+Volskaya Industries,Attack,JP,RUS,3:34,13,1,1,0,1,B
+Volskaya Industries,Attack,JP,RUS,3:53,22,0,5,1,5,R
+Rialto,Defense,JP,RUS,0:38,16,1,6,0,2,R
+Rialto,Defense,JP,RUS,1:09,0,0,1,0,0,R
+Rialto,Defense,JP,RUS,1:23,19,0,6,0,3,R
+Rialto,Defense,JP,RUS,2:03,0,1,0,0,1,B
+Rialto,Defense,JP,RUS,2:09,36,3,3,2,3,R
+Rialto,Defense,JP,RUS,2:59,79,3,11,4,7,R
+Rialto,Defense,JP,RUS,4:41,1,0,1,0,1,R
+Rialto,Defense,JP,RUS,4:49,29,1,7,1,2,R
+Rialto,Defense,JP,RUS,5:50,2,0,2,0,0,R
+Rialto,Attack,JP,RUS,0:37,0,0,1,0,0,R
+Rialto,Attack,JP,RUS,0:52,35,1,6,0,3,R
+Rialto,Attack,JP,RUS,2:02,13,2,2,2,2,B
+Rialto,Attack,JP,RUS,2:24,12,1,0,1,0,B
+Rialto,Attack,JP,RUS,3:18,19,6,1,1,0,B
+Rialto,Attack,JP,RUS,4:11,36,3,4,2,3,R
+Rialto,Attack,JP,RUS,5:17,31,3,2,3,3,B
+Rialto,Attack,JP,RUS,6:08,0,0,1,0,0,R
+Rialto,Attack,JP,RUS,6:22,3,0,1,0,1,R
+Rialto,Attack,JP,RUS,6:30,20,1,3,2,3,R
+Lijiang Tower,Night Market,FL,KR,0:56,18,1,6,0,0,R
+Lijiang Tower,Night Market,FL,KR,1:32,31,2,5,0,4,B
+Lijiang Tower,Night Market,FL,KR,2:32,7,1,0,1,1,B
+Lijiang Tower,Night Market,FL,KR,2:55,15,0,6,1,1,R
+Lijiang Tower,Night Market,FL,KR,3:26,33,5,4,4,1,R
+Lijiang Tower,Night Market,FL,KR,4:30,26,0,7,1,3,R
+Lijiang Tower,Control Center,FL,KR,0:21,12,4,0,0,0,B
+Lijiang Tower,Control Center,FL,KR,1:24,15,4,1,1,1,B
+Lijiang Tower,Control Center,FL,KR,2:26,18,2,1,1,1,R
+Lijiang Tower,Control Center,FL,KR,3:02,26,0,5,2,2,R
+Lijiang Tower,Control Center,FL,KR,4:06,7,0,5,0,0,R
+Lijiang Tower,Control Center,FL,KR,4:38,23,1,5,2,4,B
+King's Row,Attack,FL,KR,0:36,20,5,0,0,1,B
+King's Row,Attack,FL,KR,1:17,0,1,0,0,0,B
+King's Row,Attack,FL,KR,1:57,19,1,4,0,2,B
+King's Row,Attack,FL,KR,2:38,11,5,0,2,0,B
+King's Row,Attack,FL,KR,3:13,6,2,1,1,2,R
+King's Row,Attack,FL,KR,3:30,26,4,1,2,0,B
+King's Row,Attack,FL,KR,4:53,8,0,4,0,0,R
+King's Row,Attack,FL,KR,5:23,21,5,1,0,3,B
+King's Row,Attack,FL,KR,5:59,20,0,3,0,1,R
+King's Row,Attack,FL,KR,6:46,1,0,1,1,0,R
+King's Row,Attack,FL,KR,7:03,9,2,1,0,1,B
+King's Row,Attack,FL,KR,7:30,35,0,7,0,1,R
+King's Row,Defense,FL,KR,0:41,26,3,6,0,0,B
+King's Row,Defense,FL,KR,2:12,26,0,6,1,0,R
+King's Row,Defense,FL,KR,2:56,19,4,0,0,3,B
+King's Row,Defense,FL,KR,3:30,6,0,2,2,0,R
+King's Row,Defense,FL,KR,3:43,8,1,0,0,0,B
+King's Row,Defense,FL,KR,4:24,10,2,0,2,0,B
+King's Row,Defense,FL,KR,5:12,0,1,0,0,0,B
+King's Row,Defense,FL,KR,5:27,12,1,0,0,1,B
+King's Row,Defense,FL,KR,6:15,3,0,2,0,1,R
+King's Row,Defense,FL,KR,6:25,20,0,5,0,1,R
+King's Row,Defense,FL,KR,7:05,2,1,1,0,0,B
+King's Row,Defense,FL,KR,7:56,12,2,1,0,1,B
+King's Row,Defense,FL,KR,8:12,26,5,0,2,3,B
+Temple of Anubis,Defense,FL,KR,0:41,15,1,5,0,0,R
+Temple of Anubis,Defense,FL,KR,1:24,6,0,3,0,0,R
+Temple of Anubis,Defense,FL,KR,1:41,44,0,9,3,4,R
+Temple of Anubis,Attack,FL,KR,0:14,0,0,1,0,0,R
+Temple of Anubis,Attack,FL,KR,0:32,32,2,4,0,2,R
+Temple of Anubis,Attack,FL,KR,1:37,17,3,2,0,1,B
+Temple of Anubis,Attack,FL,KR,2:06,19,1,3,1,2,R
+Temple of Anubis,Attack,FL,KR,2:46,27,0,4,0,1,R
+Temple of Anubis,Attack,FL,KR,3:29,34,0,7,3,3,R
+Rialto,Attack,FL,KR,0:49,0,1,0,0,0,B
+Rialto,Attack,FL,KR,1:07,46,1,5,1,4,R
+Rialto,Attack,FL,KR,2:35,32,3,5,4,6,B
+Rialto,Attack,FL,KR,3:31,6,2,0,0,0,B
+Rialto,Attack,FL,KR,3:42,31,6,1,2,1,B
+Rialto,Attack,FL,KR,4:45,15,4,1,1,0,B
+Rialto,Attack,FL,KR,5:23,18,4,1,2,2,B
+Rialto,Attack,FL,KR,6:07,16,2,6,1,3,B
+Rialto,Attack,FL,KR,7:06,32,2,3,0,1,B
+Rialto,Attack,FL,KR,8:00,13,5,1,2,1,R
+Rialto,Attack,FL,KR,8:38,5,4,1,0,0,R
+Rialto,Defense,FL,KR,0:27,19,1,6,0,0,R
+Rialto,Defense,FL,KR,1:10,19,0,6,1,1,R
+Rialto,Defense,FL,KR,1:51,28,0,7,1,2,R
+Rialto,Defense,FL,KR,2:44,2,1,2,0,0,R
+Rialto,Defense,FL,KR,3:11,17,1,1,3,3,R
+Rialto,Defense,FL,KR,4:02,34,1,4,2,1,R
+Rialto,Defense,FL,KR,5:00,9,1,3,1,3,B
+Rialto,Defense,FL,KR,5:36,9,1,1,0,0,B
+Rialto,Defense,FL,KR,6:17,25,4,0,3,2,B
+Rialto,Defense,FL,KR,7:05,12,1,1,0,1,R
+Rialto,Defense,FL,KR,7:45,11,3,0,2,2,B
+Rialto,Defense,FL,KR,8:23,20,4,1,3,2,B
+Nepal,Shrine,FL,KR,1:05,10,2,0,1,3,B
+Nepal,Shrine,FL,KR,1:52,32,1,7,3,2,R
+Nepal,Shrine,FL,KR,3:10,20,2,2,1,2,R
+Nepal,Shrine,FL,KR,4:05,27,0,6,0,2,R
+Nepal,Shrine,FL,KR,4:53,11,1,1,1,1,R
+Nepal,Shrine,FL,KR,5:09,58,7,3,2,5,B
+Nepal,Village,FL,KR,0:22,0,0,1,0,0,R
+Nepal,Village,FL,KR,0:41,0,0,1,0,0,R
+Nepal,Village,FL,KR,0:55,69,8,10,4,5,B
+Nepal,Village,FL,KR,2:33,22,2,6,1,2,R
+Nepal,Village,FL,KR,3:18,8,0,4,0,0,R
+Nepal,Village,FL,KR,3:54,17,0,4,2,1,R
+Nepal,Sanctum,FL,KR,0:38,11,0,5,0,0,R
+Nepal,Sanctum,FL,KR,1:15,29,2,5,0,0,B
+Nepal,Sanctum,FL,KR,2:06,21,5,0,1,3,B
+Nepal,Sanctum,FL,KR,3:11,27,7,1,2,0,B
+Nepal,Sanctum,FL,KR,3:54,23,0,6,1,1,R
+Nepal,Sanctum,FL,KR,4:26,54,6,6,3,4,R
+Nepal,Sanctum,FL,KR,5:40,17,0,5,0,2,R
+Lijiang Tower,Garden,HK,KR,0:24,10,0,6,0,0,R
+Lijiang Tower,Garden,HK,KR,0:56,5,0,1,0,0,R
+Lijiang Tower,Garden,HK,KR,1:24,15,0,2,1,1,R
+Lijiang Tower,Garden,HK,KR,2:06,2,0,1,0,2,R
+Lijiang Tower,Garden,HK,KR,2:33,15,6,0,0,0,B
+Lijiang Tower,Garden,HK,KR,2:58,7,2,0,1,2,B
+Lijiang Tower,Garden,HK,KR,3:20,25,1,6,2,2,R
+Lijiang Tower,Control Center,HK,KR,0:19,0,0,1,0,0,R
+Lijiang Tower,Control Center,HK,KR,0:44,2,1,1,0,0,R
+Lijiang Tower,Control Center,HK,KR,1:03,16,2,6,1,2,B
+Lijiang Tower,Control Center,HK,KR,1:34,12,0,5,1,1,R
+Lijiang Tower,Control Center,HK,KR,2:19,18,1,5,2,2,R
+Lijiang Tower,Control Center,HK,KR,3:02,2,1,2,0,0,R
+King's Row,Attack,HK,KR,0:09,14,1,3,0,0,B
+King's Row,Attack,HK,KR,0:42,22,2,5,0,0,R
+King's Row,Attack,HK,KR,1:36,4,1,1,2,0,R
+King's Row,Attack,HK,KR,1:48,17,0,2,0,2,R
+King's Row,Attack,HK,KR,3:12,0,0,1,0,0,R
+King's Row,Attack,HK,KR,3:20,24,1,4,1,2,R
+King's Row,Attack,HK,KR,4:05,28,1,6,2,3,B
+King's Row,Defense,HK,KR,0:39,20,5,0,1,0,B
+King's Row,Defense,HK,KR,1:21,0,1,0,0,0,B
+King's Row,Defense,HK,KR,1:59,6,1,1,2,1,R
+King's Row,Defense,HK,KR,2:14,25,1,6,2,2,R
+Horizon Lunar Colony,Attack,HK,KR,0:31,11,1,3,0,0,R
+Horizon Lunar Colony,Attack,HK,KR,1:17,3,2,2,1,1,B
+Horizon Lunar Colony,Attack,HK,KR,1:36,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,HK,KR,2:17,12,0,2,0,0,R
+Horizon Lunar Colony,Attack,HK,KR,3:00,4,1,1,1,0,R
+Horizon Lunar Colony,Attack,HK,KR,3:37,10,0,4,0,0,R
+Horizon Lunar Colony,Attack,HK,KR,3:55,13,0,2,2,1,R
+Horizon Lunar Colony,Defense,HK,KR,1:02,7,1,0,0,1,B
+Horizon Lunar Colony,Defense,HK,KR,1:26,7,0,2,0,1,R
+Rialto,Attack,HK,KR,0:15,0,0,1,0,0,R
+Rialto,Attack,HK,KR,0:35,29,7,0,1,0,B
+Rialto,Attack,HK,KR,1:21,22,4,0,2,0,B
+Rialto,Attack,HK,KR,2:09,41,2,5,3,4,B
+Rialto,Attack,HK,KR,2:55,52,8,3,4,3,B
+Rialto,Attack,HK,KR,4:17,22,0,3,0,1,R
+Rialto,Attack,HK,KR,4:54,39,4,4,4,3,R
+Rialto,Attack,HK,KR,5:49,6,1,3,0,1,R
+Rialto,Attack,HK,KR,6:42,0,0,1,0,0,R
+Rialto,Attack,HK,KR,7:09,27,2,4,1,2,R
+Rialto,Attack,HK,KR,7:53,34,1,8,1,3,R
+Rialto,Defense,HK,KR,0:27,23,2,3,0,0,B
+Rialto,Defense,HK,KR,1:19,31,1,4,3,1,R
+Rialto,Defense,HK,KR,2:19,33,1,6,1,2,R
+Rialto,Defense,HK,KR,3:44,30,3,7,4,3,R
+Ilios,Lighthouse,TW,JP,0:20,0,1,0,0,0,B
+Ilios,Lighthouse,TW,JP,0:40,20,2,5,0,1,R
+Ilios,Lighthouse,TW,JP,1:40,40,5,6,2,3,B
+Ilios,Lighthouse,TW,JP,2:46,20,5,2,0,1,B
+Ilios,Lighthouse,TW,JP,3:34,32,3,6,3,3,B
+Ilios,Well,TW,JP,0:24,7,4,1,0,0,B
+Ilios,Well,TW,JP,0:45,2,0,1,1,0,R
+Ilios,Well,TW,JP,1:04,48,6,5,2,2,B
+Ilios,Well,TW,JP,2:14,33,1,6,2,3,R
+Ilios,Well,TW,JP,3:21,11,6,1,2,1,B
+Ilios,Well,TW,JP,3:46,17,6,0,1,0,B
+Ilios,Ruins,TW,JP,0:33,7,1,1,0,0,B
+Ilios,Ruins,TW,JP,0:58,0,0,1,0,0,R
+Ilios,Ruins,TW,JP,1:24,14,0,3,2,0,R
+Ilios,Ruins,TW,JP,1:56,0,0,1,0,0,R
+Ilios,Ruins,TW,JP,2:17,45,1,9,2,2,R
+King's Row,Attack,TW,JP,0:36,5,1,2,0,0,R
+King's Row,Attack,TW,JP,1:06,7,1,1,0,1,B
+King's Row,Attack,TW,JP,1:37,4,0,2,0,0,R
+King's Row,Attack,TW,JP,1:59,0,0,1,0,0,R
+King's Row,Attack,TW,JP,2:18,21,5,1,2,1,B
+King's Row,Attack,TW,JP,3:23,12,5,1,1,1,B
+King's Row,Attack,TW,JP,4:02,39,7,1,3,2,B
+King's Row,Attack,TW,JP,5:05,26,6,2,3,1,R
+King's Row,Attack,TW,JP,5:43,20,3,2,2,2,B
+King's Row,Defense,TW,JP,0:25,5,1,1,0,0,B
+King's Row,Defense,TW,JP,0:46,8,2,1,0,0,B
+King's Row,Defense,TW,JP,1:16,16,4,3,2,0,B
+King's Row,Defense,TW,JP,1:55,34,1,6,3,2,R
+King's Row,Defense,TW,JP,3:00,34,2,4,1,1,B
+King's Row,Defense,TW,JP,4:06,23,1,7,1,3,R
+King's Row,Defense,TW,JP,4:50,16,4,0,1,0,B
+King's Row,Defense,TW,JP,5:31,13,2,1,0,0,B
+King's Row,Defense,TW,JP,6:10,72,1,14,3,6,R
+King's Row,Defense,TW,JP,0:38,35,6,2,0,0,R
+King's Row,Attack,TW,JP,0:39,13,5,0,1,0,B
+Temple of Anubis,Defense,TW,JP,0:14,0,1,0,0,0,B
+Temple of Anubis,Defense,TW,JP,0:38,5,2,0,1,0,B
+Temple of Anubis,Defense,TW,JP,1:23,17,1,6,1,1,R
+Temple of Anubis,Defense,TW,JP,2:07,55,0,11,3,5,R
+Temple of Anubis,Attack,TW,JP,1:00,3,0,3,0,0,R
+Temple of Anubis,Attack,TW,JP,1:30,4,0,1,0,1,R
+Temple of Anubis,Attack,TW,JP,1:54,8,0,2,0,1,R
+Temple of Anubis,Attack,TW,JP,2:31,24,4,2,2,1,R
+Temple of Anubis,Attack,TW,JP,3:33,16,2,4,0,0,R
+Temple of Anubis,Attack,TW,JP,4:12,44,8,4,2,5,B
+Temple of Anubis,Attack,TW,JP,5:19,0,0,1,0,0,R
+Temple of Anubis,Attack,TW,JP,5:59,29,6,4,2,3,B
+Temple of Anubis,Attack,TW,JP,6:39,58,4,5,1,4,B
+Temple of Anubis,Attack,TW,JP,8:02,24,1,2,2,1,R
+Rialto,Attack,TW,JP,0:24,0,0,1,0,0,R
+Rialto,Attack,TW,JP,0:45,0,1,0,0,0,B
+Rialto,Attack,TW,JP,0:57,12,1,0,0,2,B
+Rialto,Attack,TW,JP,1:19,22,3,0,2,0,B
+Rialto,Attack,TW,JP,2:03,21,1,4,1,1,R
+Rialto,Attack,TW,JP,2:42,18,2,4,0,2,B
+Rialto,Attack,TW,JP,3:35,29,2,4,2,1,R
+Rialto,Attack,TW,JP,4:11,14,0,4,0,1,R
+Rialto,Defense,TW,JP,0:35,41,0,6,0,1,R
+Rialto,Defense,TW,JP,1:40,6,0,1,0,3,R
+Oasis,University,RUS,FL,0:17,0,0,1,0,0,R
+Oasis,University,RUS,FL,0:57,15,1,4,0,0,R
+Oasis,University,RUS,FL,1:41,14,0,6,0,0,R
+Oasis,University,RUS,FL,2:18,17,5,1,5,4,B
+Oasis,University,RUS,FL,3:07,10,6,0,0,0,B
+Oasis,University,RUS,FL,3:47,8,5,1,1,0,B
+Oasis,University,RUS,FL,4:25,43,11,0,6,2,B
+Oasis,City Center,RUS,FL,0:25,20,2,6,0,0,R
+Oasis,City Center,RUS,FL,1:22,42,7,0,3,2,B
+Oasis,City Center,RUS,FL,2:30,25,3,2,1,1,B
+Oasis,City Center,RUS,FL,3:42,40,2,4,2,2,B
+Oasis,City Center,RUS,FL,4:46,13,2,0,1,2,B
+Oasis,City Center,RUS,FL,5:14,14,3,0,1,1,B
+Oasis,City Center,RUS,FL,5:34,26,5,2,1,1,B
+King's Row,Attack,RUS,FL,0:23,11,0,3,0,0,R
+King's Row,Attack,RUS,FL,1:15,24,4,1,3,2,B
+King's Row,Attack,RUS,FL,2:20,12,0,4,2,3,R
+King's Row,Attack,RUS,FL,3:09,26,0,4,1,1,R
+King's Row,Attack,RUS,FL,4:09,9,0,5,0,2,R
+King's Row,Attack,RUS,FL,4:43,17,5,1,3,0,B
+King's Row,Attack,RUS,FL,5:26,22,6,1,1,2,B
+King's Row,Attack,RUS,FL,6:10,55,12,0,6,5,B
+King's Row,Defense,RUS,FL,0:48,1,0,2,0,0,R
+King's Row,Defense,RUS,FL,1:09,3,0,3,0,0,R
+King's Row,Defense,RUS,FL,2:06,0,1,0,0,0,B
+King's Row,Defense,RUS,FL,2:37,35,1,5,4,2,B
+King's Row,Defense,RUS,FL,3:39,27,5,1,3,2,B
+King's Row,Defense,RUS,FL,4:25,6,1,0,1,0,B
+King's Row,Defense,RUS,FL,4:57,10,4,0,2,0,B
+King's Row,Defense,RUS,FL,5:32,3,1,0,1,1,B
+King's Row,Defense,RUS,FL,5:41,17,2,1,0,0,B
+King's Row,Defense,RUS,FL,6:23,24,2,2,2,0,B
+King's Row,Defense,RUS,FL,6:57,9,1,0,3,3,B
+King's Row,Defense,RUS,FL,7:33,20,1,4,1,2,R
+King's Row,Defense,RUS,FL,0:50,9,5,0,0,1,B
+King's Row,Attack,RUS,FL,0:48,5,0,2,0,0,R
+King's Row,Attack,RUS,FL,1:16,43,2,8,3,5,B
+Volskaya Industries,Attack,RUS,FL,0:39,37,7,2,1,1,B
+Volskaya Industries,Attack,RUS,FL,1:58,31,4,0,3,2,B
+Volskaya Industries,Attack,RUS,FL,2:39,20,4,2,0,1,R
+Volskaya Industries,Defense,RUS,FL,0:43,13,2,2,1,1,B
+Volskaya Industries,Defense,RUS,FL,1:14,35,6,3,3,1,R
+Volskaya Industries,Defense,RUS,FL,2:15,9,1,0,1,2,B
+Volskaya Industries,Defense,RUS,FL,3:07,49,2,7,4,4,B
+Volskaya Industries,Defense,RUS,FL,4:35,6,1,2,1,0,B
+Volskaya Industries,Defense,RUS,FL,5:00,16,1,4,1,1,R
+Volskaya Industries,Defense,RUS,FL,0:43,0,1,0,0,0,B
+Volskaya Industries,Defense,RUS,FL,1:27,22,0,7,0,1,R
+Volskaya Industries,Defense,RUS,FL,2:46,0,0,1,0,0,R
+Volskaya Industries,Defense,RUS,FL,2:54,37,1,12,0,1,R
+Volskaya Industries,Attack,RUS,FL,0:48,6,1,2,0,0,B
+Volskaya Industries,Attack,RUS,FL,1:28,14,1,2,1,1,R
+Volskaya Industries,Attack,RUS,FL,1:47,35,1,3,2,3,B
+Volskaya Industries,Attack,RUS,FL,2:50,6,1,1,2,2,B
+Volskaya Industries,Attack,RUS,FL,3:12,19,6,1,0,1,B
+Volskaya Industries,Attack,RUS,FL,3:54,69,8,1,6,3,R
+Volskaya Industries,Attack,RUS,FL,5:18,24,0,4,1,0,R
+Dorado,Attack,RUS,FL,0:18,0,0,1,0,0,R
+Dorado,Attack,RUS,FL,0:51,0,0,1,0,0,R
+Dorado,Attack,RUS,FL,1:13,15,0,2,0,2,R
+Dorado,Attack,RUS,FL,1:57,29,7,1,5,3,R
+Dorado,Attack,RUS,FL,3:01,22,3,1,0,0,B
+Dorado,Attack,RUS,FL,3:51,8,1,0,1,1,B
+Dorado,Attack,RUS,FL,4:05,29,6,1,1,1,B
+Dorado,Attack,RUS,FL,4:57,15,1,2,0,0,R
+Dorado,Attack,RUS,FL,5:28,10,2,0,2,1,B
+Dorado,Attack,RUS,FL,5:48,31,7,1,2,2,B
+Dorado,Defense,RUS,FL,1:01,11,2,2,1,0,R
+Dorado,Defense,RUS,FL,1:36,18,0,5,3,5,R
+Dorado,Defense,RUS,FL,2:42,0,0,1,0,0,R
+Dorado,Defense,RUS,FL,3:09,15,2,3,0,1,R
+Dorado,Defense,RUS,FL,3:30,29,0,5,3,3,R
+Dorado,Defense,RUS,FL,4:49,51,6,4,1,2,R
+Dorado,Defense,RUS,FL,6:39,0,0,1,0,0,R
+Dorado,Defense,RUS,FL,6:44,27,0,6,2,2,R
+Dorado,Defense,RUS,FL,0:47,9,1,6,0,0,R
+Dorado,Defense,RUS,FL,1:50,20,1,4,1,1,R
+Dorado,Defense,RUS,FL,2:29,0,0,1,0,0,R
+Dorado,Defense,RUS,FL,2:38,15,2,1,1,0,B
+Dorado,Attack,RUS,FL,0:53,0,1,0,0,0,B
+Dorado,Attack,RUS,FL,1:08,14,4,0,0,0,B
+Dorado,Attack,RUS,FL,1:53,29,3,4,3,3,B
+Oasis,City Center,TW,HK,0:27,19,3,0,1,0,B
+Oasis,City Center,TW,HK,1:14,39,3,2,4,2,R
+Oasis,City Center,TW,HK,2:34,24,5,1,1,1,B
+Oasis,University,TW,HK,0:25,23,5,2,0,0,B
+Oasis,University,TW,HK,1:11,12,4,2,2,2,R
+Oasis,University,TW,HK,1:49,25,2,6,0,2,R
+Oasis,University,TW,HK,2:47,20,4,6,2,2,R
+Oasis,University,TW,HK,3:32,32,7,2,4,4,R
+Oasis,University,TW,HK,4:34,12,5,1,2,0,B
+Eichenwalde,Defense,TW,HK,0:38,24,3,6,0,2,B
+Eichenwalde,Defense,TW,HK,1:23,12,2,1,0,0,R
+Eichenwalde,Defense,TW,HK,1:47,11,1,1,2,0,B
+Eichenwalde,Defense,TW,HK,2:06,17,0,3,0,2,R
+Eichenwalde,Defense,TW,HK,2:44,10,0,1,2,2,R
+Eichenwalde,Defense,TW,HK,3:12,47,8,5,2,1,R
+Eichenwalde,Defense,TW,HK,4:33,20,2,2,1,1,R
+Eichenwalde,Defense,TW,HK,5:05,3,1,0,0,0,B
+Eichenwalde,Defense,TW,HK,5:43,24,4,0,3,2,B
+Eichenwalde,Defense,TW,HK,6:26,22,6,1,0,2,B
+Eichenwalde,Attack,TW,HK,0:35,19,4,1,0,0,R
+Eichenwalde,Attack,TW,HK,1:43,8,1,1,1,2,B
+Eichenwalde,Attack,TW,HK,1:55,11,1,0,2,1,B
+Eichenwalde,Attack,TW,HK,2:21,16,1,5,1,1,R
+Eichenwalde,Attack,TW,HK,3:14,45,8,3,1,2,R
+Temple of Anubis,Defense,TW,HK,0:50,0,1,0,0,0,B
+Temple of Anubis,Defense,TW,HK,1:21,17,2,0,0,0,B
+Temple of Anubis,Defense,TW,HK,2:27,9,1,0,3,2,B
+Temple of Anubis,Defense,TW,HK,3:00,17,0,5,0,1,R
+Temple of Anubis,Defense,TW,HK,4:04,0,0,1,0,0,R
+Temple of Anubis,Defense,TW,HK,4:14,7,2,1,1,1,B
+Temple of Anubis,Defense,TW,HK,4:36,0,1,0,0,0,B
+Temple of Anubis,Defense,TW,HK,5:19,32,4,3,3,3,R
+Temple of Anubis,Defense,TW,HK,6:15,1,1,0,1,0,B
+Temple of Anubis,Defense,TW,HK,6:49,42,6,0,1,2,B
+Temple of Anubis,Defense,TW,HK,7:51,18,3,1,2,2,B
+Temple of Anubis,Attack,TW,HK,1:17,2,2,1,0,0,B
+Temple of Anubis,Attack,TW,HK,1:42,35,6,0,3,2,B
+Temple of Anubis,Attack,TW,HK,2:53,23,0,3,3,1,R
+Temple of Anubis,Attack,TW,HK,3:41,71,13,4,5,3,B
+Rialto,Defense,TW,HK,0:22,18,5,0,0,2,B
+Rialto,Defense,TW,HK,0:56,29,3,3,1,0,B
+Rialto,Defense,TW,HK,1:37,20,1,3,0,2,R
+Rialto,Defense,TW,HK,2:27,16,3,1,1,2,B
+Rialto,Defense,TW,HK,3:02,30,6,0,0,0,B
+Rialto,Defense,TW,HK,3:54,17,6,0,2,0,B
+Rialto,Attack,TW,HK,0:38,19,1,3,0,0,R
+Rialto,Attack,TW,HK,1:15,22,3,5,0,2,B
+Rialto,Attack,TW,HK,2:10,20,0,2,1,1,R
+Rialto,Attack,TW,HK,2:52,0,0,1,0,0,R
+Rialto,Attack,TW,HK,3:15,63,9,1,4,4,B
+Nepal,Sanctum,JP,KR,0:32,24,5,2,0,0,B
+Nepal,Sanctum,JP,KR,1:41,12,1,3,0,0,R
+Nepal,Sanctum,JP,KR,2:16,0,0,1,0,0,R
+Nepal,Sanctum,JP,KR,2:20,21,0,3,1,2,R
+Nepal,Sanctum,JP,KR,3:03,2,0,1,0,1,R
+Nepal,Sanctum,JP,KR,3:25,26,1,5,2,1,R
+Nepal,Village,JP,KR,0:17,0,0,1,0,0,R
+Nepal,Village,JP,KR,1:09,6,1,3,0,1,B
+Nepal,Village,JP,KR,1:45,28,2,4,2,2,R
+Nepal,Village,JP,KR,2:43,8,0,5,0,0,R
+King's Row,Attack,JP,KR,0:36,4,0,3,0,0,R
+King's Row,Attack,JP,KR,1:13,4,0,3,0,0,R
+King's Row,Attack,JP,KR,1:32,0,0,1,0,0,R
+King's Row,Attack,JP,KR,2:05,9,0,2,0,0,R
+King's Row,Attack,JP,KR,2:53,21,3,6,2,1,R
+King's Row,Attack,JP,KR,3:44,36,1,8,1,2,R
+King's Row,Defense,JP,KR,0:32,34,2,8,0,2,B
+Temple of Anubis,Attack,JP,KR,0:18,0,0,1,0,0,R
+Temple of Anubis,Attack,JP,KR,0:43,0,0,1,0,0,R
+Temple of Anubis,Attack,JP,KR,1:24,9,0,3,0,0,R
+Temple of Anubis,Attack,JP,KR,1:56,23,0,5,2,0,R
+Temple of Anubis,Attack,JP,KR,2:49,13,2,3,1,1,B
+Temple of Anubis,Attack,JP,KR,3:22,35,1,7,2,3,R
+Temple of Anubis,Defense,JP,KR,0:32,24,0,6,0,0,R
+Rialto,Attack,JP,KR,0:50,40,4,6,2,3,R
+Rialto,Attack,JP,KR,1:45,25,1,7,2,3,B
+Rialto,Attack,JP,KR,2:39,0,0,1,0,0,R
+Rialto,Attack,JP,KR,2:56,0,0,1,0,0,R
+Rialto,Attack,JP,KR,3:22,28,4,2,3,3,R
+Rialto,Attack,JP,KR,4:04,2,1,0,0,1,B
+Rialto,Attack,JP,KR,4:33,8,1,6,0,0,R
+Rialto,Defense,JP,KR,0:35,36,1,6,1,2,R
+Lijiang Tower,Night Market,JP,FL,0:52,14,0,4,1,0,R
+Lijiang Tower,Night Market,JP,FL,1:42,32,2,4,2,3,B
+Lijiang Tower,Night Market,JP,FL,2:40,12,0,6,1,0,R
+Lijiang Tower,Garden,JP,FL,0:28,8,0,3,0,0,R
+Lijiang Tower,Garden,JP,FL,1:15,20,6,1,1,0,B
+Lijiang Tower,Garden,JP,FL,2:17,22,0,7,1,2,R
+Lijiang Tower,Garden,JP,FL,3:01,29,2,3,1,1,R
+Lijiang Tower,Garden,JP,FL,3:40,40,2,6,2,2,R
+Eichenwalde,Attack,JP,FL,0:38,40,8,4,0,0,B
+Eichenwalde,Attack,JP,FL,1:51,2,0,1,1,1,R
+Eichenwalde,Attack,JP,FL,2:04,11,0,1,0,0,R
+Eichenwalde,Attack,JP,FL,2:42,13,0,3,1,3,R
+Eichenwalde,Attack,JP,FL,3:42,9,0,3,0,0,R
+Eichenwalde,Attack,JP,FL,4:31,0,0,1,0,0,R
+Eichenwalde,Attack,JP,FL,4:40,7,0,1,0,0,R
+Eichenwalde,Attack,JP,FL,4:51,11,1,0,2,2,B
+Eichenwalde,Attack,JP,FL,5:19,21,2,6,1,1,R
+Eichenwalde,Attack,JP,FL,6:02,27,1,4,0,4,R
+Eichenwalde,Attack,JP,FL,6:34,21,0,6,3,1,R
+Eichenwalde,Defense,JP,FL,0:32,10,6,1,0,0,B
+Eichenwalde,Defense,JP,FL,1:01,122,8,14,6,5,B
+Eichenwalde,Defense,JP,FL,3:36,17,0,5,0,2,R
+Temple of Anubis,Attack,JP,FL,0:45,11,0,5,0,0,R
+Temple of Anubis,Attack,JP,FL,1:24,10,0,1,0,1,R
+Temple of Anubis,Attack,JP,FL,2:12,21,7,0,2,1,B
+Temple of Anubis,Attack,JP,FL,3:06,3,1,0,0,1,B
+Temple of Anubis,Attack,JP,FL,3:26,47,8,4,3,1,B
+Temple of Anubis,Attack,JP,FL,5:21,4,0,2,0,0,R
+Temple of Anubis,Attack,JP,FL,6:10,0,0,1,0,0,R
+Temple of Anubis,Attack,JP,FL,6:52,36,3,5,5,5,B
+Temple of Anubis,Attack,JP,FL,8:09,18,3,5,1,0,B
+Temple of Anubis,Defense,JP,FL,0:24,9,1,1,0,0,B
+Temple of Anubis,Defense,JP,FL,0:59,15,0,6,0,0,R
+Temple of Anubis,Defense,JP,FL,1:29,0,1,0,0,0,B
+Temple of Anubis,Defense,JP,FL,2:07,35,0,6,3,3,R
+Watchpoint: Gibraltar,Attack,JP,FL,0:47,0,0,1,0,0,R
+Watchpoint: Gibraltar,Attack,JP,FL,1:40,30,3,3,2,3,B
+Watchpoint: Gibraltar,Attack,JP,FL,2:29,25,4,5,2,0,R
+Watchpoint: Gibraltar,Attack,JP,FL,3:24,8,0,3,0,0,R
+Watchpoint: Gibraltar,Attack,JP,FL,3:58,6,2,1,0,1,B
+Watchpoint: Gibraltar,Attack,JP,FL,4:07,42,8,0,3,2,B
+Watchpoint: Gibraltar,Attack,JP,FL,5:09,20,1,5,1,1,B
+Watchpoint: Gibraltar,Attack,JP,FL,6:03,3,0,2,0,1,R
+Watchpoint: Gibraltar,Attack,JP,FL,6:48,0,1,0,0,0,B
+Watchpoint: Gibraltar,Attack,JP,FL,7:08,30,8,1,1,1,B
+Watchpoint: Gibraltar,Attack,JP,FL,7:57,18,0,2,2,2,R
+Watchpoint: Gibraltar,Attack,JP,FL,8:48,31,1,7,1,1,R
+Watchpoint: Gibraltar,Defense,JP,FL,0:11,17,1,3,0,0,B
+Watchpoint: Gibraltar,Defense,JP,FL,0:54,5,4,1,0,0,R
+Watchpoint: Gibraltar,Defense,JP,FL,1:21,53,3,7,3,4,B
+Watchpoint: Gibraltar,Defense,JP,FL,2:31,9,1,1,0,0,B
+Watchpoint: Gibraltar,Defense,JP,FL,2:52,34,3,6,4,2,B
+Watchpoint: Gibraltar,Defense,JP,FL,4:00,17,2,1,1,0,B
+Watchpoint: Gibraltar,Defense,JP,FL,4:22,33,4,2,0,1,R
+Watchpoint: Gibraltar,Defense,JP,FL,5:31,29,1,8,1,1,R
+Lijiang Tower,Control Center,TW,RUS,0:48,14,5,0,0,0,B
+Lijiang Tower,Control Center,TW,RUS,1:19,26,0,3,1,0,R
+Lijiang Tower,Control Center,TW,RUS,2:23,9,0,4,1,3,R
+Lijiang Tower,Control Center,TW,RUS,2:46,15,0,5,1,2,R
+Lijiang Tower,Control Center,TW,RUS,3:23,47,3,8,4,4,R
+Lijiang Tower,Night Market,TW,RUS,0:46,16,0,6,0,0,R
+Lijiang Tower,Night Market,TW,RUS,1:31,16,0,4,0,3,R
+Lijiang Tower,Night Market,TW,RUS,2:05,12,0,1,0,2,R
+Lijiang Tower,Night Market,TW,RUS,2:38,8,1,0,0,0,B
+Lijiang Tower,Night Market,TW,RUS,2:53,28,2,4,3,3,R
+King's Row,Defense,TW,RUS,0:38,10,0,6,0,0,R
+King's Row,Defense,TW,RUS,1:29,9,0,5,0,0,R
+King's Row,Defense,TW,RUS,2:00,20,1,2,1,2,R
+King's Row,Defense,TW,RUS,2:27,45,3,7,4,1,R
+King's Row,Defense,TW,RUS,3:32,28,0,5,0,3,R
+King's Row,Defense,TW,RUS,4:17,22,4,0,0,1,B
+King's Row,Defense,TW,RUS,5:00,14,4,1,1,0,B
+King's Row,Defense,TW,RUS,5:39,39,1,11,2,5,R
+King's Row,Attack,TW,RUS,0:46,17,1,2,0,0,R
+King's Row,Attack,TW,RUS,1:27,13,0,3,0,0,R
+King's Row,Attack,TW,RUS,1:56,18,1,2,2,3,R
+King's Row,Attack,TW,RUS,2:29,0,0,1,0,0,R
+King's Row,Attack,TW,RUS,2:52,40,5,3,2,2,R
+King's Row,Attack,TW,RUS,4:09,22,6,1,1,0,B
+King's Row,Attack,TW,RUS,5:01,6,0,2,0,3,R
+King's Row,Attack,TW,RUS,5:23,0,0,1,0,0,R
+King's Row,Attack,TW,RUS,6:03,27,1,4,1,3,R
+King's Row,Attack,TW,RUS,6:45,5,0,4,0,0,R
+Temple of Anubis,Defense,TW,RUS,0:18,0,1,0,0,0,B
+Temple of Anubis,Defense,TW,RUS,0:38,14,2,1,0,0,B
+Temple of Anubis,Defense,TW,RUS,1:15,34,4,1,3,2,R
+Temple of Anubis,Defense,TW,RUS,2:28,15,3,2,2,2,B
+Temple of Anubis,Defense,TW,RUS,3:01,32,1,6,0,1,R
+Temple of Anubis,Defense,TW,RUS,4:10,18,6,0,1,1,B
+Temple of Anubis,Defense,TW,RUS,4:46,0,1,0,0,0,B
+Temple of Anubis,Defense,TW,RUS,5:07,26,5,0,3,1,B
+Temple of Anubis,Defense,TW,RUS,6:19,6,1,0,0,0,B
+Temple of Anubis,Defense,TW,RUS,6:51,62,2,13,3,6,B
+Temple of Anubis,Attack,TW,RUS,0:29,3,1,1,0,0,R
+Temple of Anubis,Attack,TW,RUS,1:37,24,2,3,0,2,B
+Temple of Anubis,Attack,TW,RUS,2:15,35,6,2,4,3,B
+Temple of Anubis,Attack,TW,RUS,3:32,4,1,0,2,0,B
+Temple of Anubis,Attack,TW,RUS,3:54,9,0,2,0,1,R
+Temple of Anubis,Attack,TW,RUS,4:54,2,0,1,0,0,R
+Temple of Anubis,Attack,TW,RUS,5:51,16,0,3,2,1,R
+Temple of Anubis,Attack,TW,RUS,6:17,7,0,1,0,1,R
+Temple of Anubis,Attack,TW,RUS,7:02,11,2,0,2,2,B
+Temple of Anubis,Attack,TW,RUS,8:17,1,0,2,0,0,R
+Rialto,Defense,TW,RUS,0:25,0,1,0,0,0,B
+Rialto,Defense,TW,RUS,1:05,35,7,5,2,1,R
+Rialto,Defense,TW,RUS,2:06,21,1,3,3,3,B
+Rialto,Defense,TW,RUS,2:33,31,0,5,1,4,R
+Rialto,Defense,TW,RUS,3:51,22,1,3,0,0,R
+Rialto,Defense,TW,RUS,4:44,12,4,0,2,0,B
+Rialto,Defense,TW,RUS,5:25,8,0,6,0,2,R
+Rialto,Defense,TW,RUS,6:01,11,0,5,0,2,R
+Rialto,Attack,TW,RUS,0:40,0,0,1,0,0,R
+Rialto,Attack,TW,RUS,0:54,11,0,1,0,2,R
+Rialto,Attack,TW,RUS,1:29,33,2,6,2,2,R
+Rialto,Attack,TW,RUS,2:43,11,0,4,0,0,R
+Rialto,Attack,TW,RUS,3:32,53,2,10,0,2,B
+Nepal,Shrine,HK,JP,0:19,19,1,2,0,1,R
+Nepal,Shrine,HK,JP,1:02,20,0,4,0,2,R
+Nepal,Shrine,HK,JP,1:43,15,1,3,3,4,R
+Nepal,Shrine,HK,JP,2:21,7,0,3,0,1,R
+Nepal,Shrine,HK,JP,2:46,0,1,0,0,0,B
+Nepal,Sanctum,HK,JP,0:32,22,5,0,0,1,B
+Nepal,Sanctum,HK,JP,1:26,39,6,1,3,2,R
+Nepal,Sanctum,HK,JP,2:48,10,0,3,0,0,R
+Nepal,Sanctum,HK,JP,3:51,30,3,6,1,1,R
+Nepal,Sanctum,HK,JP,4:26,24,1,4,2,4,R
+Eichenwalde,Attack,HK,JP,0:24,19,1,5,0,0,R
+Eichenwalde,Attack,HK,JP,1:24,18,3,2,0,1,B
+Eichenwalde,Attack,HK,JP,1:54,8,1,0,0,0,B
+Eichenwalde,Attack,HK,JP,2:30,12,1,2,0,0,R
+Eichenwalde,Attack,HK,JP,2:59,22,1,4,2,2,R
+Eichenwalde,Attack,HK,JP,3:41,55,6,7,3,5,B
+Eichenwalde,Defense,HK,JP,0:50,72,4,12,4,5,B
+Temple of Anubis,Attack,HK,JP,0:35,0,0,1,0,1,R
+Temple of Anubis,Attack,HK,JP,0:52,0,1,0,0,0,B
+Temple of Anubis,Attack,HK,JP,1:09,22,3,3,1,1,B
+Temple of Anubis,Attack,HK,JP,1:36,26,1,3,2,2,R
+Temple of Anubis,Attack,HK,JP,2:28,9,0,3,0,2,R
+Temple of Anubis,Attack,HK,JP,3:03,28,4,2,2,1,R
+Temple of Anubis,Attack,HK,JP,3:43,8,0,6,0,2,R
+Temple of Anubis,Defense,HK,JP,0:37,48,3,9,0,0,B
+Rialto,Attack,HK,JP,0:37,0,1,0,0,0,B
+Rialto,Attack,HK,JP,0:54,17,2,6,0,1,B
+Rialto,Attack,HK,JP,1:59,12,3,0,1,0,B
+Rialto,Attack,HK,JP,2:33,8,3,0,0,1,B
+Rialto,Attack,HK,JP,2:52,27,1,5,1,5,B
+Rialto,Attack,HK,JP,4:02,28,4,5,1,3,R
+Rialto,Defense,HK,JP,0:34,13,0,3,0,0,R
+Ilios,Ruins,RUS,KR,0:59,1,1,0,0,1,B
+Ilios,Ruins,RUS,KR,1:25,10,3,0,1,0,B
+Ilios,Ruins,RUS,KR,2:06,39,1,9,0,1,R
+Ilios,Ruins,RUS,KR,3:11,11,1,2,0,1,R
+Ilios,Ruins,RUS,KR,3:37,35,2,5,3,2,R
+Ilios,Ruins,RUS,KR,4:39,18,0,6,0,3,R
+Ilios,Well,RUS,KR,0:23,20,0,4,0,1,R
+Ilios,Well,RUS,KR,1:19,19,0,5,0,1,R
+Ilios,Well,RUS,KR,2:06,21,0,6,0,0,R
+Ilios,Well,RUS,KR,2:43,54,5,8,4,4,B
+Ilios,Well,RUS,KR,3:48,17,1,4,0,2,R
+Ilios,Well,RUS,KR,4:38,4,1,2,0,0,R
+King's Row,Attack,RUS,KR,0:26,50,9,1,0,1,B
+King's Row,Attack,RUS,KR,2:11,55,7,4,1,1,R
+King's Row,Attack,RUS,KR,4:00,24,0,5,0,0,R
+King's Row,Attack,RUS,KR,4:49,2,0,1,0,0,R
+King's Row,Attack,RUS,KR,5:31,9,1,6,0,0,B
+King's Row,Attack,RUS,KR,6:02,17,0,3,0,2,R
+King's Row,Attack,RUS,KR,6:43,0,1,0,0,0,B
+King's Row,Attack,RUS,KR,7:09,15,2,2,2,1,B
+King's Row,Attack,RUS,KR,7:58,8,1,2,0,2,B
+King's Row,Defense,RUS,KR,0:57,36,1,6,1,0,R
+King's Row,Defense,RUS,KR,2:21,18,0,6,0,2,R
+King's Row,Defense,RUS,KR,3:00,26,5,1,1,2,B
+King's Row,Defense,RUS,KR,4:39,16,0,6,1,1,R
+King's Row,Defense,RUS,KR,5:21,18,0,5,0,3,R
+Volskaya Industries,Attack,RUS,KR,0:37,13,2,4,0,0,R
+Volskaya Industries,Attack,RUS,KR,1:17,11,1,0,0,1,B
+Volskaya Industries,Attack,RUS,KR,1:42,24,1,6,1,1,R
+Volskaya Industries,Attack,RUS,KR,2:40,34,2,3,3,1,R
+Volskaya Industries,Attack,RUS,KR,3:27,62,3,13,3,4,B
+Volskaya Industries,Defense,RUS,KR,0:38,15,0,6,0,0,R
+Dorado,Attack,RUS,KR,0:56,30,0,6,0,1,R
+Dorado,Attack,RUS,KR,1:55,18,0,5,0,0,R
+Dorado,Attack,RUS,KR,2:30,0,0,1,0,0,R
+Dorado,Attack,RUS,KR,3:17,25,1,4,3,1,R
+Dorado,Attack,RUS,KR,3:59,49,3,8,2,5,R
+Dorado,Defense,RUS,KR,0:38,24,2,7,0,1,R
+Nepal,Village,TW,FL,0:14,10,0,5,0,0,R
+Nepal,Village,TW,FL,1:08,0,0,1,0,0,R
+Nepal,Village,TW,FL,1:44,11,1,1,0,1,B
+Nepal,Village,TW,FL,2:18,2,0,1,0,0,R
+Nepal,Village,TW,FL,2:28,16,0,4,0,3,R
+Nepal,Sanctum,TW,FL,0:54,18,1,5,0,0,R
+Nepal,Sanctum,TW,FL,1:41,10,0,1,0,2,R
+Nepal,Sanctum,TW,FL,2:00,13,0,4,0,0,R
+Nepal,Sanctum,TW,FL,2:24,33,2,6,3,2,B
+King's Row,Attack,TW,FL,0:24,30,1,3,0,1,R
+King's Row,Attack,TW,FL,1:13,14,0,4,1,1,R
+King's Row,Attack,TW,FL,1:50,26,0,3,0,4,R
+King's Row,Attack,TW,FL,2:42,15,1,3,0,0,R
+King's Row,Attack,TW,FL,3:04,25,0,4,3,3,R
+King's Row,Attack,TW,FL,3:58,37,3,6,2,4,R
+King's Row,Defense,TW,FL,0:46,24,1,3,1,2,R
+Temple of Anubis,Attack,TW,FL,0:58,16,0,3,0,0,R
+Temple of Anubis,Attack,TW,FL,1:40,19,0,5,1,1,R
+Temple of Anubis,Attack,TW,FL,2:15,0,0,1,0,0,R
+Temple of Anubis,Attack,TW,FL,2:41,38,0,5,2,3,R
+Temple of Anubis,Attack,TW,FL,3:34,52,0,12,2,3,R
+Temple of Anubis,Defense,TW,FL,0:42,33,2,6,0,3,R
+Rialto,Attack,TW,FL,0:26,19,0,3,0,1,R
+Rialto,Attack,TW,FL,1:21,13,2,3,1,2,R
+Rialto,Attack,TW,FL,2:06,22,6,2,3,2,B
+Rialto,Attack,TW,FL,2:46,16,6,1,3,1,R
+Rialto,Attack,TW,FL,3:32,26,4,6,1,1,R
+Rialto,Attack,TW,FL,4:04,15,4,1,1,0,B
+Rialto,Attack,TW,FL,4:46,19,2,6,3,2,R
+Rialto,Attack,TW,FL,6:06,29,1,7,0,1,R
+Rialto,Defense,TW,FL,0:40,10,0,6,0,0,R
+Rialto,Defense,TW,FL,1:21,42,1,5,0,2,R
+Rialto,Defense,TW,FL,2:14,31,0,5,2,4,R
+Rialto,Defense,TW,FL,3:10,11,4,0,3,0,B
+Rialto,Defense,TW,FL,3:55,24,1,4,2,2,R
+Rialto,Defense,TW,FL,4:37,13,0,3,0,1,R
+Nepal,Village,NO,CH,0:17,25,0,4,1,1,R
+Nepal,Village,NO,CH,1:08,32,6,4,3,5,R
+Nepal,Village,NO,CH,2:17,10,6,1,3,2,B
+Nepal,Village,NO,CH,2:59,15,6,2,2,1,R
+Nepal,Village,NO,CH,3:40,25,0,6,0,3,R
+Nepal,Village,NO,CH,4:32,12,1,1,3,2,R
+Nepal,Village,NO,CH,4:57,28,1,5,4,2,R
+Nepal,Shrine,NO,CH,0:42,21,6,1,0,1,B
+Nepal,Shrine,NO,CH,1:30,12,6,0,2,0,B
+Nepal,Shrine,NO,CH,2:03,5,4,0,1,0,B
+Nepal,Shrine,NO,CH,2:32,23,0,4,2,6,R
+Nepal,Shrine,NO,CH,3:08,25,6,1,0,2,B
+Nepal,Sanctum,NO,CH,0:48,30,0,7,0,0,R
+Nepal,Sanctum,NO,CH,1:37,10,0,5,0,0,R
+Nepal,Sanctum,NO,CH,2:07,23,6,1,0,1,B
+Nepal,Sanctum,NO,CH,2:54,40,1,7,5,4,R
+Nepal,Sanctum,NO,CH,3:53,30,3,6,1,1,R
+Blizzard World,Defense,NO,CH,0:19,16,6,1,0,0,B
+Blizzard World,Defense,NO,CH,1:12,25,6,2,2,0,B
+Blizzard World,Defense,NO,CH,1:52,37,1,6,3,5,R
+Blizzard World,Defense,NO,CH,3:04,12,4,0,1,0,B
+Blizzard World,Defense,NO,CH,3:38,23,3,0,1,1,B
+Blizzard World,Defense,NO,CH,4:32,30,5,0,2,2,B
+Blizzard World,Defense,NO,CH,5:49,17,6,0,3,2,B
+Blizzard World,Defense,NO,CH,6:25,25,6,1,2,1,B
+Blizzard World,Attack,NO,CH,0:11,0,0,1,0,0,R
+Blizzard World,Attack,NO,CH,0:46,17,5,1,0,0,B
+Blizzard World,Attack,NO,CH,1:27,22,0,3,0,1,R
+Blizzard World,Attack,NO,CH,2:12,14,5,0,2,0,B
+Temple of Anubis,Attack,NO,CH,0:13,0,0,1,0,0,R
+Temple of Anubis,Attack,NO,CH,0:32,22,6,3,0,0,R
+Temple of Anubis,Attack,NO,CH,1:41,18,7,1,2,2,R
+Temple of Anubis,Defense,NO,CH,0:10,13,1,1,0,0,R
+Temple of Anubis,Defense,NO,CH,1:09,12,4,0,0,0,B
+Temple of Anubis,Defense,NO,CH,1:57,60,9,5,5,3,B
+Temple of Anubis,Defense,NO,CH,3:31,34,6,1,1,2,B
+Watchpoint: Gibraltar,Attack,NO,CH,0:04,0,0,1,0,0,R
+Watchpoint: Gibraltar,Attack,NO,CH,0:30,0,0,1,0,0,R
+Watchpoint: Gibraltar,Attack,NO,CH,0:47,60,12,5,0,1,B
+Watchpoint: Gibraltar,Attack,NO,CH,2:10,18,6,1,1,0,B
+Watchpoint: Gibraltar,Attack,NO,CH,2:34,38,8,1,2,3,B
+Watchpoint: Gibraltar,Attack,NO,CH,3:45,16,5,0,1,1,B
+Watchpoint: Gibraltar,Attack,NO,CH,4:15,32,7,1,1,1,B
+Watchpoint: Gibraltar,Defense,NO,CH,0:37,43,8,4,0,4,B
+Watchpoint: Gibraltar,Defense,NO,CH,1:37,65,4,10,5,2,B
+Watchpoint: Gibraltar,Defense,NO,CH,3:00,0,0,1,0,0,R
+Watchpoint: Gibraltar,Defense,NO,CH,3:22,55,6,9,2,4,R
+Watchpoint: Gibraltar,Defense,NO,CH,4:41,33,7,5,0,1,R
+Watchpoint: Gibraltar,Defense,NO,CH,5:36,20,2,3,1,3,B
+Watchpoint: Gibraltar,Defense,NO,CH,6:12,13,3,5,1,1,R
+Watchpoint: Gibraltar,Defense,NO,CH,6:31,21,6,0,3,2,B
+Ilios,Well,AT,USA,0:27,0,0,1,0,0,R
+Ilios,Well,AT,USA,0:58,18,1,4,0,1,B
+Ilios,Well,AT,USA,1:44,20,0,6,0,2,R
+Ilios,Well,AT,USA,2:27,13,3,3,4,1,R
+Ilios,Well,AT,USA,3:04,25,0,7,1,4,R
+Ilios,Lighthouse,AT,USA,0:31,0,0,1,0,0,R
+Ilios,Lighthouse,AT,USA,0:38,17,0,4,0,1,R
+Ilios,Lighthouse,AT,USA,1:24,12,3,3,1,1,B
+Ilios,Lighthouse,AT,USA,1:51,13,1,2,0,0,R
+Ilios,Lighthouse,AT,USA,2:21,27,0,3,2,2,R
+King's Row,Attack,AT,USA,0:18,12,1,6,0,0,R
+King's Row,Attack,AT,USA,0:44,33,1,5,5,7,B
+King's Row,Attack,AT,USA,1:37,31,2,5,2,2,R
+King's Row,Attack,AT,USA,2:23,56,2,7,2,4,R
+King's Row,Attack,AT,USA,3:27,46,5,2,4,2,R
+King's Row,Attack,AT,USA,4:49,24,0,6,0,2,R
+King's Row,Attack,AT,USA,5:29,21,1,6,1,1,R
+King's Row,Attack,AT,USA,6:13,14,1,4,2,2,R
+King's Row,Attack,AT,USA,6:55,22,0,5,2,1,R
+King's Row,Defense,AT,USA,0:14,0,1,0,0,0,B
+King's Row,Defense,AT,USA,0:50,20,0,6,0,2,R
+King's Row,Defense,AT,USA,1:32,25,2,7,2,3,R
+Volskaya Industries,Attack,AT,USA,0:33,6,0,2,0,0,R
+Volskaya Industries,Attack,AT,USA,1:09,12,2,5,0,0,R
+Volskaya Industries,Attack,AT,USA,1:42,0,0,1,0,0,R
+Volskaya Industries,Attack,AT,USA,2:15,20,2,5,3,2,R
+Volskaya Industries,Attack,AT,USA,3:12,9,0,2,1,2,R
+Volskaya Industries,Attack,AT,USA,3:50,21,1,5,3,3,R
+Volskaya Industries,Defense,AT,USA,0:24,11,0,5,0,1,R
+Rialto,Attack,AT,USA,0:08,0,1,0,0,0,B
+Rialto,Attack,AT,USA,0:28,0,1,0,0,0,B
+Rialto,Attack,AT,USA,0:56,6,0,2,0,0,R
+Rialto,Attack,AT,USA,1:17,0,0,1,0,0,R
+Rialto,Attack,AT,USA,1:32,7,0,3,0,2,R
+Rialto,Attack,AT,USA,2:06,2,0,2,0,0,R
+Rialto,Attack,AT,USA,2:28,4,1,0,1,0,B
+Rialto,Attack,AT,USA,2:44,26,1,4,3,4,B
+Rialto,Attack,AT,USA,4:00,8,1,1,0,0,B
+Rialto,Defense,AT,USA,0:13,17,1,4,0,0,R
+Rialto,Defense,AT,USA,0:50,22,2,5,1,3,R
+Lijiang Tower,Night Market,CA,BR,0:56,19,5,2,1,2,B
+Lijiang Tower,Night Market,CA,BR,1:40,38,1,6,2,3,R
+Lijiang Tower,Night Market,CA,BR,3:15,21,5,3,0,1,B
+Lijiang Tower,Night Market,CA,BR,3:52,18,1,2,1,1,R
+Lijiang Tower,Garden,CA,BR,0:28,25,0,4,0,1,R
+Lijiang Tower,Garden,CA,BR,1:07,28,6,0,3,3,B
+Lijiang Tower,Garden,CA,BR,2:03,9,6,0,1,0,B
+Lijiang Tower,Garden,CA,BR,2:41,25,0,5,2,3,R
+Lijiang Tower,Garden,CA,BR,3:31,20,6,0,3,0,B
+Lijiang Tower,Garden,CA,BR,4:18,26,6,0,4,2,B
+King's Row,Defense,CA,BR,0:17,5,6,0,0,0,B
+King's Row,Defense,CA,BR,1:01,7,4,0,2,0,B
+King's Row,Defense,CA,BR,1:42,14,6,0,0,1,B
+King's Row,Defense,CA,BR,2:25,30,1,5,2,3,R
+King's Row,Defense,CA,BR,3:26,0,0,2,0,0,R
+King's Row,Defense,CA,BR,4:11,15,5,1,3,4,R
+King's Row,Defense,CA,BR,5:18,10,2,0,0,0,B
+King's Row,Defense,CA,BR,5:59,25,1,1,1,2,R
+King's Row,Defense,CA,BR,6:32,39,1,6,0,2,B
+King's Row,Defense,CA,BR,7:32,11,0,4,0,1,R
+King's Row,Defense,CA,BR,7:54,18,6,0,3,2,B
+King's Row,Defense,CA,BR,8:39,11,2,4,2,2,R
+King's Row,Defense,CA,BR,9:07,16,2,4,1,0,B
+King's Row,Attack,CA,BR,0:59,22,2,1,1,2,R
+King's Row,Attack,CA,BR,1:25,28,6,0,2,0,B
+King's Row,Attack,CA,BR,2:32,10,1,1,1,2,R
+King's Row,Attack,CA,BR,3:21,32,3,2,2,1,B
+King's Row,Attack,CA,BR,4:26,14,6,0,0,0,B
+King's Row,Attack,CA,BR,5:09,16,0,3,1,3,R
+King's Row,Attack,CA,BR,5:51,19,0,5,1,1,R
+King's Row,Attack,CA,BR,6:42,14,3,1,3,2,R
+King's Row,Defense,CA,BR,0:36,25,3,5,0,1,R
+King's Row,Defense,CA,BR,1:42,12,2,1,0,1,B
+King's Row,Attack,CA,BR,0:34,30,7,0,1,2,B
+King's Row,Attack,CA,BR,1:36,15,0,2,4,2,R
+King's Row,Attack,CA,BR,2:05,39,6,4,1,3,R
+Temple of Anubis,Defense,CA,BR,0:34,0,1,0,0,0,B
+Temple of Anubis,Defense,CA,BR,1:04,15,6,0,0,0,B
+Temple of Anubis,Defense,CA,BR,1:41,31,7,3,4,1,B
+Temple of Anubis,Defense,CA,BR,2:44,23,1,6,0,2,R
+Temple of Anubis,Defense,CA,BR,3:40,58,4,7,3,4,R
+Temple of Anubis,Defense,CA,BR,5:21,7,5,0,0,0,B
+Temple of Anubis,Defense,CA,BR,5:43,3,3,0,0,0,B
+Temple of Anubis,Defense,CA,BR,6:03,28,5,2,4,4,R
+Temple of Anubis,Attack,CA,BR,1:58,26,7,0,0,0,B
+Temple of Anubis,Attack,CA,BR,2:37,79,12,3,6,3,B
+Route 66,Defense,CA,BR,1:16,22,4,0,1,2,B
+Route 66,Defense,CA,BR,2:07,5,1,0,1,0,B
+Route 66,Defense,CA,BR,2:39,7,0,1,1,2,R
+Route 66,Defense,CA,BR,3:09,19,5,1,1,1,B
+Route 66,Defense,CA,BR,3:55,4,1,1,2,1,R
+Route 66,Defense,CA,BR,4:16,22,1,5,1,1,R
+Route 66,Defense,CA,BR,5:09,19,2,0,1,0,B
+Route 66,Defense,CA,BR,5:44,22,4,1,1,1,B
+Route 66,Defense,CA,BR,6:34,19,0,6,0,0,R
+Route 66,Defense,CA,BR,7:24,1,1,0,1,0,B
+Route 66,Defense,CA,BR,7:40,3,2,1,2,0,B
+Route 66,Attack,CA,BR,0:27,11,2,0,0,0,B
+Route 66,Attack,CA,BR,1:17,27,6,2,0,1,B
+Route 66,Attack,CA,BR,2:20,13,5,0,1,1,B
+Lijiang Tower,Garden,NO,USA,0:39,29,2,5,2,2,B
+Lijiang Tower,Garden,NO,USA,1:28,26,1,5,2,2,R
+Lijiang Tower,Garden,NO,USA,2:11,21,1,6,1,3,B
+Lijiang Tower,Garden,NO,USA,2:52,16,1,6,0,1,R
+Lijiang Tower,Night Market,NO,USA,0:16,9,0,5,0,0,R
+Lijiang Tower,Night Market,NO,USA,0:45,12,1,4,0,1,B
+Lijiang Tower,Night Market,NO,USA,1:18,11,1,5,1,2,R
+Lijiang Tower,Night Market,NO,USA,1:46,12,0,3,0,2,R
+Lijiang Tower,Night Market,NO,USA,2:13,13,0,3,2,0,R
+Eichenwalde,Attack,NO,USA,0:35,18,1,3,0,1,R
+Eichenwalde,Attack,NO,USA,1:17,22,0,6,1,4,R
+Eichenwalde,Attack,NO,USA,2:11,55,8,3,4,0,R
+Eichenwalde,Attack,NO,USA,3:32,26,2,5,1,2,R
+Eichenwalde,Attack,NO,USA,4:17,52,1,7,2,3,R
+Eichenwalde,Attack,NO,USA,5:27,66,2,13,5,8,R
+Eichenwalde,Defense,NO,USA,0:33,40,5,7,1,1,B
+Eichenwalde,Defense,NO,USA,1:25,22,1,5,1,0,B
+Volskaya Industries,Attack,NO,USA,0:54,24,2,6,0,1,R
+Volskaya Industries,Attack,NO,USA,1:37,16,0,5,0,2,R
+Volskaya Industries,Attack,NO,USA,2:30,3,0,1,1,2,R
+Volskaya Industries,Attack,NO,USA,2:55,20,1,5,2,1,R
+Volskaya Industries,Attack,NO,USA,3:45,14,1,5,0,2,R
+Volskaya Industries,Defense,NO,USA,0:24,29,2,5,0,2,R
+Junkertown,Attack,NO,USA,0:13,0,0,1,0,0,R
+Junkertown,Attack,NO,USA,0:28,26,3,1,0,0,B
+Junkertown,Attack,NO,USA,1:00,16,3,1,1,1,B
+Junkertown,Attack,NO,USA,1:31,0,1,0,0,0,B
+Junkertown,Attack,NO,USA,1:51,36,2,4,1,2,B
+Junkertown,Attack,NO,USA,2:55,23,2,4,0,0,R
+Junkertown,Attack,NO,USA,3:34,9,2,0,0,1,B
+Junkertown,Attack,NO,USA,4:03,45,5,3,3,2,B
+Junkertown,Attack,NO,USA,5:29,25,3,5,1,2,B
+Junkertown,Attack,NO,USA,6:24,19,1,6,0,1,B
+Junkertown,Attack,NO,USA,6:59,13,0,4,0,3,R
+Junkertown,Attack,NO,USA,7:31,60,6,7,4,4,R
+Junkertown,Attack,NO,USA,8:41,5,0,1,1,1,R
+Junkertown,Attack,NO,USA,8:51,26,0,4,1,3,R
+Junkertown,Attack,NO,USA,9:40,0,1,0,0,0,B
+Junkertown,Attack,NO,USA,10:13,0,0,1,0,0,R
+Junkertown,Defense,NO,USA,0:24,2,0,2,0,0,R
+Junkertown,Defense,NO,USA,0:33,16,2,0,0,1,B
+Junkertown,Defense,NO,USA,1:01,19,3,1,0,3,B
+Junkertown,Defense,NO,USA,1:27,75,2,11,3,5,R
+Junkertown,Defense,NO,USA,3:21,20,2,6,0,1,B
+Junkertown,Defense,NO,USA,4:02,19,5,1,3,1,R
+Junkertown,Defense,NO,USA,4:46,37,0,7,2,1,R
+Junkertown,Defense,NO,USA,5:39,5,1,1,0,0,B
+Junkertown,Defense,NO,USA,6:03,15,3,6,0,2,B
+Junkertown,Defense,NO,USA,6:56,18,1,4,1,2,B
+Ilios,Ruins,BR,AT,0:39,25,1,5,0,0,B
+Ilios,Ruins,BR,AT,1:26,21,5,0,1,0,B
+Ilios,Ruins,BR,AT,2:22,25,5,0,0,0,B
+Ilios,Ruins,BR,AT,3:09,19,4,0,1,2,B
+Ilios,Ruins,BR,AT,3:46,9,3,0,1,0,B
+Ilios,Well,BR,AT,0:56,8,2,4,0,0,B
+Ilios,Well,BR,AT,1:55,8,2,1,0,1,B
+Ilios,Well,BR,AT,2:16,5,1,2,0,2,B
+Ilios,Well,BR,AT,2:40,34,4,3,2,1,R
+Ilios,Well,BR,AT,3:42,10,4,1,1,0,B
+Ilios,Well,BR,AT,4:28,19,0,6,1,3,R
+Ilios,Lighthouse,BR,AT,0:33,9,0,3,0,0,R
+Ilios,Lighthouse,BR,AT,1:04,37,6,1,2,2,B
+Ilios,Lighthouse,BR,AT,2:00,10,5,0,1,1,B
+Ilios,Lighthouse,BR,AT,2:36,23,6,0,1,0,B
+Ilios,Lighthouse,BR,AT,3:22,27,0,5,0,3,R
+Ilios,Lighthouse,BR,AT,4:08,16,5,0,3,0,B
+King's Row,Defense,BR,AT,0:11,3,2,1,0,0,B
+King's Row,Defense,BR,AT,0:35,20,0,6,0,1,R
+King's Row,Defense,BR,AT,1:41,17,0,6,1,1,R
+King's Row,Defense,BR,AT,2:20,36,6,2,1,0,R
+King's Row,Defense,BR,AT,3:20,12,4,0,0,0,B
+King's Row,Defense,BR,AT,3:53,18,5,1,4,3,B
+King's Row,Defense,BR,AT,4:43,14,0,6,0,3,R
+King's Row,Defense,BR,AT,5:16,16,0,6,1,1,R
+King's Row,Defense,BR,AT,5:55,17,4,1,3,1,R
+King's Row,Defense,BR,AT,6:36,13,0,6,0,2,R
+King's Row,Defense,BR,AT,7:05,13,5,0,1,1,B
+King's Row,Defense,BR,AT,8:06,8,5,0,0,1,B
+King's Row,Attack,BR,AT,0:19,45,8,1,0,1,B
+King's Row,Attack,BR,AT,1:59,11,0,5,0,1,R
+King's Row,Attack,BR,AT,2:21,5,0,1,1,1,R
+King's Row,Attack,BR,AT,2:34,22,4,1,1,0,B
+King's Row,Attack,BR,AT,3:19,3,0,2,1,1,R
+King's Row,Attack,BR,AT,4:07,25,5,1,3,1,B
+King's Row,Attack,BR,AT,4:53,10,1,1,1,1,B
+King's Row,Attack,BR,AT,5:21,3,0,2,0,0,R
+King's Row,Attack,BR,AT,5:48,7,0,1,1,0,R
+King's Row,Attack,BR,AT,6:02,12,1,0,1,1,B
+King's Row,Attack,BR,AT,6:33,11,1,2,0,1,B
+King's Row,Attack,BR,AT,7:10,15,2,0,2,1,B
+King's Row,Attack,BR,AT,7:44,53,9,2,2,2,B
+Junkertown,Attack,BR,AT,0:08,8,2,0,0,0,B
+Junkertown,Attack,BR,AT,0:56,9,6,2,0,0,B
+Junkertown,Attack,BR,AT,1:49,10,4,1,0,0,B
+Junkertown,Attack,BR,AT,2:26,12,4,0,3,1,B
+Junkertown,Attack,BR,AT,3:19,17,4,0,1,0,B
+Junkertown,Attack,BR,AT,4:01,0,1,0,0,0,B
+Junkertown,Attack,BR,AT,4:10,12,1,1,1,2,B
+Junkertown,Attack,BR,AT,4:40,30,5,3,0,1,B
+Junkertown,Attack,BR,AT,5:44,11,2,4,2,1,B
+Junkertown,Attack,BR,AT,6:25,38,7,0,3,2,B
+Junkertown,Defense,BR,AT,0:43,17,4,1,1,0,B
+Junkertown,Defense,BR,AT,1:24,22,5,0,1,0,B
+Junkertown,Defense,BR,AT,2:06,23,4,0,1,0,B
+Junkertown,Defense,BR,AT,2:52,11,2,0,0,1,B
+Oasis,University,CH,AT,0:33,7,0,6,0,0,R
+Oasis,University,CH,AT,0:53,5,0,1,0,1,R
+Oasis,University,CH,AT,1:17,27,0,5,1,3,R
+Oasis,University,CH,AT,2:18,24,6,0,1,0,B
+Oasis,University,CH,AT,3:12,17,3,4,3,3,R
+Oasis,University,CH,AT,3:44,6,2,0,1,0,B
+Oasis,University,CH,AT,4:22,52,5,8,4,4,B
+Oasis,Gardens,CH,AT,0:17,59,11,4,0,1,B
+Oasis,Gardens,CH,AT,1:40,11,5,1,2,0,B
+Oasis,Gardens,CH,AT,2:16,21,0,6,1,3,R
+Oasis,Gardens,CH,AT,3:03,18,3,5,0,0,R
+Oasis,Gardens,CH,AT,3:45,32,7,2,3,2,B
+Oasis,City Center,CH,AT,0:28,52,3,10,0,3,R
+Oasis,City Center,CH,AT,1:45,31,7,3,4,3,B
+Oasis,City Center,CH,AT,2:36,0,1,0,0,0,B
+Oasis,City Center,CH,AT,2:49,22,4,0,0,1,B
+Oasis,City Center,CH,AT,3:38,30,1,7,1,3,R
+Oasis,City Center,CH,AT,4:31,58,11,1,4,3,B
+King's Row,Attack,CH,AT,0:09,0,0,1,0,0,R
+King's Row,Attack,CH,AT,0:48,16,0,5,1,1,R
+King's Row,Attack,CH,AT,1:32,22,2,4,0,3,B
+King's Row,Attack,CH,AT,2:11,0,0,1,0,0,R
+King's Row,Attack,CH,AT,2:39,49,3,7,2,4,R
+King's Row,Attack,CH,AT,3:57,25,2,6,0,3,R
+King's Row,Defense,CH,AT,0:27,7,0,2,0,0,R
+Horizon Lunar Colony,Attack,CH,AT,0:13,2,0,2,0,0,R
+Horizon Lunar Colony,Attack,CH,AT,0:47,8,0,2,0,1,R
+Horizon Lunar Colony,Attack,CH,AT,1:20,38,0,6,0,3,R
+Horizon Lunar Colony,Attack,CH,AT,2:36,18,1,5,1,2,R
+Horizon Lunar Colony,Attack,CH,AT,3:23,32,7,2,1,1,R
+Horizon Lunar Colony,Attack,CH,AT,4:35,68,14,3,4,2,R
+Horizon Lunar Colony,Defense,CH,AT,0:27,0,0,1,0,0,R
+Horizon Lunar Colony,Defense,CH,AT,0:42,13,0,5,1,0,R
+Horizon Lunar Colony,Defense,CH,AT,1:15,17,0,4,0,0,R
+Horizon Lunar Colony,Attack,CH,AT,0:27,4,1,0,0,1,B
+Horizon Lunar Colony,Attack,CH,AT,0:44,14,1,1,1,2,R
+Horizon Lunar Colony,Attack,CH,AT,1:04,16,3,0,1,0,B
+Horizon Lunar Colony,Attack,CH,AT,1:35,32,4,2,2,4,B
+Horizon Lunar Colony,Attack,CH,AT,2:25,23,7,2,2,0,B
+Horizon Lunar Colony,Defense,CH,AT,0:27,21,5,0,1,0,B
+Horizon Lunar Colony,Defense,CH,AT,1:38,27,1,4,1,2,R
+Horizon Lunar Colony,Defense,CH,AT,2:33,49,7,5,4,4,B
+Horizon Lunar Colony,Defense,CH,AT,3:56,34,5,3,2,2,R
+Horizon Lunar Colony,Defense,CH,AT,4:57,35,6,1,2,2,B
+Horizon Lunar Colony,Defense,CH,AT,5:59,9,1,1,1,0,R
+Horizon Lunar Colony,Defense,CH,AT,6:23,15,6,1,3,1,B
+Horizon Lunar Colony,Defense,CH,AT,6:53,15,5,1,0,0,B
+Rialto,Attack,CH,AT,0:07,0,0,1,0,0,R
+Rialto,Attack,CH,AT,0:38,16,0,4,0,1,R
+Rialto,Attack,CH,AT,1:12,16,0,3,0,1,R
+Rialto,Attack,CH,AT,1:53,15,2,2,1,2,B
+Rialto,Attack,CH,AT,2:36,23,1,5,1,2,R
+Rialto,Attack,CH,AT,3:21,22,5,2,2,1,B
+Rialto,Attack,CH,AT,4:21,20,4,3,0,1,B
+Rialto,Attack,CH,AT,5:12,26,6,2,3,3,B
+Rialto,Attack,CH,AT,6:15,23,0,4,2,2,R
+Rialto,Attack,CH,AT,7:04,10,0,2,0,0,R
+Rialto,Attack,CH,AT,7:39,21,3,5,2,4,R
+Rialto,Defense,CH,AT,0:32,0,1,0,0,0,B
+Rialto,Defense,CH,AT,0:58,34,1,5,2,1,B
+Rialto,Defense,CH,AT,1:56,19,0,6,0,3,R
+Rialto,Defense,CH,AT,2:42,9,5,0,0,1,B
+Rialto,Defense,CH,AT,3:13,17,2,0,1,0,B
+Rialto,Defense,CH,AT,3:53,26,3,6,0,1,R
+Rialto,Defense,CH,AT,4:34,14,0,6,0,2,R
+Rialto,Defense,CH,AT,5:07,56,4,10,3,3,R
+Rialto,Defense,CH,AT,6:21,50,6,10,3,4,R
+Nepal,Sanctum,CH,AT,0:55,16,2,2,1,0,B
+Nepal,Sanctum,CH,AT,1:26,30,1,6,1,4,B
+Nepal,Sanctum,CH,AT,2:23,33,5,2,2,2,B
+Nepal,Sanctum,CH,AT,3:32,36,6,1,6,1,B
+Nepal,Shrine,CH,AT,0:45,21,0,6,0,0,R
+Nepal,Shrine,CH,AT,1:31,26,0,6,2,3,R
+Nepal,Shrine,CH,AT,2:21,13,1,3,1,2,R
+Nepal,Shrine,CH,AT,2:57,19,1,6,4,2,R
+Nepal,Village,CH,AT,1:00,19,5,2,2,1,B
+Nepal,Village,CH,AT,1:59,22,0,6,2,1,R
+Nepal,Village,CH,AT,2:43,27,1,6,1,3,R
+Nepal,Village,CH,AT,3:27,28,1,6,1,3,R
+Lijiang Tower,Garden,USA,CH,0:32,14,6,0,0,0,B
+Lijiang Tower,Garden,USA,CH,1:04,0,1,0,0,0,B
+Lijiang Tower,Garden,USA,CH,1:19,25,4,1,3,0,B
+Lijiang Tower,Garden,USA,CH,2:03,37,4,1,3,4,R
+Lijiang Tower,Control Center,USA,CH,0:14,7,0,3,0,0,R
+Lijiang Tower,Control Center,USA,CH,0:37,9,0,1,0,1,R
+Lijiang Tower,Control Center,USA,CH,1:06,16,1,4,2,3,R
+Lijiang Tower,Control Center,USA,CH,1:48,11,0,6,0,2,R
+Lijiang Tower,Control Center,USA,CH,2:14,25,2,1,1,3,R
+Lijiang Tower,Control Center,USA,CH,2:57,11,5,0,2,0,B
+Lijiang Tower,Control Center,USA,CH,3:24,19,3,1,3,3,B
+Lijiang Tower,Control Center,USA,CH,4:07,5,2,0,1,1,B
+Lijiang Tower,Control Center,USA,CH,4:24,10,3,0,2,2,B
+King's Row,Defense,USA,CH,0:26,19,1,4,0,1,R
+King's Row,Defense,USA,CH,1:21,22,1,6,0,1,R
+King's Row,Defense,USA,CH,2:02,36,0,5,2,4,R
+King's Row,Defense,USA,CH,3:06,26,6,2,0,0,R
+King's Row,Defense,USA,CH,3:47,10,0,4,0,4,R
+King's Row,Defense,USA,CH,4:14,14,3,1,1,0,R
+King's Row,Defense,USA,CH,5:07,6,1,1,0,0,B
+King's Row,Defense,USA,CH,5:16,21,3,0,2,2,B
+King's Row,Defense,USA,CH,5:54,20,6,1,3,1,R
+King's Row,Defense,USA,CH,6:35,43,6,2,1,5,B
+King's Row,Defense,USA,CH,7:44,36,6,1,4,2,B
+King's Row,Attack,USA,CH,0:31,27,6,0,0,0,B
+King's Row,Attack,USA,CH,1:12,19,5,2,1,0,B
+King's Row,Attack,USA,CH,2:10,27,5,1,0,0,B
+King's Row,Attack,USA,CH,2:51,3,2,0,1,0,B
+King's Row,Attack,USA,CH,3:14,15,4,1,2,2,B
+Junkertown,Defense,USA,CH,0:26,7,1,5,0,0,R
+Junkertown,Defense,USA,CH,1:04,18,5,1,0,1,B
+Junkertown,Defense,USA,CH,1:42,19,1,1,1,3,R
+Junkertown,Defense,USA,CH,2:27,0,2,0,0,0,B
+Junkertown,Defense,USA,CH,2:52,36,6,0,2,0,B
+Junkertown,Defense,USA,CH,3:52,0,1,0,0,0,B
+Junkertown,Attack,USA,CH,0:24,27,5,3,1,0,B
+Junkertown,Attack,USA,CH,1:00,54,8,4,3,1,B
+Nepal,Sanctum,AT,CA,0:32,16,1,6,0,0,B
+Nepal,Sanctum,AT,CA,1:23,14,0,5,0,2,R
+Nepal,Sanctum,AT,CA,2:06,28,6,3,4,2,B
+Nepal,Sanctum,AT,CA,2:56,25,1,5,1,4,R
+Nepal,Sanctum,AT,CA,3:37,12,0,6,1,0,R
+Nepal,Shrine,AT,CA,0:46,3,1,1,0,0,R
+Nepal,Shrine,AT,CA,1:10,1,2,1,0,0,B
+Nepal,Shrine,AT,CA,1:35,15,0,6,0,0,R
+Nepal,Shrine,AT,CA,2:14,6,1,0,2,1,B
+Nepal,Shrine,AT,CA,2:37,22,4,0,2,1,B
+Nepal,Shrine,AT,CA,3:20,15,0,6,0,2,R
+Nepal,Shrine,AT,CA,3:40,10,0,1,0,3,R
+Nepal,Shrine,AT,CA,4:07,24,1,5,2,4,B
+King's Row,Attack,AT,CA,0:28,25,5,1,0,0,R
+King's Row,Attack,AT,CA,1:26,16,0,2,1,2,R
+King's Row,Attack,AT,CA,2:06,12,5,1,2,2,B
+King's Row,Attack,AT,CA,2:48,12,0,6,0,1,R
+King's Row,Attack,AT,CA,3:15,4,0,2,0,1,R
+King's Row,Attack,AT,CA,3:32,8,0,5,1,1,R
+King's Row,Attack,AT,CA,3:56,0,0,1,0,0,R
+King's Row,Attack,AT,CA,4:24,19,0,6,0,2,R
+King's Row,Attack,AT,CA,5:14,13,5,1,1,0,R
+King's Row,Attack,AT,CA,5:50,20,1,6,3,3,B
+King's Row,Attack,AT,CA,6:32,18,0,6,0,2,R
+King's Row,Defense,AT,CA,0:15,0,1,0,0,0,B
+King's Row,Defense,AT,CA,0:38,24,0,6,0,1,R
+King's Row,Defense,AT,CA,1:40,18,0,3,0,0,R
+King's Row,Defense,AT,CA,2:15,29,0,7,3,5,R
+Volskaya Industries,Attack,AT,CA,0:33,0,0,1,0,0,R
+Volskaya Industries,Attack,AT,CA,1:06,0,0,1,0,0,R
+Volskaya Industries,Attack,AT,CA,1:54,19,0,4,2,3,R
+Volskaya Industries,Attack,AT,CA,3:00,10,0,5,0,1,R
+Volskaya Industries,Attack,AT,CA,3:40,18,3,0,2,1,B
+Volskaya Industries,Attack,AT,CA,4:23,6,2,1,2,1,R
+Volskaya Industries,Attack,AT,CA,5:00,8,0,5,0,1,R
+Volskaya Industries,Attack,AT,CA,5:38,3,0,1,0,3,R
+Volskaya Industries,Attack,AT,CA,6:29,18,1,6,1,2,R
+Volskaya Industries,Attack,AT,CA,7:15,46,3,5,1,3,B
+Volskaya Industries,Attack,AT,CA,8:26,47,6,3,5,4,R
+Volskaya Industries,Defense,AT,CA,0:23,4,1,1,0,0,B
+Volskaya Industries,Defense,AT,CA,0:48,25,4,2,1,0,B
+Volskaya Industries,Defense,AT,CA,1:47,15,3,1,1,0,B
+Volskaya Industries,Defense,AT,CA,2:20,21,0,6,2,4,R
+Volskaya Industries,Defense,AT,CA,3:02,10,1,1,2,0,R
+Volskaya Industries,Defense,AT,CA,3:27,4,0,2,2,3,R
+Volskaya Industries,Defense,AT,CA,3:45,7,0,3,0,1,R
+Rialto,Attack,AT,CA,0:13,12,0,3,0,0,R
+Rialto,Attack,AT,CA,0:57,3,1,1,0,1,R
+Rialto,Attack,AT,CA,1:26,14,1,5,1,2,R
+Rialto,Attack,AT,CA,2:02,63,9,0,4,3,B
+Rialto,Attack,AT,CA,3:19,12,1,5,0,1,B
+Rialto,Attack,AT,CA,3:51,13,1,5,0,1,R
+Rialto,Attack,AT,CA,4:30,26,2,4,3,2,R
+Rialto,Attack,AT,CA,5:23,3,0,3,0,0,R
+Rialto,Attack,AT,CA,5:54,25,4,0,3,3,B
+Rialto,Attack,AT,CA,6:43,13,1,5,1,2,B
+Rialto,Defense,AT,CA,0:13,0,1,0,0,0,B
+Rialto,Defense,AT,CA,0:29,5,2,0,0,0,B
+Rialto,Defense,AT,CA,0:51,14,0,5,1,1,R
+Rialto,Defense,AT,CA,1:31,5,2,0,0,0,B
+Rialto,Defense,AT,CA,1:56,24,0,8,0,1,R
+Rialto,Defense,AT,CA,2:35,26,0,5,0,0,R
+Rialto,Defense,AT,CA,3:28,9,0,5,0,1,R
+Rialto,Defense,AT,CA,3:59,25,2,6,2,3,R
+Oasis,Gardens,NO,BR,0:39,0,0,1,0,0,R
+Oasis,Gardens,NO,BR,0:56,12,0,5,0,3,R
+Oasis,Gardens,NO,BR,1:32,29,6,1,1,0,B
+Oasis,Gardens,NO,BR,2:06,31,6,3,1,2,B
+Oasis,Gardens,NO,BR,3:01,39,4,8,0,3,B
+Oasis,Gardens,NO,BR,4:00,29,0,5,4,3,R
+Oasis,University,NO,BR,0:38,42,7,3,1,1,R
+Oasis,University,NO,BR,1:41,21,6,1,3,1,R
+Oasis,University,NO,BR,2:31,18,0,6,2,1,R
+Oasis,University,NO,BR,3:10,22,5,0,3,3,B
+Oasis,University,NO,BR,4:05,13,5,0,4,1,B
+Oasis,City Center,NO,BR,0:32,0,0,1,0,0,R
+Oasis,City Center,NO,BR,0:48,3,1,2,0,0,R
+Oasis,City Center,NO,BR,1:25,33,1,6,0,3,R
+Oasis,City Center,NO,BR,2:14,9,0,1,1,1,R
+Oasis,City Center,NO,BR,2:52,12,4,0,0,1,B
+Oasis,City Center,NO,BR,3:29,26,5,1,0,2,B
+Oasis,City Center,NO,BR,4:33,5,1,1,0,0,R
+Oasis,City Center,NO,BR,4:55,0,1,0,0,0,B
+Oasis,City Center,NO,BR,5:15,23,4,2,1,0,B
+King's Row,Attack,NO,BR,0:30,7,5,0,0,0,B
+King's Row,Attack,NO,BR,1:09,6,1,1,1,0,B
+King's Row,Attack,NO,BR,1:53,23,5,3,4,2,R
+King's Row,Attack,NO,BR,2:48,37,2,6,3,2,R
+King's Row,Attack,NO,BR,3:57,8,0,5,1,1,R
+King's Row,Attack,NO,BR,4:34,13,5,1,3,2,R
+King's Row,Attack,NO,BR,5:06,0,1,0,0,0,B
+King's Row,Attack,NO,BR,5:32,32,1,4,1,3,R
+King's Row,Attack,NO,BR,6:37,20,5,1,4,2,R
+King's Row,Defense,NO,BR,0:17,20,2,2,0,1,R
+King's Row,Defense,NO,BR,1:04,10,3,1,2,1,R
+King's Row,Defense,NO,BR,1:39,9,4,1,2,0,R
+King's Row,Defense,NO,BR,2:10,20,1,5,1,3,R
+King's Row,Defense,NO,BR,2:59,9,1,1,1,0,R
+King's Row,Defense,NO,BR,3:35,26,3,5,4,5,B
+King's Row,Defense,NO,BR,4:17,25,1,4,1,1,R
+King's Row,Defense,NO,BR,5:08,11,2,0,0,0,B
+King's Row,Defense,NO,BR,5:41,5,1,0,1,0,B
+King's Row,Defense,NO,BR,6:16,8,0,4,0,0,R
+King's Row,Defense,NO,BR,6:38,16,0,4,4,4,R
+King's Row,Attack,NO,BR,0:55,22,6,0,0,0,B
+King's Row,Attack,NO,BR,2:02,25,5,0,0,1,B
+King's Row,Attack,NO,BR,2:55,8,0,1,2,0,R
+King's Row,Attack,NO,BR,3:09,37,6,0,2,3,B
+King's Row,Attack,NO,BR,4:10,8,0,1,2,2,R
+King's Row,Defense,NO,BR,0:38,13,3,0,0,0,B
+King's Row,Defense,NO,BR,1:16,13,1,5,0,0,B
+King's Row,Defense,NO,BR,1:47,34,6,2,3,3,R
+Temple of Anubis,Attack,NO,BR,0:28,0,0,1,0,0,R
+Temple of Anubis,Attack,NO,BR,1:04,19,2,5,0,0,R
+Temple of Anubis,Attack,NO,BR,1:48,27,5,2,1,2,B
+Temple of Anubis,Attack,NO,BR,2:43,46,6,8,2,1,R
+Temple of Anubis,Attack,NO,BR,3:46,22,1,5,2,1,R
+Temple of Anubis,Attack,NO,BR,4:52,15,0,5,0,1,R
+Temple of Anubis,Attack,NO,BR,5:42,7,0,5,0,1,R
+Temple of Anubis,Attack,NO,BR,6:29,32,2,5,5,2,R
+Temple of Anubis,Attack,NO,BR,7:26,24,3,0,2,4,B
+Temple of Anubis,Defense,NO,BR,0:52,13,3,0,0,0,B
+Temple of Anubis,Defense,NO,BR,1:23,61,8,5,5,3,R
+Temple of Anubis,Defense,NO,BR,2:57,15,1,6,0,1,R
+Temple of Anubis,Defense,NO,BR,3:34,22,2,2,0,3,B
+Temple of Anubis,Defense,NO,BR,4:23,9,1,0,2,1,B
+Temple of Anubis,Defense,NO,BR,5:27,41,0,8,1,1,R
+Junkertown,Defense,NO,BR,0:27,0,0,1,0,0,R
+Junkertown,Defense,NO,BR,0:44,5,0,3,0,0,R
+Junkertown,Defense,NO,BR,1:27,15,4,1,0,0,B
+Junkertown,Defense,NO,BR,1:58,2,1,1,0,0,R
+Junkertown,Defense,NO,BR,2:18,13,2,0,1,0,B
+Junkertown,Defense,NO,BR,2:50,12,2,1,0,2,B
+Junkertown,Defense,NO,BR,3:20,17,0,4,0,1,R
+Junkertown,Defense,NO,BR,4:04,11,0,2,1,0,R
+Junkertown,Defense,NO,BR,4:26,13,0,4,1,1,R
+Junkertown,Defense,NO,BR,5:07,10,5,0,1,1,B
+Junkertown,Defense,NO,BR,5:37,24,0,6,2,1,R
+Junkertown,Defense,NO,BR,6:21,29,2,6,1,3,B
+Junkertown,Defense,NO,BR,7:09,16,4,1,3,1,R
+Junkertown,Defense,NO,BR,8:00,2,3,0,0,0,B
+Junkertown,Attack,NO,BR,0:27,10,5,0,0,0,B
+Junkertown,Attack,NO,BR,1:01,19,1,5,1,0,R
+Junkertown,Attack,NO,BR,1:48,22,3,1,1,1,R
+Junkertown,Attack,NO,BR,2:32,10,1,0,1,0,B
+Junkertown,Attack,NO,BR,2:53,25,3,1,2,2,B
+Junkertown,Attack,NO,BR,3:32,28,6,3,0,2,R
+Junkertown,Attack,NO,BR,4:11,25,5,2,2,0,R
+Junkertown,Attack,NO,BR,5:08,13,0,4,0,0,R
+Junkertown,Attack,NO,BR,5:42,27,5,1,2,2,B
+Junkertown,Attack,NO,BR,6:31,9,0,4,0,1,R
+Junkertown,Attack,NO,BR,7:16,14,0,5,2,1,R
+Junkertown,Attack,NO,BR,7:52,12,0,5,1,4,R
+Ilios,Well,NO,BR,0:24,7,2,0,0,0,B
+Ilios,Well,NO,BR,1:07,12,1,5,0,1,R
+Ilios,Well,NO,BR,1:27,39,1,7,2,2,R
+Ilios,Well,NO,BR,2:36,23,6,1,1,3,B
+Ilios,Well,NO,BR,3:33,6,3,1,0,0,B
+Ilios,Well,NO,BR,4:10,25,3,6,0,2,B
+Ilios,Well,NO,BR,5:01,28,3,3,3,2,R
+Ilios,Lighthouse,NO,BR,0:39,16,1,6,0,0,R
+Ilios,Lighthouse,NO,BR,1:22,0,0,1,0,0,R
+Ilios,Lighthouse,NO,BR,1:49,1,0,1,0,1,R
+Ilios,Lighthouse,NO,BR,2:19,17,0,3,0,1,R
+Ilios,Lighthouse,NO,BR,3:02,32,6,2,2,1,B
+Ilios,Lighthouse,NO,BR,4:04,2,1,0,1,0,B
+Ilios,Lighthouse,NO,BR,4:38,62,7,11,5,5,B
+Lijiang Tower,Control Center,NO,AT,0:15,11,5,1,0,0,B
+Lijiang Tower,Control Center,NO,AT,1:00,19,6,2,0,0,B
+Lijiang Tower,Control Center,NO,AT,1:41,7,3,0,1,0,B
+Lijiang Tower,Control Center,NO,AT,2:11,35,8,0,5,5,B
+Lijiang Tower,Night Market,NO,AT,0:26,15,5,1,0,0,B
+Lijiang Tower,Night Market,NO,AT,1:04,11,5,0,0,0,B
+Lijiang Tower,Night Market,NO,AT,1:42,19,6,0,0,1,B
+Lijiang Tower,Night Market,NO,AT,2:21,30,1,6,1,2,R
+Lijiang Tower,Night Market,NO,AT,3:09,4,1,0,1,0,B
+Lijiang Tower,Night Market,NO,AT,3:34,38,10,0,6,3,B
+King's Row,Defense,NO,AT,0:23,8,6,0,0,0,B
+King's Row,Defense,NO,AT,0:54,33,7,2,1,1,B
+King's Row,Defense,NO,AT,1:49,17,6,0,4,1,B
+King's Row,Defense,NO,AT,2:20,4,1,0,2,1,B
+King's Row,Defense,NO,AT,2:39,44,2,7,3,3,R
+King's Row,Defense,NO,AT,4:01,9,1,5,0,2,R
+King's Row,Defense,NO,AT,4:35,28,5,1,4,2,B
+King's Row,Defense,NO,AT,5:30,31,1,6,3,2,R
+King's Row,Defense,NO,AT,6:26,17,6,1,3,1,B
+King's Row,Defense,NO,AT,7:07,15,3,0,2,1,B
+King's Row,Defense,NO,AT,7:52,4,2,0,2,1,B
+King's Row,Attack,NO,AT,0:20,42,4,4,0,0,R
+King's Row,Attack,NO,AT,1:14,36,6,1,2,2,B
+King's Row,Attack,NO,AT,2:11,23,0,3,4,3,R
+King's Row,Attack,NO,AT,2:50,0,0,1,0,0,R
+King's Row,Attack,NO,AT,3:06,30,1,5,1,3,B
+King's Row,Attack,NO,AT,4:04,5,0,3,0,0,R
+King's Row,Attack,NO,AT,4:33,19,0,5,1,1,R
+King's Row,Attack,NO,AT,5:02,10,0,1,1,2,R
+King's Row,Attack,NO,AT,5:34,18,3,4,1,2,B
+King's Row,Attack,NO,AT,6:07,17,5,1,3,0,B
+King's Row,Attack,NO,AT,6:47,44,6,7,2,4,B
+Horizon Lunar Colony,Attack,NO,AT,0:24,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,NO,AT,0:55,5,3,3,0,0,B
+Horizon Lunar Colony,Attack,NO,AT,1:30,21,0,3,0,0,R
+Horizon Lunar Colony,Attack,NO,AT,2:08,29,6,3,2,1,B
+Horizon Lunar Colony,Attack,NO,AT,3:08,50,11,2,6,3,B
+Horizon Lunar Colony,Defense,NO,AT,0:29,14,5,0,0,0,B
+Horizon Lunar Colony,Defense,NO,AT,1:13,15,5,0,2,1,B
+Horizon Lunar Colony,Defense,NO,AT,2:14,24,4,0,2,0,B
+Horizon Lunar Colony,Defense,NO,AT,3:14,13,6,1,0,0,B
+Horizon Lunar Colony,Defense,NO,AT,3:49,18,5,1,4,3,B
+Rialto,Defense,NO,AT,0:12,13,4,0,1,0,B
+Rialto,Defense,NO,AT,0:51,13,5,0,2,0,B
+Rialto,Defense,NO,AT,1:22,13,3,0,2,1,B
+Rialto,Defense,NO,AT,2:00,5,5,0,0,0,B
+Rialto,Defense,NO,AT,2:29,0,1,0,0,0,B
+Rialto,Defense,NO,AT,2:40,24,5,2,1,3,B
+Rialto,Defense,NO,AT,3:48,15,6,0,2,1,B
+Rialto,Attack,NO,AT,0:21,34,7,1,0,0,B
+Rialto,Attack,NO,AT,1:09,4,2,0,1,0,B
+Ilios,Lighthouse,CA,CH,0:37,0,0,1,0,0,R
+Ilios,Lighthouse,CA,CH,1:01,13,6,1,1,1,B
+Ilios,Lighthouse,CA,CH,1:39,13,6,0,2,0,B
+Ilios,Lighthouse,CA,CH,2:15,19,0,4,1,4,R
+Ilios,Lighthouse,CA,CH,3:00,12,6,0,1,0,B
+Ilios,Lighthouse,CA,CH,3:36,24,0,5,3,3,R
+Ilios,Lighthouse,CA,CH,4:28,11,6,0,2,1,B
+Ilios,Well,CA,CH,0:13,16,3,0,0,0,B
+Ilios,Well,CA,CH,1:26,19,6,1,0,0,B
+Ilios,Well,CA,CH,2:08,47,13,0,4,2,B
+King's Row,Defense,CA,CH,0:22,48,1,4,1,2,R
+King's Row,Defense,CA,CH,1:33,15,4,1,2,2,B
+King's Row,Defense,CA,CH,2:17,17,5,0,0,1,B
+King's Row,Defense,CA,CH,2:49,9,0,3,2,2,R
+King's Row,Defense,CA,CH,3:59,29,3,0,1,1,B
+King's Row,Defense,CA,CH,4:59,15,4,0,2,0,B
+King's Row,Defense,CA,CH,5:38,11,4,0,4,1,B
+King's Row,Defense,CA,CH,6:12,22,4,1,1,1,B
+King's Row,Attack,CA,CH,0:18,13,0,5,0,0,R
+King's Row,Attack,CA,CH,0:54,15,3,1,0,2,B
+King's Row,Attack,CA,CH,1:45,1,0,1,1,0,R
+King's Row,Attack,CA,CH,2:04,34,7,6,0,3,R
+King's Row,Attack,CA,CH,2:54,25,4,1,2,3,B
+Horizon Lunar Colony,Defense,CA,CH,0:12,10,2,0,0,0,B
+Horizon Lunar Colony,Defense,CA,CH,1:10,9,5,0,1,1,B
+Horizon Lunar Colony,Defense,CA,CH,1:39,10,3,0,1,0,B
+Horizon Lunar Colony,Defense,CA,CH,2:11,8,3,0,0,0,B
+Horizon Lunar Colony,Defense,CA,CH,2:42,19,4,0,1,0,B
+Horizon Lunar Colony,Defense,CA,CH,3:35,47,7,5,5,4,R
+Horizon Lunar Colony,Attack,CA,CH,0:11,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,CA,CH,1:00,9,1,2,0,1,R
+Horizon Lunar Colony,Attack,CA,CH,1:34,15,6,0,0,0,B
+Watchpoint: Gibraltar,Defense,CA,CH,0:40,0,1,0,0,0,B
+Watchpoint: Gibraltar,Defense,CA,CH,1:12,7,4,0,0,0,B
+Watchpoint: Gibraltar,Defense,CA,CH,1:51,14,3,1,2,1,B
+Watchpoint: Gibraltar,Defense,CA,CH,2:39,38,6,1,2,2,B
+Watchpoint: Gibraltar,Defense,CA,CH,3:31,29,3,6,1,2,R
+Watchpoint: Gibraltar,Defense,CA,CH,4:34,3,3,0,0,0,B
+Watchpoint: Gibraltar,Defense,CA,CH,5:05,12,1,0,1,0,B
+Watchpoint: Gibraltar,Defense,CA,CH,5:39,15,3,1,0,2,B
+Watchpoint: Gibraltar,Attack,CA,CH,1:01,20,2,5,0,0,R
+Watchpoint: Gibraltar,Attack,CA,CH,1:49,6,1,0,0,0,B
+Watchpoint: Gibraltar,Attack,CA,CH,2:11,30,6,4,1,2,B
+Watchpoint: Gibraltar,Attack,CA,CH,2:58,0,1,0,0,0,B
+Watchpoint: Gibraltar,Attack,CA,CH,3:04,14,5,0,2,1,B
+Nepal,Shrine,BR,USA,0:50,31,1,5,2,4,B
+Nepal,Shrine,BR,USA,1:56,15,1,6,2,3,R
+Nepal,Shrine,BR,USA,2:31,0,0,3,0,0,R
+Nepal,Shrine,BR,USA,2:38,58,4,9,0,4,R
+Nepal,Sanctum,BR,USA,0:42,8,2,1,0,0,R
+Nepal,Sanctum,BR,USA,1:10,3,3,0,0,0,B
+Nepal,Sanctum,BR,USA,1:42,19,3,1,2,2,R
+Nepal,Sanctum,BR,USA,2:26,34,8,2,3,1,R
+Nepal,Village,BR,USA,0:39,7,0,2,1,0,R
+Nepal,Village,BR,USA,1:19,38,3,5,3,0,B
+Nepal,Village,BR,USA,2:26,12,0,5,0,4,R
+King's Row,Attack,BR,USA,0:38,7,1,3,0,0,R
+King's Row,Attack,BR,USA,1:06,34,2,5,1,3,B
+King's Row,Attack,BR,USA,2:01,13,0,5,0,1,R
+King's Row,Attack,BR,USA,2:41,20,4,0,4,2,B
+King's Row,Attack,BR,USA,3:17,0,1,0,0,0,B
+King's Row,Attack,BR,USA,3:51,16,2,5,0,0,R
+King's Row,Attack,BR,USA,4:46,10,0,5,0,0,R
+King's Row,Attack,BR,USA,5:14,0,0,1,0,0,R
+King's Row,Attack,BR,USA,5:39,19,5,2,3,2,R
+King's Row,Attack,BR,USA,6:35,31,3,6,0,3,B
+King's Row,Defense,BR,USA,0:19,7,3,1,0,0,B
+King's Row,Defense,BR,USA,1:02,16,0,5,0,1,R
+King's Row,Defense,BR,USA,1:32,11,1,3,0,1,R
+King's Row,Defense,BR,USA,2:13,15,0,3,0,3,R
+King's Row,Defense,BR,USA,2:39,8,2,2,3,0,R
+Temple of Anubis,Attack,BR,USA,0:12,0,0,1,0,0,R
+Temple of Anubis,Attack,BR,USA,0:44,0,0,1,0,0,R
+Temple of Anubis,Attack,BR,USA,0:48,13,0,2,1,1,R
+Temple of Anubis,Attack,BR,USA,1:22,13,0,4,1,1,R
+Temple of Anubis,Attack,BR,USA,1:57,5,0,1,2,2,R
+Temple of Anubis,Attack,BR,USA,2:21,17,1,5,2,0,R
+Temple of Anubis,Attack,BR,USA,2:59,18,0,3,0,2,R
+Temple of Anubis,Attack,BR,USA,3:37,27,1,6,3,4,R
+Temple of Anubis,Defense,BR,USA,0:29,2,2,1,0,0,B
+Temple of Anubis,Defense,BR,USA,1:03,26,2,7,0,1,R
+Junkertown,Attack,BR,USA,0:21,14,0,3,0,1,R
+Junkertown,Attack,BR,USA,1:05,25,4,1,1,1,B
+Junkertown,Attack,BR,USA,1:57,39,5,0,2,2,B
+Junkertown,Attack,BR,USA,3:08,22,2,4,0,1,B
+Junkertown,Attack,BR,USA,3:48,19,5,0,2,1,B
+Junkertown,Attack,BR,USA,4:37,41,5,1,1,1,B
+Junkertown,Attack,BR,USA,5:48,10,3,0,0,0,B
+Junkertown,Attack,BR,USA,6:17,28,7,0,4,2,B
+Junkertown,Defense,BR,USA,0:38,6,2,2,0,0,R
+Junkertown,Defense,BR,USA,1:09,17,0,4,1,2,R
+Junkertown,Defense,BR,USA,1:45,14,1,6,1,1,R
+Junkertown,Defense,BR,USA,2:32,3,1,0,1,2,B
+Junkertown,Defense,BR,USA,2:50,7,4,0,0,0,B
+Junkertown,Defense,BR,USA,3:17,12,3,1,1,1,B
+Junkertown,Defense,BR,USA,3:57,14,5,0,2,2,B
+Junkertown,Defense,BR,USA,4:39,15,2,0,2,2,B
+Junkertown,Defense,BR,USA,5:22,11,5,0,2,1,B
+Junkertown,Defense,BR,USA,5:53,18,0,6,0,1,R
+Junkertown,Defense,BR,USA,6:29,23,1,6,2,5,R
+Junkertown,Defense,BR,USA,7:18,13,1,6,0,1,R
+Junkertown,Defense,BR,USA,7:53,14,0,5,0,2,R
+Oasis,University,CA,USA,0:20,12,0,4,0,0,R
+Oasis,University,CA,USA,1:01,22,5,0,2,1,B
+Oasis,University,CA,USA,1:49,8,0,2,0,1,R
+Oasis,University,CA,USA,2:17,6,1,2,3,2,R
+Oasis,University,CA,USA,2:47,26,0,5,2,5,R
+Oasis,Gardens,CA,USA,0:21,12,1,6,0,0,R
+Oasis,Gardens,CA,USA,0:59,14,2,0,0,1,B
+Oasis,Gardens,CA,USA,1:20,25,0,4,0,2,R
+Oasis,Gardens,CA,USA,1:50,12,1,0,1,3,B
+Oasis,Gardens,CA,USA,2:11,30,6,2,1,1,B
+Oasis,Gardens,CA,USA,3:10,9,2,0,1,1,B
+Oasis,Gardens,CA,USA,3:46,9,1,1,0,0,R
+Oasis,Gardens,CA,USA,4:08,4,1,0,0,1,B
+Oasis,Gardens,CA,USA,4:44,29,5,1,5,3,R
+Oasis,City Center,CA,USA,0:24,20,5,1,0,0,B
+Oasis,City Center,CA,USA,1:17,29,0,5,2,1,R
+Oasis,City Center,CA,USA,2:04,29,2,4,1,3,R
+Oasis,City Center,CA,USA,2:57,21,0,5,0,2,R
+King's Row,Attack,CA,USA,0:28,11,2,1,0,0,B
+King's Row,Attack,CA,USA,0:50,40,2,4,2,4,B
+King's Row,Attack,CA,USA,1:56,24,3,5,1,3,B
+King's Row,Attack,CA,USA,2:45,6,2,4,0,0,B
+King's Row,Attack,CA,USA,3:27,30,4,6,2,5,B
+King's Row,Defense,CA,USA,0:40,26,5,1,1,1,B
+King's Row,Defense,CA,USA,1:55,35,1,7,1,4,B
+Temple of Anubis,Attack,CA,USA,0:17,12,1,4,0,1,R
+Temple of Anubis,Attack,CA,USA,1:07,16,0,6,0,1,R
+Temple of Anubis,Attack,CA,USA,1:45,16,2,3,0,2,R
+Temple of Anubis,Attack,CA,USA,2:12,42,6,1,4,4,B
+Temple of Anubis,Attack,CA,USA,3:23,20,5,1,2,1,B
+Temple of Anubis,Defense,CA,USA,0:43,0,1,0,0,0,B
+Temple of Anubis,Defense,CA,USA,1:22,2,2,0,0,0,B
+Temple of Anubis,Defense,CA,USA,1:51,8,3,0,1,0,B
+Temple of Anubis,Defense,CA,USA,2:28,7,1,1,0,2,R
+Temple of Anubis,Defense,CA,USA,2:42,19,4,0,1,2,B
+Temple of Anubis,Defense,CA,USA,3:33,39,3,6,1,0,B
+Temple of Anubis,Defense,CA,USA,4:36,0,0,1,0,0,R
+Temple of Anubis,Defense,CA,USA,4:57,10,2,0,0,0,B
+Temple of Anubis,Defense,CA,USA,5:39,18,6,0,1,0,B
+Temple of Anubis,Defense,CA,USA,6:22,26,2,0,4,3,B
+Temple of Anubis,Defense,CA,USA,7:28,7,4,0,1,0,B
+Temple of Anubis,Defense,CA,USA,8:01,21,4,0,1,2,B
+Rialto,Defense,CA,USA,0:43,0,0,1,0,0,R
+Rialto,Defense,CA,USA,1:02,26,4,1,1,1,B
+Rialto,Defense,CA,USA,2:01,19,5,0,1,2,B
+Rialto,Defense,CA,USA,2:55,4,2,2,2,1,R
+Rialto,Defense,CA,USA,3:15,65,5,8,4,3,B
+Rialto,Defense,CA,USA,4:53,15,0,4,0,1,R
+Rialto,Defense,CA,USA,5:23,1,0,2,0,0,R
+Rialto,Defense,CA,USA,5:33,8,1,0,1,1,B
+Rialto,Defense,CA,USA,6:22,15,0,3,1,1,R
+Rialto,Defense,CA,USA,6:54,0,0,1,0,0,R
+Rialto,Defense,CA,USA,7:04,34,2,1,3,1,R
+Rialto,Defense,CA,USA,8:03,0,0,1,0,0,R
+Rialto,Defense,CA,USA,8:18,33,0,6,4,4,R
+Rialto,Attack,CA,USA,0:37,12,1,4,0,0,R
+Rialto,Attack,CA,USA,1:12,14,0,3,0,1,R
+Rialto,Attack,CA,USA,1:47,30,6,1,4,1,B
+Rialto,Attack,CA,USA,2:48,10,0,1,1,2,R
+Rialto,Attack,CA,USA,3:12,23,5,2,1,1,B
+Rialto,Attack,CA,USA,4:01,23,2,4,1,1,R
+Rialto,Attack,CA,USA,4:55,3,3,0,0,0,B
+Rialto,Attack,CA,USA,5:25,6,0,1,0,1,R
+Rialto,Attack,CA,USA,5:52,16,0,3,1,1,R
+Rialto,Attack,CA,USA,6:26,49,3,6,1,2,B
+Rialto,Attack,CA,USA,7:36,18,0,3,4,4,R
+Nepal,Village,CH,BR,0:33,24,6,0,0,1,B
+Nepal,Village,CH,BR,1:19,35,2,7,4,3,R
+Nepal,Village,CH,BR,2:14,44,8,3,3,3,B
+Nepal,Village,CH,BR,3:18,11,5,0,2,0,B
+Nepal,Shrine,CH,BR,0:48,7,0,5,0,0,R
+Nepal,Shrine,CH,BR,1:28,32,6,1,6,1,B
+Nepal,Shrine,CH,BR,2:21,12,0,1,1,1,R
+Nepal,Shrine,CH,BR,2:47,7,0,5,1,2,R
+Nepal,Shrine,CH,BR,3:20,30,6,1,2,1,R
+Nepal,Shrine,CH,BR,4:17,30,4,2,5,3,R
+Nepal,Shrine,CH,BR,5:03,14,5,0,0,1,B
+King's Row,Attack,CH,BR,0:31,8,2,1,0,0,B
+King's Row,Attack,CH,BR,0:57,38,2,5,3,2,B
+King's Row,Attack,CH,BR,2:01,36,8,0,3,2,B
+King's Row,Attack,CH,BR,3:25,9,6,0,1,0,B
+King's Row,Attack,CH,BR,4:02,34,7,4,2,1,B
+King's Row,Attack,CH,BR,5:00,15,4,2,0,1,R
+King's Row,Attack,CH,BR,5:30,44,6,5,5,1,B
+King's Row,Attack,CH,BR,6:39,18,0,5,0,2,R
+King's Row,Attack,CH,BR,7:29,47,1,8,1,5,B
+King's Row,Defense,CH,BR,0:35,20,0,6,0,0,R
+King's Row,Defense,CH,BR,1:23,10,3,1,0,1,B
+King's Row,Defense,CH,BR,2:00,27,4,3,2,3,R
+King's Row,Defense,CH,BR,2:56,21,1,6,1,0,R
+King's Row,Defense,CH,BR,3:47,65,4,14,4,2,B
+Hanamura,Attack,CH,BR,0:22,10,0,6,0,0,R
+Hanamura,Attack,CH,BR,0:55,8,0,1,0,1,R
+Hanamura,Attack,CH,BR,1:14,28,6,0,1,2,B
+Hanamura,Attack,CH,BR,2:16,12,0,5,1,1,R
+Hanamura,Attack,CH,BR,3:09,16,0,6,1,1,R
+Hanamura,Attack,CH,BR,3:58,81,14,3,7,6,B
+Hanamura,Defense,CH,BR,0:15,19,2,2,0,0,R
+Hanamura,Defense,CH,BR,0:52,23,2,6,0,0,B
+Hanamura,Defense,CH,BR,1:41,22,2,5,1,3,R
+Hanamura,Defense,CH,BR,2:11,12,2,0,0,1,B
+Hanamura,Defense,CH,BR,2:54,22,5,1,1,0,R
+Hanamura,Defense,CH,BR,3:45,20,0,5,3,2,R
+Hanamura,Attack,CH,BR,0:34,9,0,3,0,0,R
+Hanamura,Attack,CH,BR,1:22,18,1,5,1,0,R
+Hanamura,Attack,CH,BR,2:05,9,0,4,0,2,R
+Hanamura,Attack,CH,BR,2:35,18,1,1,3,2,B
+Hanamura,Attack,CH,BR,3:11,10,4,1,0,0,B
+Hanamura,Attack,CH,BR,3:45,16,1,6,2,2,R
+Hanamura,Defense,CH,BR,0:37,29,4,6,0,2,R
+Hanamura,Defense,CH,BR,1:45,28,1,4,3,3,R
+Hanamura,Defense,CH,BR,2:28,1,0,1,1,0,R
+Hanamura,Defense,CH,BR,2:55,6,2,0,0,0,B
+Hanamura,Defense,CH,BR,3:40,69,4,15,3,4,R
+Rialto,Attack,CH,BR,0:46,12,0,3,0,1,R
+Rialto,Attack,CH,BR,1:33,19,0,2,0,0,R
+Rialto,Attack,CH,BR,2:14,16,0,4,1,1,R
+Rialto,Attack,CH,BR,3:04,7,0,5,0,0,R
+Rialto,Attack,CH,BR,3:38,9,1,0,1,1,B
+Rialto,Attack,CH,BR,4:16,7,0,2,0,0,R
+Rialto,Defense,CH,BR,0:27,16,4,0,0,0,B
+Rialto,Defense,CH,BR,1:02,0,2,0,0,0,B
+Rialto,Defense,CH,BR,1:25,16,5,1,1,0,B
+Rialto,Defense,CH,BR,2:16,0,1,0,1,0,B
+Rialto,Defense,CH,BR,2:44,18,6,2,1,1,B
+Rialto,Defense,CH,BR,3:28,22,2,5,2,2,B
+Nepal,Shrine,DK,TH,0:25,3,2,0,0,0,B
+Nepal,Shrine,DK,TH,1:01,22,0,4,1,3,R
+Nepal,Shrine,DK,TH,1:45,31,6,2,2,2,R
+Nepal,Shrine,DK,TH,2:44,27,5,1,0,2,R
+Nepal,Shrine,DK,TH,3:30,24,0,6,0,3,R
+Nepal,Shrine,DK,TH,4:10,45,7,2,4,5,R
+Nepal,Village,DK,TH,1:02,6,4,0,0,0,B
+Nepal,Village,DK,TH,1:41,7,1,1,1,1,R
+Nepal,Village,DK,TH,2:00,56,9,4,4,3,B
+King's Row,Defense,DK,TH,0:28,34,4,5,0,1,B
+King's Row,Defense,DK,TH,1:19,13,3,1,2,0,B
+King's Row,Defense,DK,TH,2:03,28,2,4,2,4,R
+King's Row,Defense,DK,TH,2:46,24,6,2,3,1,B
+King's Row,Defense,DK,TH,3:37,34,7,2,0,0,B
+King's Row,Defense,DK,TH,4:35,19,4,4,1,1,B
+King's Row,Defense,DK,TH,5:13,1,0,1,1,0,R
+King's Row,Defense,DK,TH,5:31,0,0,1,0,0,R
+King's Row,Defense,DK,TH,5:40,25,0,2,0,2,R
+King's Row,Defense,DK,TH,6:26,17,0,4,2,0,R
+King's Row,Defense,DK,TH,7:07,8,3,3,0,2,B
+King's Row,Defense,DK,TH,7:39,33,2,5,1,4,R
+King's Row,Attack,DK,TH,0:23,15,3,3,0,1,R
+King's Row,Attack,DK,TH,0:53,20,3,0,0,0,B
+King's Row,Attack,DK,TH,1:44,19,2,2,1,3,R
+King's Row,Attack,DK,TH,2:30,3,1,0,0,1,B
+King's Row,Attack,DK,TH,3:02,21,1,2,2,4,R
+King's Row,Attack,DK,TH,3:40,20,1,5,0,2,B
+King's Row,Attack,DK,TH,4:22,1,0,2,0,0,R
+King's Row,Attack,DK,TH,4:40,27,5,3,2,0,R
+King's Row,Attack,DK,TH,5:46,15,2,6,1,4,B
+King's Row,Attack,DK,TH,6:32,15,4,1,1,2,R
+King's Row,Attack,DK,TH,7:16,8,3,1,0,1,B
+King's Row,Attack,DK,TH,7:49,45,7,3,5,3,R
+Temple of Anubis,Defense,DK,TH,0:19,2,1,1,1,0,R
+Temple of Anubis,Defense,DK,TH,0:44,9,0,3,0,1,R
+Temple of Anubis,Defense,DK,TH,1:17,47,7,6,2,2,B
+Temple of Anubis,Defense,DK,TH,2:19,12,5,0,2,1,B
+Temple of Anubis,Defense,DK,TH,2:46,18,2,1,1,1,B
+Temple of Anubis,Defense,DK,TH,3:16,28,4,5,1,1,R
+Temple of Anubis,Defense,DK,TH,4:06,25,4,2,1,2,R
+Temple of Anubis,Defense,DK,TH,4:44,33,1,3,0,2,B
+Temple of Anubis,Defense,DK,TH,5:40,29,4,5,1,2,B
+Temple of Anubis,Defense,DK,TH,6:25,95,13,2,9,7,R
+Temple of Anubis,Attack,DK,TH,0:18,3,2,0,0,0,B
+Temple of Anubis,Attack,DK,TH,0:48,21,4,1,2,0,B
+Temple of Anubis,Attack,DK,TH,1:28,16,0,6,0,2,R
+Temple of Anubis,Attack,DK,TH,2:21,39,4,0,3,3,B
+Temple of Anubis,Attack,DK,TH,3:36,13,3,0,1,1,B
+Temple of Anubis,Attack,DK,TH,4:11,16,2,0,1,1,B
+Temple of Anubis,Attack,DK,TH,4:57,0,1,0,0,0,B
+Temple of Anubis,Attack,DK,TH,5:25,22,5,0,2,0,B
+Temple of Anubis,Attack,DK,TH,6:13,40,1,9,4,5,R
+Temple of Anubis,Attack,DK,TH,7:01,21,1,4,0,4,R
+Temple of Anubis,Attack,DK,TH,0:15,33,8,1,1,1,B
+Temple of Anubis,Attack,DK,TH,1:16,23,1,6,1,1,R
+Temple of Anubis,Defense,DK,TH,0:21,15,4,0,0,0,B
+Temple of Anubis,Defense,DK,TH,1:02,48,11,0,5,1,B
+Rialto,Attack,DK,TH,0:28,18,5,2,0,0,B
+Rialto,Attack,DK,TH,1:12,13,0,4,0,2,R
+Rialto,Attack,DK,TH,2:05,20,6,1,0,2,B
+Rialto,Attack,DK,TH,3:09,19,4,2,1,1,B
+Rialto,Attack,DK,TH,3:45,10,0,1,0,1,R
+Rialto,Attack,DK,TH,4:15,29,6,1,2,2,B
+Rialto,Attack,DK,TH,5:13,16,1,5,2,1,R
+Rialto,Attack,DK,TH,5:48,16,0,2,0,3,R
+Rialto,Attack,DK,TH,6:28,16,2,4,0,2,R
+Rialto,Attack,DK,TH,7:04,6,0,1,0,0,R
+Rialto,Attack,DK,TH,7:29,12,0,2,0,2,R
+Rialto,Attack,DK,TH,7:56,30,1,5,2,5,R
+Rialto,Defense,DK,TH,0:24,7,0,4,0,0,R
+Rialto,Defense,DK,TH,1:05,9,1,1,0,1,R
+Rialto,Defense,DK,TH,1:22,33,0,7,0,3,R
+Rialto,Defense,DK,TH,2:27,64,8,11,4,4,R
+Rialto,Defense,DK,TH,4:08,27,2,6,2,3,R
+Rialto,Defense,DK,TH,5:03,26,4,2,2,2,R
+Rialto,Defense,DK,TH,6:02,27,4,0,2,1,B
+Rialto,Defense,DK,TH,6:53,39,3,6,3,3,B
+Lijiang Tower,Night Market,SP,AUS,0:31,9,2,2,1,1,R
+Lijiang Tower,Night Market,SP,AUS,1:15,41,7,1,1,4,B
+Lijiang Tower,Night Market,SP,AUS,2:36,27,6,1,1,1,B
+Lijiang Tower,Garden,SP,AUS,0:17,14,2,1,0,0,B
+Lijiang Tower,Garden,SP,AUS,0:55,26,3,3,2,4,B
+Lijiang Tower,Garden,SP,AUS,1:35,29,5,1,3,1,R
+Lijiang Tower,Garden,SP,AUS,2:31,21,1,4,0,2,R
+Lijiang Tower,Garden,SP,AUS,3:30,0,0,1,0,0,R
+Lijiang Tower,Garden,SP,AUS,3:46,87,17,3,5,5,R
+Blizzard World,Defense,SP,AUS,0:28,26,0,6,0,1,R
+Blizzard World,Defense,SP,AUS,1:25,0,1,0,0,0,B
+Blizzard World,Defense,SP,AUS,1:48,26,5,0,2,3,B
+Blizzard World,Defense,SP,AUS,2:48,9,1,1,0,1,B
+Blizzard World,Defense,SP,AUS,3:12,19,1,3,3,3,R
+Blizzard World,Defense,SP,AUS,3:50,9,2,0,0,1,B
+Blizzard World,Defense,SP,AUS,4:38,35,1,5,1,3,R
+Blizzard World,Defense,SP,AUS,5:40,14,1,6,0,1,R
+Blizzard World,Defense,SP,AUS,6:23,0,0,1,0,0,R
+Blizzard World,Defense,SP,AUS,6:43,21,1,2,0,1,R
+Blizzard World,Defense,SP,AUS,7:19,38,1,8,2,5,R
+Blizzard World,Attack,SP,AUS,1:01,22,6,1,1,1,B
+Blizzard World,Attack,SP,AUS,2:02,1,1,0,1,0,B
+Blizzard World,Attack,SP,AUS,2:19,21,5,1,0,1,B
+Blizzard World,Attack,SP,AUS,3:00,26,1,4,2,2,R
+Blizzard World,Attack,SP,AUS,3:53,57,10,3,3,3,R
+Blizzard World,Attack,SP,AUS,5:24,22,5,1,1,1,R
+Blizzard World,Attack,SP,AUS,6:11,0,0,1,0,0,R
+Blizzard World,Attack,SP,AUS,6:25,37,2,4,0,2,R
+Blizzard World,Attack,SP,AUS,7:36,18,2,2,2,2,B
+Blizzard World,Attack,SP,AUS,8:13,8,1,4,0,1,R
+Temple of Anubis,Defense,SP,AUS,1:20,20,1,5,1,0,R
+Temple of Anubis,Defense,SP,AUS,2:06,7,0,3,0,2,R
+Temple of Anubis,Defense,SP,AUS,2:36,14,3,0,0,0,B
+Temple of Anubis,Defense,SP,AUS,3:32,5,1,0,1,1,B
+Temple of Anubis,Defense,SP,AUS,4:11,26,0,3,1,2,R
+Temple of Anubis,Defense,SP,AUS,4:46,28,0,6,1,1,R
+Temple of Anubis,Attack,SP,AUS,1:03,0,0,1,0,0,R
+Temple of Anubis,Attack,SP,AUS,1:06,38,4,2,1,2,R
+Temple of Anubis,Attack,SP,AUS,2:11,27,2,6,1,2,R
+Temple of Anubis,Attack,SP,AUS,3:20,20,0,5,1,0,R
+Temple of Anubis,Attack,SP,AUS,4:11,40,1,4,3,4,B
+Temple of Anubis,Attack,SP,AUS,5:12,26,4,0,2,1,B
+Temple of Anubis,Attack,SP,AUS,0:53,5,1,2,0,0,R
+Temple of Anubis,Attack,SP,AUS,1:14,5,0,2,0,0,R
+Temple of Anubis,Attack,SP,AUS,1:54,10,0,2,0,1,R
+Temple of Anubis,Attack,SP,AUS,2:31,36,1,4,3,5,B
+Temple of Anubis,Defense,SP,AUS,0:58,4,1,1,0,0,R
+Temple of Anubis,Defense,SP,AUS,1:34,17,0,5,0,3,R
+Route 66,Defense,SP,AUS,0:27,0,0,1,0,0,R
+Route 66,Defense,SP,AUS,0:46,0,0,1,0,0,R
+Route 66,Defense,SP,AUS,1:11,25,0,5,0,1,R
+Route 66,Defense,SP,AUS,2:01,10,1,1,0,1,R
+Route 66,Defense,SP,AUS,2:29,21,1,2,3,2,B
+Route 66,Defense,SP,AUS,3:07,15,0,6,0,0,R
+Route 66,Defense,SP,AUS,3:57,6,1,0,1,2,B
+Route 66,Defense,SP,AUS,4:18,15,0,5,0,2,R
+Route 66,Defense,SP,AUS,5:01,21,4,2,0,0,B
+Route 66,Defense,SP,AUS,6:00,10,1,2,1,2,B
+Route 66,Defense,SP,AUS,6:18,22,0,2,1,2,R
+Route 66,Defense,SP,AUS,6:54,14,1,1,1,2,B
+Route 66,Defense,SP,AUS,7:33,30,6,2,2,3,R
+Route 66,Attack,SP,AUS,0:28,12,0,3,0,1,R
+Route 66,Attack,SP,AUS,1:02,18,1,2,0,1,R
+Route 66,Attack,SP,AUS,1:35,0,0,1,0,0,R
+Route 66,Attack,SP,AUS,1:48,21,1,2,2,3,B
+Route 66,Attack,SP,AUS,2:17,17,0,3,1,0,R
+Route 66,Attack,SP,AUS,3:03,18,4,1,2,1,B
+Route 66,Attack,SP,AUS,3:56,29,8,1,1,2,B
+Route 66,Attack,SP,AUS,5:04,25,0,3,1,2,R
+Route 66,Attack,SP,AUS,5:46,24,6,0,2,4,B
+Route 66,Attack,SP,AUS,6:36,43,1,7,2,3,R
+Oasis,City Center,SE,CN,0:43,4,0,2,0,1,R
+Oasis,City Center,SE,CN,1:03,2,1,0,1,0,B
+Oasis,City Center,SE,CN,1:16,28,5,2,2,2,B
+Oasis,City Center,SE,CN,2:10,8,2,0,2,1,B
+Oasis,City Center,SE,CN,2:43,33,3,5,2,2,R
+Oasis,City Center,SE,CN,3:37,50,8,1,4,2,B
+Oasis,City Center,SE,CN,4:46,50,1,7,4,4,R
+Oasis,University,SE,CN,0:35,5,0,3,0,0,R
+Oasis,University,SE,CN,1:12,15,0,5,1,2,R
+Oasis,University,SE,CN,1:47,7,0,1,2,1,R
+Oasis,University,SE,CN,2:21,15,2,2,2,2,R
+Oasis,University,SE,CN,2:55,16,0,3,1,1,R
+King's Row,Defense,SE,CN,0:22,0,1,0,0,0,B
+King's Row,Defense,SE,CN,0:38,0,1,0,0,0,B
+King's Row,Defense,SE,CN,1:23,28,2,5,1,1,B
+King's Row,Defense,SE,CN,2:29,17,0,5,2,3,R
+King's Row,Defense,SE,CN,3:17,13,2,5,0,1,R
+King's Row,Defense,SE,CN,3:46,3,1,1,0,0,B
+King's Row,Defense,SE,CN,3:57,18,1,3,1,1,R
+King's Row,Defense,SE,CN,4:30,22,3,2,2,3,B
+King's Row,Defense,SE,CN,5:17,16,3,0,1,0,B
+King's Row,Defense,SE,CN,5:58,14,0,5,1,3,R
+King's Row,Attack,SE,CN,0:32,5,2,0,0,0,B
+King's Row,Attack,SE,CN,1:04,11,0,2,2,1,R
+King's Row,Attack,SE,CN,1:43,9,1,0,0,1,B
+King's Row,Attack,SE,CN,1:56,22,3,1,2,1,B
+King's Row,Attack,SE,CN,2:37,27,4,0,5,5,B
+King's Row,Attack,SE,CN,3:34,18,0,3,1,0,R
+King's Row,Attack,SE,CN,4:24,24,0,4,2,2,R
+King's Row,Attack,SE,CN,5:24,7,2,2,0,0,R
+King's Row,Attack,SE,CN,5:47,7,1,1,0,0,R
+King's Row,Attack,SE,CN,6:25,26,5,1,3,5,B
+King's Row,Attack,SE,CN,0:21,9,2,0,0,0,B
+King's Row,Attack,SE,CN,0:48,16,4,0,1,0,B
+King's Row,Attack,SE,CN,1:37,7,1,1,1,0,R
+King's Row,Attack,SE,CN,1:58,11,1,2,3,0,R
+King's Row,Attack,SE,CN,2:21,26,3,1,2,1,R
+King's Row,Attack,SE,CN,3:30,16,0,3,0,0,R
+King's Row,Defense,SE,CN,0:39,14,0,5,0,0,R
+King's Row,Defense,SE,CN,1:17,11,0,6,0,1,R
+Temple of Anubis,Defense,SE,CN,0:31,12,0,5,0,1,R
+Temple of Anubis,Defense,SE,CN,1:23,29,1,2,0,2,B
+Temple of Anubis,Defense,SE,CN,2:02,26,0,4,3,3,R
+Temple of Anubis,Attack,SE,CN,0:13,0,0,1,0,0,R
+Temple of Anubis,Attack,SE,CN,0:44,8,1,4,0,0,B
+Temple of Anubis,Attack,SE,CN,1:20,7,0,1,0,1,R
+Temple of Anubis,Attack,SE,CN,1:55,17,1,4,1,3,R
+Temple of Anubis,Attack,SE,CN,2:51,28,5,2,1,1,B
+Temple of Anubis,Attack,SE,CN,3:56,76,10,7,6,3,B
+Temple of Anubis,Attack,SE,CN,5:41,10,3,0,3,0,B
+Temple of Anubis,Attack,SE,CN,0:32,28,6,2,2,0,R
+Temple of Anubis,Attack,SE,CN,1:17,0,0,1,0,0,R
+Temple of Anubis,Attack,SE,CN,1:43,12,0,4,0,1,R
+Temple of Anubis,Attack,SE,CN,2:17,50,7,5,5,2,B
+Temple of Anubis,Defense,SE,CN,0:11,0,1,0,0,0,B
+Temple of Anubis,Defense,SE,CN,0:44,3,1,2,0,0,B
+Temple of Anubis,Defense,SE,CN,1:03,24,2,4,1,2,B
+Temple of Anubis,Defense,SE,CN,2:03,69,2,11,3,6,R
+Route 66,Defense,SE,CN,0:16,0,1,0,0,0,B
+Route 66,Defense,SE,CN,0:39,4,0,1,0,1,R
+Route 66,Defense,SE,CN,0:59,6,0,3,0,0,R
+Route 66,Defense,SE,CN,1:26,20,1,5,1,3,R
+Route 66,Defense,SE,CN,2:09,20,1,5,1,1,R
+Route 66,Defense,SE,CN,2:59,21,1,5,2,5,R
+Route 66,Defense,SE,CN,3:54,0,1,0,0,0,B
+Route 66,Defense,SE,CN,3:59,10,1,0,1,0,B
+Route 66,Defense,SE,CN,4:33,16,2,0,3,0,B
+Route 66,Defense,SE,CN,5:19,18,2,6,0,3,R
+Route 66,Defense,SE,CN,5:47,32,1,6,2,1,R
+Route 66,Defense,SE,CN,6:49,14,0,2,0,0,R
+Route 66,Defense,SE,CN,7:36,49,10,0,4,1,B
+Route 66,Attack,SE,CN,0:51,13,0,3,0,1,R
+Route 66,Attack,SE,CN,1:30,22,0,5,1,2,R
+Route 66,Attack,SE,CN,2:37,23,3,1,3,2,R
+Route 66,Attack,SE,CN,3:17,13,1,3,0,2,R
+Route 66,Attack,SE,CN,3:55,21,2,4,1,1,R
+Ilios,Well,SP,DK,0:23,6,0,4,0,0,R
+Ilios,Well,SP,DK,1:23,41,2,6,3,4,B
+Ilios,Well,SP,DK,2:27,27,0,4,1,2,R
+Ilios,Ruins,SP,DK,0:20,39,3,8,0,3,R
+Ilios,Ruins,SP,DK,1:31,9,3,1,0,0,B
+Ilios,Ruins,SP,DK,1:56,18,3,0,0,0,B
+Ilios,Ruins,SP,DK,2:48,30,4,2,0,0,B
+Ilios,Ruins,SP,DK,3:33,78,13,2,5,4,B
+Ilios,Lighthouse,SP,DK,0:20,7,1,2,0,0,B
+Ilios,Lighthouse,SP,DK,0:55,4,0,2,0,0,R
+Ilios,Lighthouse,SP,DK,1:21,20,0,6,4,2,R
+Ilios,Lighthouse,SP,DK,2:05,34,2,7,0,2,R
+Numbani,Defense,SP,DK,0:18,0,0,1,0,0,R
+Numbani,Defense,SP,DK,1:00,21,6,2,0,2,B
+Numbani,Defense,SP,DK,2:12,23,0,6,1,0,R
+Numbani,Defense,SP,DK,2:59,11,0,5,0,1,R
+Numbani,Defense,SP,DK,3:45,26,2,7,1,2,R
+Numbani,Attack,SP,DK,0:34,10,2,2,0,0,B
+Numbani,Attack,SP,DK,1:02,12,0,4,0,1,R
+Numbani,Attack,SP,DK,1:34,2,0,1,0,1,R
+Numbani,Attack,SP,DK,2:01,9,0,5,0,2,R
+Numbani,Attack,SP,DK,2:45,23,6,0,4,1,B
+Numbani,Attack,SP,DK,3:44,9,1,1,0,0,R
+Numbani,Attack,SP,DK,4:06,14,2,4,0,1,R
+Numbani,Attack,SP,DK,4:45,16,0,3,0,0,R
+Numbani,Attack,SP,DK,5:23,17,6,0,1,1,B
+Numbani,Attack,SP,DK,5:57,40,5,1,1,3,R
+Numbani,Attack,SP,DK,7:02,16,2,5,2,0,R
+Numbani,Attack,SP,DK,7:50,17,4,0,0,1,B
+Numbani,Attack,SP,DK,8:20,24,6,0,3,2,B
+Numbani,Defense,SP,DK,1:03,0,1,0,0,0,B
+Numbani,Defense,SP,DK,1:34,21,4,0,1,1,B
+Numbani,Defense,SP,DK,2:17,24,5,1,2,2,B
+Numbani,Defense,SP,DK,3:18,40,7,2,1,1,R
+Volskaya Industries,Defense,SP,DK,0:09,0,1,0,0,0,B
+Volskaya Industries,Defense,SP,DK,0:34,22,2,2,0,1,R
+Volskaya Industries,Defense,SP,DK,1:18,17,2,6,0,2,R
+Volskaya Industries,Defense,SP,DK,2:10,17,0,4,0,2,R
+Volskaya Industries,Defense,SP,DK,2:42,0,0,1,0,1,R
+Volskaya Industries,Defense,SP,DK,3:16,39,0,8,1,5,R
+Volskaya Industries,Attack,SP,DK,0:40,14,1,4,0,0,R
+Volskaya Industries,Attack,SP,DK,1:42,22,6,1,2,1,B
+Volskaya Industries,Attack,SP,DK,2:39,52,5,6,2,4,B
+Volskaya Industries,Attack,SP,DK,4:08,16,4,2,0,2,R
+Volskaya Industries,Attack,SP,DK,4:40,31,9,0,0,1,B
+Volskaya Industries,Attack,SP,DK,0:34,18,6,0,0,0,B
+Volskaya Industries,Attack,SP,DK,1:31,46,11,0,2,1,B
+Volskaya Industries,Defense,SP,DK,0:15,18,6,2,0,0,B
+Volskaya Industries,Defense,SP,DK,1:08,20,4,0,0,0,B
+Volskaya Industries,Defense,SP,DK,2:02,27,4,0,2,1,B
+Volskaya Industries,Defense,SP,DK,3:00,23,1,6,0,1,R
+Volskaya Industries,Defense,SP,DK,3:59,47,7,3,4,4,R
+Watchpoint: Gibraltar,Defense,SP,DK,1:03,0,0,1,0,0,R
+Watchpoint: Gibraltar,Defense,SP,DK,1:21,60,2,12,3,5,R
+Watchpoint: Gibraltar,Defense,SP,DK,2:51,11,2,1,0,0,R
+Watchpoint: Gibraltar,Defense,SP,DK,3:28,21,0,8,0,1,R
+Watchpoint: Gibraltar,Defense,SP,DK,4:16,14,0,2,0,3,R
+Watchpoint: Gibraltar,Defense,SP,DK,4:48,17,4,0,2,0,B
+Watchpoint: Gibraltar,Defense,SP,DK,5:27,37,0,7,1,3,R
+Watchpoint: Gibraltar,Attack,SP,DK,0:43,7,0,3,0,0,R
+Watchpoint: Gibraltar,Attack,SP,DK,1:09,0,0,1,0,0,R
+Watchpoint: Gibraltar,Attack,SP,DK,1:57,63,8,2,2,3,B
+Watchpoint: Gibraltar,Attack,SP,DK,3:27,40,4,4,1,3,B
+Watchpoint: Gibraltar,Attack,SP,DK,4:38,7,0,2,0,1,R
+Watchpoint: Gibraltar,Attack,SP,DK,4:53,11,0,1,0,1,R
+Watchpoint: Gibraltar,Attack,SP,DK,5:40,65,12,4,3,5,R
+Watchpoint: Gibraltar,Attack,SP,DK,7:27,24,3,3,1,0,B
+Watchpoint: Gibraltar,Attack,SP,DK,8:17,17,0,5,1,3,R
+Oasis,Gardens,AUS,TH,0:15,0,0,1,0,0,R
+Oasis,Gardens,AUS,TH,0:49,16,3,4,0,2,B
+Oasis,Gardens,AUS,TH,1:29,21,2,4,4,4,B
+Oasis,Gardens,AUS,TH,2:17,16,6,0,1,2,B
+Oasis,Gardens,AUS,TH,3:05,37,1,6,2,2,R
+Oasis,University,AUS,TH,0:26,57,8,3,1,2,B
+Oasis,University,AUS,TH,1:43,25,4,1,2,1,R
+Oasis,University,AUS,TH,2:24,12,5,0,2,0,B
+Oasis,University,AUS,TH,3:04,10,1,3,0,3,R
+Oasis,University,AUS,TH,3:40,18,2,3,3,1,B
+Oasis,University,AUS,TH,4:29,15,0,4,0,1,R
+Oasis,University,AUS,TH,5:03,69,12,7,4,6,R
+Oasis,City Center,AUS,TH,0:22,0,0,1,0,0,R
+Oasis,City Center,AUS,TH,0:49,23,5,1,0,0,B
+Oasis,City Center,AUS,TH,1:37,19,0,4,3,3,R
+Oasis,City Center,AUS,TH,2:19,14,4,0,1,1,B
+Oasis,City Center,AUS,TH,3:16,20,3,2,4,3,R
+King's Row,Attack,AUS,TH,0:26,4,0,3,0,1,R
+King's Row,Attack,AUS,TH,0:48,8,0,1,0,1,R
+King's Row,Attack,AUS,TH,1:12,12,4,0,1,0,B
+King's Row,Attack,AUS,TH,1:46,0,0,1,0,0,R
+King's Row,Attack,AUS,TH,2:07,20,5,0,3,3,B
+King's Row,Attack,AUS,TH,2:58,13,4,1,1,1,B
+King's Row,Attack,AUS,TH,3:42,0,0,1,0,0,R
+King's Row,Attack,AUS,TH,4:03,60,9,7,4,4,B
+King's Row,Attack,AUS,TH,5:55,12,5,0,2,2,B
+King's Row,Defense,AUS,TH,0:30,7,2,1,0,0,R
+King's Row,Defense,AUS,TH,1:01,4,2,0,0,0,B
+King's Row,Defense,AUS,TH,1:29,18,2,0,1,0,B
+King's Row,Defense,AUS,TH,2:09,33,5,6,5,4,B
+King's Row,Defense,AUS,TH,3:32,0,1,0,0,0,B
+King's Row,Defense,AUS,TH,3:42,14,0,5,0,2,R
+King's Row,Defense,AUS,TH,4:15,20,3,4,1,2,R
+King's Row,Defense,AUS,TH,5:02,12,6,1,2,2,B
+King's Row,Defense,AUS,TH,5:37,10,3,0,1,0,B
+King's Row,Defense,AUS,TH,6:12,14,1,6,0,2,B
+King's Row,Defense,AUS,TH,6:36,15,0,4,3,2,R
+King's Row,Defense,AUS,TH,0:22,31,4,7,0,1,R
+King's Row,Defense,AUS,TH,1:40,20,4,1,0,1,B
+King's Row,Attack,AUS,TH,0:28,0,1,0,0,0,B
+King's Row,Attack,AUS,TH,0:33,23,6,1,1,2,R
+King's Row,Attack,AUS,TH,1:12,18,0,4,0,0,R
+King's Row,Attack,AUS,TH,1:46,27,6,1,1,2,B
+Temple of Anubis,Attack,AUS,TH,0:27,12,2,4,0,0,B
+Temple of Anubis,Attack,AUS,TH,1:18,20,2,1,1,2,B
+Temple of Anubis,Attack,AUS,TH,1:53,5,0,2,0,0,R
+Temple of Anubis,Attack,AUS,TH,2:10,3,0,1,0,1,R
+Temple of Anubis,Attack,AUS,TH,2:36,22,6,1,3,1,B
+Temple of Anubis,Attack,AUS,TH,3:22,18,2,2,1,1,B
+Temple of Anubis,Attack,AUS,TH,4:09,8,3,2,0,0,R
+Temple of Anubis,Attack,AUS,TH,4:37,24,7,0,3,2,B
+Temple of Anubis,Attack,AUS,TH,5:11,38,6,5,3,3,R
+Temple of Anubis,Attack,AUS,TH,6:21,42,8,3,3,3,B
+Temple of Anubis,Attack,AUS,TH,7:25,13,1,2,1,2,R
+Temple of Anubis,Attack,AUS,TH,7:58,20,2,5,4,2,R
+Temple of Anubis,Defense,AUS,TH,0:29,0,1,0,0,0,B
+Temple of Anubis,Defense,AUS,TH,1:02,5,3,1,0,0,R
+Temple of Anubis,Defense,AUS,TH,2:14,13,3,0,0,0,B
+Temple of Anubis,Defense,AUS,TH,3:08,24,3,1,0,0,B
+Temple of Anubis,Defense,AUS,TH,3:51,31,7,2,1,2,R
+Rialto,Attack,AUS,TH,0:23,13,0,2,0,0,R
+Rialto,Attack,AUS,TH,0:57,21,1,3,0,1,R
+Rialto,Attack,AUS,TH,1:35,0,0,1,0,0,R
+Rialto,Attack,AUS,TH,1:59,6,2,1,0,2,B
+Rialto,Attack,AUS,TH,2:31,20,2,2,3,2,B
+Rialto,Attack,AUS,TH,3:17,6,2,0,0,2,B
+Rialto,Attack,AUS,TH,3:38,17,4,2,1,0,B
+Rialto,Attack,AUS,TH,4:24,4,2,0,2,0,B
+Rialto,Attack,AUS,TH,4:40,24,1,4,1,4,B
+Rialto,Attack,AUS,TH,5:48,3,2,1,0,0,B
+Rialto,Attack,AUS,TH,6:16,24,7,0,0,0,B
+Rialto,Attack,AUS,TH,6:55,16,5,2,3,1,B
+Rialto,Attack,AUS,TH,7:32,7,0,2,1,4,R
+Rialto,Attack,AUS,TH,8:12,14,1,4,0,3,R
+Rialto,Defense,AUS,TH,0:13,9,2,0,0,0,B
+Rialto,Defense,AUS,TH,1:05,29,5,2,2,0,R
+Rialto,Defense,AUS,TH,1:49,5,2,0,1,0,B
+Rialto,Defense,AUS,TH,2:17,5,1,0,1,2,B
+Rialto,Defense,AUS,TH,2:36,19,3,0,2,1,B
+Rialto,Defense,AUS,TH,3:14,0,1,0,0,0,B
+Rialto,Defense,AUS,TH,3:32,68,6,10,5,3,R
+Rialto,Defense,AUS,TH,5:16,18,6,2,1,0,R
+Rialto,Defense,AUS,TH,6:19,18,0,6,0,1,R
+Rialto,Defense,AUS,TH,6:52,36,8,3,3,1,R
+Oasis,University,AUS,DK,0:34,7,2,0,0,0,B
+Oasis,University,AUS,DK,1:18,21,2,5,0,0,B
+Oasis,University,AUS,DK,2:01,23,3,3,5,2,R
+Oasis,University,AUS,DK,2:58,16,1,3,0,1,B
+Oasis,University,AUS,DK,3:38,16,0,5,2,2,R
+Oasis,City Center,AUS,DK,0:39,0,1,0,0,0,B
+Oasis,City Center,AUS,DK,0:54,0,0,1,0,0,R
+Oasis,City Center,AUS,DK,3:16,22,3,0,1,1,B
+Oasis,City Center,AUS,DK,4:12,23,2,3,3,0,B
+Oasis,City Center,AUS,DK,4:51,12,0,3,0,0,R
+Oasis,City Center,AUS,DK,5:51,7,0,1,0,0,R
+Oasis,City Center,AUS,DK,6:27,21,0,3,3,2,R
+Oasis,City Center,AUS,DK,7:03,11,1,0,1,1,B
+Oasis,City Center,AUS,DK,7:34,42,3,3,2,1,R
+Oasis,City Center,AUS,DK,8:26,34,6,1,2,2,B
+Oasis,City Center,AUS,DK,9:13,17,3,0,2,1,B
+Oasis,Gardens,AUS,DK,0:27,8,2,1,0,0,B
+Oasis,Gardens,AUS,DK,0:50,3,0,3,0,0,R
+Oasis,Gardens,AUS,DK,1:23,35,2,4,3,4,B
+Oasis,Gardens,AUS,DK,2:21,3,0,1,0,1,R
+Oasis,Gardens,AUS,DK,2:51,21,0,2,3,3,R
+Numbani,Defense,AUS,DK,0:38,3,1,2,0,0,R
+Numbani,Defense,AUS,DK,1:37,9,4,1,2,0,B
+Numbani,Defense,AUS,DK,2:11,18,3,5,1,2,R
+Numbani,Defense,AUS,DK,3:02,27,2,5,1,4,R
+Numbani,Defense,AUS,DK,3:55,14,2,2,0,1,R
+Numbani,Defense,AUS,DK,4:22,21,6,2,2,2,B
+Numbani,Defense,AUS,DK,5:09,22,1,3,2,1,B
+Numbani,Defense,AUS,DK,5:44,14,0,4,0,1,R
+Numbani,Attack,AUS,DK,3:39,1,0,2,0,0,R
+Numbani,Attack,AUS,DK,4:23,26,1,5,1,1,R
+Numbani,Attack,AUS,DK,5:09,35,6,1,1,2,B
+Numbani,Attack,AUS,DK,6:15,28,5,2,3,3,R
+Numbani,Attack,AUS,DK,7:16,0,0,1,0,0,R
+Numbani,Attack,AUS,DK,7:29,26,2,6,2,0,R
+Numbani,Attack,AUS,DK,8:44,19,7,1,0,0,R
+Numbani,Attack,AUS,DK,9:28,4,2,1,1,0,R
+Numbani,Attack,AUS,DK,10:21,43,1,6,4,3,B
+Temple of Anubis,Defense,AUS,DK,0:27,0,1,0,0,0,B
+Temple of Anubis,Defense,AUS,DK,0:56,0,1,0,0,0,B
+Temple of Anubis,Defense,AUS,DK,1:23,48,7,2,4,2,B
+Temple of Anubis,Defense,AUS,DK,2:31,46,6,6,3,3,B
+Temple of Anubis,Defense,AUS,DK,4:09,36,0,7,2,2,R
+Temple of Anubis,Attack,AUS,DK,0:15,0,0,1,0,0,R
+Temple of Anubis,Attack,AUS,DK,1:07,12,1,1,0,0,B
+Temple of Anubis,Attack,AUS,DK,1:38,14,0,3,1,1,R
+Temple of Anubis,Attack,AUS,DK,2:14,57,8,6,5,5,R
+Temple of Anubis,Attack,AUS,DK,4:06,52,9,2,2,3,B
+Temple of Anubis,Attack,AUS,DK,5:14,0,0,1,0,0,R
+Temple of Anubis,Attack,AUS,DK,5:33,0,0,1,0,0,R
+Temple of Anubis,Attack,AUS,DK,6:04,43,10,0,4,2,B
+Temple of Anubis,Attack,AUS,DK,0:44,9,0,2,0,0,R
+Temple of Anubis,Attack,AUS,DK,1:03,20,0,5,1,2,R
+Temple of Anubis,Defense,AUS,DK,0:31,6,2,1,0,0,R
+Temple of Anubis,Defense,AUS,DK,0:46,46,6,3,3,1,R
+Temple of Anubis,Defense,AUS,DK,1:57,26,0,6,2,5,R
+Junkertown,Defense,AUS,DK,0:05,0,1,0,0,0,B
+Junkertown,Defense,AUS,DK,0:27,0,1,0,0,0,B
+Junkertown,Defense,AUS,DK,1:01,0,0,1,0,0,R
+Junkertown,Defense,AUS,DK,1:16,6,0,2,0,0,R
+Junkertown,Defense,AUS,DK,1:34,5,2,0,2,2,B
+Junkertown,Defense,AUS,DK,1:57,5,1,1,0,1,R
+Junkertown,Defense,AUS,DK,2:22,59,3,7,2,3,R
+Junkertown,Defense,AUS,DK,3:56,20,5,0,2,0,B
+Junkertown,Defense,AUS,DK,4:38,28,6,0,3,4,B
+Junkertown,Defense,AUS,DK,5:34,17,4,1,1,0,R
+Junkertown,Defense,AUS,DK,6:17,40,7,3,3,2,B
+Junkertown,Attack,AUS,DK,1:18,0,0,2,0,0,R
+Junkertown,Attack,AUS,DK,2:28,73,10,3,4,0,B
+Junkertown,Attack,AUS,DK,4:50,35,9,0,1,0,B
+Ilios,Ruins,CN,TH,0:16,0,1,0,0,0,B
+Ilios,Ruins,CN,TH,0:32,8,1,1,1,0,B
+Ilios,Ruins,CN,TH,0:54,32,6,2,2,2,B
+Ilios,Ruins,CN,TH,1:59,9,1,1,1,2,R
+Ilios,Ruins,CN,TH,2:24,16,3,0,1,0,B
+Ilios,Well,CN,TH,0:28,24,1,3,0,1,B
+Ilios,Well,CN,TH,1:14,20,2,5,1,1,R
+Ilios,Well,CN,TH,1:57,17,0,4,0,1,R
+Ilios,Well,CN,TH,2:35,22,4,0,0,3,B
+Ilios,Well,CN,TH,3:21,6,0,2,1,0,R
+Ilios,Well,CN,TH,3:46,21,4,1,2,1,R
+Ilios,Well,CN,TH,4:30,8,1,1,0,1,B
+Ilios,Well,CN,TH,4:43,17,3,0,0,0,B
+Ilios,Well,CN,TH,5:20,57,6,5,3,3,B
+Ilios,Well,CN,TH,6:28,12,1,2,1,0,B
+Ilios,Lighthouse,CN,TH,1:08,7,0,2,1,0,R
+Ilios,Lighthouse,CN,TH,1:28,32,3,4,0,1,B
+Ilios,Lighthouse,CN,TH,2:41,13,1,1,0,1,R
+Ilios,Lighthouse,CN,TH,3:16,11,1,1,2,2,B
+Ilios,Lighthouse,CN,TH,3:58,9,1,4,0,0,R
+Ilios,Lighthouse,CN,TH,4:36,18,5,0,4,2,B
+King's Row,Attack,CN,TH,0:23,7,0,2,0,0,R
+King's Row,Attack,CN,TH,0:57,0,0,1,0,0,R
+King's Row,Attack,CN,TH,1:18,11,4,0,2,0,B
+King's Row,Attack,CN,TH,1:41,18,0,2,0,3,R
+King's Row,Attack,CN,TH,2:25,19,4,1,2,2,R
+King's Row,Attack,CN,TH,3:25,6,4,1,1,0,B
+King's Row,Attack,CN,TH,3:59,30,1,3,3,3,R
+King's Row,Attack,CN,TH,4:54,7,1,0,0,1,B
+King's Row,Attack,CN,TH,5:16,3,3,0,0,0,B
+King's Row,Attack,CN,TH,5:49,26,1,4,1,5,B
+King's Row,Attack,CN,TH,6:47,6,2,0,1,0,B
+King's Row,Attack,CN,TH,7:20,5,1,2,0,1,R
+King's Row,Attack,CN,TH,8:01,19,4,2,1,2,B
+King's Row,Defense,CN,TH,0:26,21,3,6,0,1,B
+King's Row,Defense,CN,TH,1:28,10,0,5,0,0,R
+King's Row,Defense,CN,TH,2:10,58,6,6,3,2,B
+King's Row,Defense,CN,TH,3:27,52,4,8,2,4,B
+King's Row,Defense,CN,TH,4:34,17,6,1,2,0,R
+King's Row,Defense,CN,TH,8:29,24,3,0,1,2,B
+King's Row,Defense,CN,TH,9:19,8,4,0,1,2,B
+King's Row,Defense,CN,TH,9:52,4,1,0,1,0,B
+King's Row,Defense,CN,TH,10:20,29,5,1,3,2,R
+King's Row,Defense,CN,TH,11:11,36,5,2,2,4,R
+Temple of Anubis,Defense,CN,TH,0:20,0,1,0,0,0,B
+Temple of Anubis,Defense,CN,TH,0:35,5,3,0,0,0,B
+Temple of Anubis,Defense,CN,TH,0:57,61,4,7,3,4,B
+Temple of Anubis,Defense,CN,TH,2:21,31,4,0,1,3,B
+Temple of Anubis,Defense,CN,TH,3:50,15,0,4,3,1,R
+Temple of Anubis,Defense,CN,TH,4:21,10,1,4,0,1,B
+Temple of Anubis,Attack,CN,TH,0:19,2,0,2,0,0,R
+Temple of Anubis,Attack,CN,TH,0:48,0,0,1,0,0,R
+Temple of Anubis,Attack,CN,TH,1:04,30,5,2,2,2,B
+Temple of Anubis,Attack,CN,TH,1:50,11,4,1,1,0,R
+Temple of Anubis,Attack,CN,TH,2:19,33,5,4,2,3,B
+Temple of Anubis,Attack,CN,TH,3:31,19,2,3,0,0,R
+Temple of Anubis,Attack,CN,TH,4:13,34,5,4,3,3,R
+Temple of Anubis,Attack,CN,TH,5:13,28,1,4,0,2,R
+Temple of Anubis,Attack,CN,TH,5:51,82,9,8,6,6,R
+Temple of Anubis,Attack,CN,TH,7:46,26,2,5,3,5,R
+Watchpoint: Gibraltar,Defense,CN,TH,0:52,1,0,2,0,0,R
+Watchpoint: Gibraltar,Defense,CN,TH,1:10,20,6,0,3,0,B
+Watchpoint: Gibraltar,Defense,CN,TH,1:53,60,8,6,3,4,R
+Watchpoint: Gibraltar,Defense,CN,TH,3:34,24,6,3,1,1,B
+Watchpoint: Gibraltar,Attack,CN,TH,1:15,21,3,5,0,0,B
+Watchpoint: Gibraltar,Attack,CN,TH,2:08,22,2,3,1,3,R
+Watchpoint: Gibraltar,Attack,CN,TH,2:58,25,5,4,1,1,R
+Watchpoint: Gibraltar,Attack,CN,TH,3:35,46,3,6,3,1,B
+Oasis,Gardens,CN,TH,0:31,9,4,0,0,0,B
+Oasis,Gardens,CN,TH,1:19,13,4,1,1,1,B
+Oasis,Gardens,CN,TH,2:03,13,4,1,1,1,R
+Oasis,Gardens,CN,TH,2:42,26,4,1,3,0,R
+Oasis,City Center,CN,TH,0:36,28,2,4,0,1,R
+Oasis,City Center,CN,TH,1:28,20,6,2,1,1,B
+Oasis,City Center,CN,TH,2:10,15,1,1,1,2,B
+Oasis,City Center,CN,TH,2:33,25,1,5,3,4,R
+Oasis,City Center,CN,TH,3:32,41,6,5,3,1,B
+Oasis,City Center,CN,TH,4:41,31,7,0,2,2,B
+Ilios,Lighthouse,AUS,SE,0:38,18,6,0,0,0,B
+Ilios,Lighthouse,AUS,SE,1:20,20,5,0,4,1,B
+Ilios,Lighthouse,AUS,SE,2:06,10,4,0,0,1,B
+Ilios,Lighthouse,AUS,SE,2:40,37,7,0,3,0,B
+Ilios,Well,AUS,SE,0:21,13,1,1,0,2,B
+Ilios,Well,AUS,SE,0:52,18,5,2,1,0,R
+Ilios,Well,AUS,SE,1:24,10,0,1,1,0,R
+Ilios,Well,AUS,SE,1:43,39,5,2,0,1,B
+Ilios,Well,AUS,SE,2:52,19,2,1,1,1,B
+Ilios,Well,AUS,SE,3:20,9,1,2,2,1,R
+Ilios,Well,AUS,SE,3:37,11,0,1,0,0,R
+Ilios,Well,AUS,SE,4:37,19,2,1,0,3,B
+Ilios,Well,AUS,SE,5:06,12,1,3,3,1,R
+Ilios,Well,AUS,SE,5:56,27,4,3,1,1,R
+Ilios,Well,AUS,SE,6:29,25,3,1,1,1,B
+King's Row,Attack,AUS,SE,0:27,0,0,1,0,0,R
+King's Row,Attack,AUS,SE,1:08,0,0,1,0,0,R
+King's Row,Attack,AUS,SE,1:42,39,3,5,1,4,B
+King's Row,Attack,AUS,SE,2:45,38,6,2,2,1,R
+King's Row,Attack,AUS,SE,3:47,21,0,2,0,1,R
+King's Row,Attack,AUS,SE,4:28,18,0,3,2,3,R
+King's Row,Attack,AUS,SE,5:14,10,5,1,2,0,B
+King's Row,Attack,AUS,SE,5:55,20,5,0,1,0,B
+King's Row,Attack,AUS,SE,6:31,9,0,1,0,1,R
+King's Row,Attack,AUS,SE,7:04,6,1,0,0,0,B
+King's Row,Attack,AUS,SE,7:25,37,7,2,0,3,B
+King's Row,Attack,AUS,SE,8:06,48,10,2,4,3,R
+King's Row,Defense,AUS,SE,0:19,4,1,1,0,0,B
+King's Row,Defense,AUS,SE,0:38,9,2,0,0,0,B
+King's Row,Defense,AUS,SE,1:11,19,1,6,1,0,R
+King's Row,Defense,AUS,SE,1:52,0,0,1,0,0,R
+King's Row,Defense,AUS,SE,2:30,23,3,3,1,3,B
+King's Row,Defense,AUS,SE,3:01,7,0,1,0,2,R
+King's Row,Defense,AUS,SE,3:28,12,4,0,1,0,B
+King's Row,Defense,AUS,SE,4:20,21,2,4,1,0,R
+King's Row,Defense,AUS,SE,5:37,11,2,0,2,0,B
+King's Row,Defense,AUS,SE,6:21,48,1,10,4,4,B
+King's Row,Attack,AUS,SE,0:49,21,5,0,0,0,B
+King's Row,Attack,AUS,SE,1:49,20,2,2,2,2,R
+King's Row,Attack,AUS,SE,2:20,26,6,1,0,1,B
+King's Row,Attack,AUS,SE,3:23,23,5,0,3,1,B
+King's Row,Attack,AUS,SE,4:13,17,4,1,1,2,R
+King's Row,Defense,AUS,SE,0:21,15,2,2,0,2,R
+King's Row,Defense,AUS,SE,0:45,38,1,6,2,3,R
+King's Row,Defense,AUS,SE,2:09,21,0,6,0,2,R
+King's Row,Defense,AUS,SE,3:00,13,1,5,1,2,R
+King's Row,Defense,AUS,SE,3:39,12,3,1,2,1,R
+Temple of Anubis,Attack,AUS,SE,0:18,0,0,1,0,0,R
+Temple of Anubis,Attack,AUS,SE,1:26,39,6,3,2,3,B
+Temple of Anubis,Attack,AUS,SE,3:12,16,0,3,0,0,R
+Temple of Anubis,Attack,AUS,SE,3:49,17,0,3,1,1,R
+Temple of Anubis,Attack,AUS,SE,4:36,38,8,1,3,4,B
+Temple of Anubis,Defense,AUS,SE,0:48,16,4,0,0,1,B
+Temple of Anubis,Defense,AUS,SE,1:36,7,4,0,1,0,B
+Temple of Anubis,Defense,AUS,SE,2:09,9,1,0,0,1,B
+Temple of Anubis,Defense,AUS,SE,2:44,31,2,6,3,2,R
+Temple of Anubis,Defense,AUS,SE,3:49,13,4,2,0,1,R
+Temple of Anubis,Defense,AUS,SE,4:28,56,6,5,4,4,R
+Temple of Anubis,Defense,AUS,SE,5:42,7,3,0,0,1,B
+Temple of Anubis,Defense,AUS,SE,6:16,13,3,0,1,1,B
+Temple of Anubis,Defense,AUS,SE,6:57,39,3,6,4,3,R
+Temple of Anubis,Defense,AUS,SE,7:42,24,4,1,1,3,B
+Rialto,Attack,AUS,SE,0:23,20,5,0,0,0,B
+Rialto,Attack,AUS,SE,1:14,25,5,4,2,2,B
+Rialto,Attack,AUS,SE,2:03,19,6,1,2,1,B
+Rialto,Attack,AUS,SE,2:56,22,5,0,1,1,B
+Rialto,Attack,AUS,SE,3:55,17,4,0,1,1,B
+Rialto,Attack,AUS,SE,4:39,36,6,0,3,3,B
+Rialto,Attack,AUS,SE,5:41,11,2,2,1,0,R
+Rialto,Attack,AUS,SE,6:34,14,0,4,0,2,R
+Rialto,Attack,AUS,SE,7:17,29,0,3,4,4,R
+Rialto,Attack,AUS,SE,8:10,18,4,0,0,1,B
+Rialto,Attack,AUS,SE,8:40,20,3,2,4,2,R
+Rialto,Attack,AUS,SE,9:11,9,0,4,0,2,R
+Rialto,Defense,AUS,SE,0:34,0,0,1,0,0,R
+Rialto,Defense,AUS,SE,1:12,27,5,1,5,1,R
+Rialto,Defense,AUS,SE,2:10,0,1,0,0,0,B
+Rialto,Defense,AUS,SE,2:26,0,1,0,0,0,B
+Rialto,Defense,AUS,SE,2:48,17,0,6,0,2,R
+Rialto,Defense,AUS,SE,3:33,10,3,0,0,0,B
+Rialto,Defense,AUS,SE,4:05,6,1,0,1,1,B
+Rialto,Defense,AUS,SE,4:25,15,0,3,0,0,R
+Rialto,Defense,AUS,SE,5:06,4,2,0,0,0,B
+Rialto,Defense,AUS,SE,5:46,23,4,0,2,0,B
+Rialto,Defense,AUS,SE,6:25,9,1,1,2,1,R
+Rialto,Defense,AUS,SE,6:42,9,2,0,1,1,B
+Lijiang Tower,Garden,DK,CN,0:12,30,2,6,0,0,R
+Lijiang Tower,Garden,DK,CN,1:11,44,7,2,5,4,B
+Lijiang Tower,Garden,DK,CN,2:15,19,6,1,2,0,B
+Lijiang Tower,Garden,DK,CN,3:03,83,4,16,4,7,B
+Lijiang Tower,Control Center,DK,CN,0:33,19,1,4,0,1,R
+Lijiang Tower,Control Center,DK,CN,1:13,28,5,0,2,2,B
+Lijiang Tower,Control Center,DK,CN,2:06,10,3,0,0,0,B
+Lijiang Tower,Control Center,DK,CN,2:40,20,2,1,0,2,B
+Lijiang Tower,Control Center,DK,CN,3:15,0,1,0,0,0,B
+Lijiang Tower,Control Center,DK,CN,3:30,21,5,0,5,3,B
+Lijiang Tower,Night Market,DK,CN,0:30,14,4,2,0,0,B
+Lijiang Tower,Night Market,DK,CN,1:12,5,0,2,0,1,R
+Lijiang Tower,Night Market,DK,CN,2:07,41,3,9,3,2,B
+Lijiang Tower,Night Market,DK,CN,3:22,16,0,3,0,4,R
+Lijiang Tower,Night Market,DK,CN,3:58,24,2,7,0,1,R
+Blizzard World,Defense,DK,CN,0:28,23,0,3,0,0,R
+Blizzard World,Defense,DK,CN,1:26,17,0,5,0,0,R
+Blizzard World,Defense,DK,CN,2:05,0,1,0,0,0,B
+Blizzard World,Defense,DK,CN,2:18,36,5,1,2,3,B
+Blizzard World,Defense,DK,CN,3:25,32,3,2,0,2,B
+Blizzard World,Defense,DK,CN,4:29,16,3,1,1,1,B
+Blizzard World,Defense,DK,CN,5:06,16,2,0,2,2,B
+Blizzard World,Defense,DK,CN,6:06,4,1,1,0,1,B
+Blizzard World,Defense,DK,CN,6:29,24,4,1,3,0,B
+Blizzard World,Attack,DK,CN,0:07,0,0,1,0,0,R
+Blizzard World,Attack,DK,CN,0:37,32,3,6,0,1,B
+Blizzard World,Attack,DK,CN,2:09,12,4,2,1,0,R
+Blizzard World,Attack,DK,CN,2:42,28,6,1,2,1,B
+Blizzard World,Attack,DK,CN,4:00,27,1,4,1,1,B
+Blizzard World,Attack,DK,CN,5:10,21,1,3,0,1,R
+Blizzard World,Attack,DK,CN,5:59,4,1,0,2,1,B
+Blizzard World,Attack,DK,CN,6:06,14,2,0,2,2,B
+Blizzard World,Attack,DK,CN,6:26,20,3,3,0,1,B
+Temple of Anubis,Attack,DK,CN,0:37,32,5,6,0,2,B
+Temple of Anubis,Attack,DK,CN,1:19,67,8,4,3,3,R
+Temple of Anubis,Attack,DK,CN,3:11,32,7,1,3,2,B
+Temple of Anubis,Defense,DK,CN,0:35,0,1,0,0,0,B
+Temple of Anubis,Defense,DK,CN,0:47,28,3,2,2,0,R
+Temple of Anubis,Defense,DK,CN,1:41,54,6,3,4,2,B
+Temple of Anubis,Defense,DK,CN,3:04,30,5,2,3,3,B
+Temple of Anubis,Defense,DK,CN,3:49,1,0,1,0,1,R
+Temple of Anubis,Defense,DK,CN,3:59,13,3,0,2,0,B
+Rialto,Attack,DK,CN,0:28,25,5,3,0,0,B
+Rialto,Attack,DK,CN,1:29,23,4,3,1,2,B
+Rialto,Attack,DK,CN,2:14,73,10,5,4,3,R
+Rialto,Attack,DK,CN,3:44,38,4,5,2,2,B
+Rialto,Attack,DK,CN,4:51,27,0,6,0,0,R
+Rialto,Attack,DK,CN,5:33,20,0,4,0,3,R
+Rialto,Attack,DK,CN,6:23,37,3,4,1,4,B
+Rialto,Attack,DK,CN,7:18,55,3,8,3,3,R
+Rialto,Defense,DK,CN,0:04,0,1,0,0,0,B
+Rialto,Defense,DK,CN,0:52,13,3,0,1,0,B
+Rialto,Defense,DK,CN,1:32,35,0,7,2,5,R
+Rialto,Defense,DK,CN,2:51,68,2,12,0,5,R
+Rialto,Defense,DK,CN,4:24,23,2,3,0,0,B
+Rialto,Defense,DK,CN,5:08,13,1,2,1,1,B
+Rialto,Defense,DK,CN,5:25,43,0,10,2,2,R
+Oasis,University,DK,CN,0:28,3,0,2,0,0,R
+Oasis,University,DK,CN,1:10,11,0,4,0,1,R
+Oasis,University,DK,CN,1:57,21,1,6,1,1,R
+Oasis,University,DK,CN,2:42,23,3,1,3,4,R
+Oasis,University,DK,CN,3:42,24,0,5,2,2,R
+Oasis,Gardens,DK,CN,0:31,0,1,0,0,0,B
+Oasis,Gardens,DK,CN,0:46,3,1,0,1,0,B
+Oasis,Gardens,DK,CN,1:27,32,6,4,3,4,R
+Oasis,Gardens,DK,CN,2:28,26,6,1,2,0,B
+Oasis,City Center,DK,CN,0:43,14,0,5,0,1,R
+Oasis,City Center,DK,CN,1:27,0,0,1,0,0,R
+Oasis,City Center,DK,CN,1:32,25,0,6,2,1,R
+Oasis,City Center,DK,CN,2:30,24,2,7,2,2,B
+Nepal,Village,SP,SE,0:50,20,6,0,2,1,B
+Nepal,Village,SP,SE,1:49,15,0,6,0,2,R
+Nepal,Village,SP,SE,2:25,14,0,2,2,2,R
+Nepal,Village,SP,SE,3:11,39,0,6,3,3,R
+Nepal,Sanctum,SP,SE,0:40,17,1,5,0,2,R
+Nepal,Sanctum,SP,SE,1:26,14,0,2,0,0,R
+Nepal,Sanctum,SP,SE,2:10,30,1,5,1,3,R
+Numbani,Defense,SP,SE,0:40,2,1,0,0,0,B
+Numbani,Defense,SP,SE,1:10,0,0,1,0,0,R
+Numbani,Defense,SP,SE,1:38,28,0,5,2,2,R
+Numbani,Defense,SP,SE,2:52,14,0,3,1,0,R
+Numbani,Defense,SP,SE,3:21,0,0,1,0,0,R
+Numbani,Defense,SP,SE,3:59,23,0,3,0,0,R
+Numbani,Defense,SP,SE,4:33,23,0,3,4,2,R
+Numbani,Attack,SP,SE,0:18,18,0,3,0,0,R
+Numbani,Attack,SP,SE,1:10,18,1,1,0,3,B
+Numbani,Attack,SP,SE,1:33,21,0,4,2,3,R
+Numbani,Attack,SP,SE,2:21,35,6,3,1,1,R
+Numbani,Attack,SP,SE,3:41,12,6,1,0,0,B
+Numbani,Attack,SP,SE,4:19,14,1,1,1,1,R
+Numbani,Attack,SP,SE,4:48,5,3,0,0,0,B
+Numbani,Attack,SP,SE,5:18,17,5,0,1,0,B
+Numbani,Attack,SP,SE,5:48,30,2,2,1,4,R
+Numbani,Attack,SP,SE,6:44,20,6,1,3,3,B
+Numbani,Attack,SP,SE,0:13,0,0,1,0,0,R
+Numbani,Attack,SP,SE,0:37,31,6,2,1,2,B
+Numbani,Attack,SP,SE,1:40,8,1,3,0,1,R
+Numbani,Defense,SP,SE,1:03,14,2,0,0,2,B
+Numbani,Defense,SP,SE,1:55,19,1,5,1,3,R
+Numbani,Defense,SP,SE,2:52,16,1,5,1,1,R
+Volskaya Industries,Defense,SP,SE,1:08,13,2,1,0,1,B
+Volskaya Industries,Defense,SP,SE,2:02,12,0,1,0,0,R
+Volskaya Industries,Defense,SP,SE,2:22,19,0,5,0,2,R
+Volskaya Industries,Defense,SP,SE,3:00,29,1,7,0,3,R
+Volskaya Industries,Attack,SP,SE,0:20,21,5,0,0,0,B
+Volskaya Industries,Attack,SP,SE,1:31,19,1,3,0,1,B
+Volskaya Industries,Attack,SP,SE,2:22,79,14,1,1,3,B
+Volskaya Industries,Attack,SP,SE,0:29,0,0,1,0,0,R
+Volskaya Industries,Attack,SP,SE,1:11,15,5,1,1,2,B
+Volskaya Industries,Attack,SP,SE,2:05,16,5,0,3,0,B
+Volskaya Industries,Attack,SP,SE,2:46,22,7,0,0,2,B
+Volskaya Industries,Defense,SP,SE,0:32,0,0,1,0,0,R
+Volskaya Industries,Defense,SP,SE,0:52,9,0,6,0,0,R
+Volskaya Industries,Defense,SP,SE,1:07,13,0,2,0,2,R
+Volskaya Industries,Defense,SP,SE,1:37,0,0,1,0,0,R
+Volskaya Industries,Attack,SP,SE,0:09,0,0,1,0,0,R
+Volskaya Industries,Attack,SP,SE,0:55,0,0,1,0,0,R
+Volskaya Industries,Attack,SP,SE,1:49,23,1,4,0,3,R
+Rialto,Defense,SP,SE,1:01,5,5,0,0,0,B
+Rialto,Defense,SP,SE,1:29,0,2,0,0,0,B
+Rialto,Defense,SP,SE,2:01,18,4,1,1,1,B
+Rialto,Defense,SP,SE,2:51,13,1,2,2,2,R
+Rialto,Defense,SP,SE,3:35,0,1,0,0,0,B
+Rialto,Defense,SP,SE,4:04,11,1,2,0,3,B
+Rialto,Defense,SP,SE,4:30,11,0,4,0,1,R
+Rialto,Defense,SP,SE,5:17,26,7,1,2,3,B
+Rialto,Defense,SP,SE,6:05,20,1,3,0,0,B
+Rialto,Defense,SP,SE,7:01,0,1,0,0,0,B
+Rialto,Defense,SP,SE,7:32,13,4,0,0,1,B
+Rialto,Attack,SP,SE,0:46,8,1,2,0,0,B
+Rialto,Attack,SP,SE,1:16,23,4,0,2,3,B
+Rialto,Attack,SP,SE,2:02,38,6,2,2,1,B
+Rialto,Attack,SP,SE,3:27,0,0,1,0,0,R
+Rialto,Attack,SP,SE,3:37,29,0,5,0,1,R
+Rialto,Attack,SP,SE,4:20,13,0,4,0,2,R
+Rialto,Attack,SP,SE,4:55,4,0,1,0,1,R
+Rialto,Attack,SP,SE,5:21,2,1,0,0,0,B
+Rialto,Attack,SP,SE,5:32,8,1,1,1,1,B
+Rialto,Attack,SP,SE,6:17,14,2,2,0,1,B
+Rialto,Attack,SP,SE,6:44,19,0,2,0,0,R
+Lijiang Tower,Garden,SE,TH,0:18,25,2,4,1,0,B
+Lijiang Tower,Garden,SE,TH,1:21,24,0,5,0,1,R
+Lijiang Tower,Garden,SE,TH,2:02,12,1,4,0,2,R
+Lijiang Tower,Garden,SE,TH,2:27,37,0,7,3,5,R
+Lijiang Tower,Control Center,SE,TH,0:23,11,1,5,0,0,B
+Lijiang Tower,Control Center,SE,TH,0:56,11,1,5,0,0,B
+Lijiang Tower,Control Center,SE,TH,1:33,15,0,4,0,0,R
+Lijiang Tower,Control Center,SE,TH,2:06,7,2,3,1,3,R
+Lijiang Tower,Control Center,SE,TH,2:48,14,1,5,0,0,R
+Hollywood,Defense,SE,TH,0:49,18,1,6,1,2,B
+Hollywood,Defense,SE,TH,1:28,29,0,6,2,3,R
+Hollywood,Defense,SE,TH,2:21,11,5,0,2,3,B
+Hollywood,Defense,SE,TH,2:43,25,5,5,2,4,B
+Hollywood,Defense,SE,TH,3:44,23,5,0,1,0,B
+Hollywood,Defense,SE,TH,4:23,18,4,0,1,0,B
+Hollywood,Defense,SE,TH,5:14,11,2,3,0,0,R
+Hollywood,Defense,SE,TH,5:30,13,0,2,1,1,R
+Hollywood,Defense,SE,TH,6:00,42,2,8,1,3,R
+Hollywood,Defense,SE,TH,7:08,25,0,6,0,3,R
+Hollywood,Defense,SE,TH,7:59,36,10,2,4,4,B
+Hollywood,Attack,SE,TH,0:23,25,3,5,0,0,B
+Hollywood,Attack,SE,TH,1:02,22,6,0,1,0,B
+Hollywood,Attack,SE,TH,1:57,36,5,2,2,3,B
+Hollywood,Attack,SE,TH,2:53,43,8,0,3,2,B
+Hollywood,Attack,SE,TH,4:04,8,1,0,2,2,B
+Temple of Anubis,Attack,SE,TH,0:59,30,4,7,0,0,B
+Temple of Anubis,Attack,SE,TH,2:20,12,6,0,2,0,B
+Temple of Anubis,Attack,SE,TH,3:08,46,6,5,3,3,R
+Temple of Anubis,Attack,SE,TH,4:26,44,6,3,3,4,B
+Temple of Anubis,Attack,SE,TH,5:44,32,3,2,1,2,B
+Temple of Anubis,Attack,SE,TH,6:38,13,4,0,3,2,B
+Temple of Anubis,Defense,SE,TH,0:41,0,1,0,0,0,B
+Temple of Anubis,Defense,SE,TH,0:50,53,6,2,1,2,R
+Temple of Anubis,Defense,SE,TH,2:20,23,4,1,3,2,B
+Temple of Anubis,Defense,SE,TH,3:41,0,1,0,0,0,B
+Temple of Anubis,Defense,SE,TH,4:01,19,5,1,1,1,B
+Rialto,Attack,SE,TH,0:16,0,0,1,0,0,R
+Rialto,Attack,SE,TH,0:55,5,2,1,0,0,B
+Rialto,Attack,SE,TH,1:23,24,4,0,1,1,B
+Rialto,Attack,SE,TH,2:11,17,2,5,1,2,B
+Rialto,Attack,SE,TH,2:51,9,1,2,1,0,R
+Rialto,Attack,SE,TH,3:13,13,5,1,2,1,B
+Rialto,Attack,SE,TH,3:43,27,0,5,1,2,R
+Rialto,Attack,SE,TH,4:43,17,0,5,2,4,R
+Rialto,Attack,SE,TH,5:19,11,0,3,0,1,R
+Rialto,Attack,SE,TH,5:44,22,3,1,1,1,R
+Rialto,Attack,SE,TH,6:26,18,6,1,2,2,R
+Rialto,Attack,SE,TH,7:33,12,5,0,0,0,B
+Rialto,Attack,SE,TH,8:05,23,0,6,2,3,R
+Rialto,Defense,SE,TH,0:35,23,3,5,1,1,R
+Rialto,Defense,SE,TH,1:25,18,0,6,0,2,R
+Rialto,Defense,SE,TH,2:01,13,0,6,2,2,R
+Rialto,Defense,SE,TH,2:51,12,0,5,0,1,R
+Rialto,Defense,SE,TH,3:25,19,4,1,2,1,R
+Rialto,Defense,SE,TH,4:18,8,2,0,1,2,B
+Rialto,Defense,SE,TH,4:53,8,4,0,1,0,B
+Rialto,Defense,SE,TH,5:18,9,1,0,1,3,B
+Rialto,Defense,SE,TH,5:44,3,2,0,0,0,B
+Rialto,Defense,SE,TH,6:25,26,5,3,3,2,R
+Ilios,Well,SP,CN,0:22,5,3,1,0,0,B
+Ilios,Well,SP,CN,1:21,20,4,1,3,2,B
+Ilios,Well,SP,CN,2:24,11,1,5,0,1,R
+Ilios,Well,SP,CN,3:16,27,0,5,0,1,R
+Ilios,Well,SP,CN,4:14,45,7,4,3,3,B
+Ilios,Ruins,SP,CN,0:23,0,0,1,0,0,R
+Ilios,Ruins,SP,CN,1:01,14,1,3,0,0,R
+Ilios,Ruins,SP,CN,1:38,16,0,5,0,2,R
+Ilios,Ruins,SP,CN,2:21,36,0,7,2,4,R
+Ilios,Lighthouse,SP,CN,0:37,0,0,1,0,0,R
+Ilios,Lighthouse,SP,CN,0:52,0,0,1,0,0,R
+Ilios,Lighthouse,SP,CN,1:13,15,0,6,1,1,R
+Ilios,Lighthouse,SP,CN,2:16,14,5,0,0,0,B
+Ilios,Lighthouse,SP,CN,2:58,44,1,7,3,3,R
+Numbani,Defense,SP,CN,0:37,17,6,0,0,0,B
+Numbani,Defense,SP,CN,1:27,10,1,3,0,0,R
+Numbani,Defense,SP,CN,1:49,47,3,7,4,2,R
+Numbani,Defense,SP,CN,3:15,37,2,6,0,1,R
+Numbani,Defense,SP,CN,4:04,37,0,6,2,3,R
+Numbani,Defense,SP,CN,5:00,17,2,0,1,1,B
+Numbani,Defense,SP,CN,5:51,10,3,0,1,0,B
+Numbani,Defense,SP,CN,6:30,4,0,1,1,0,R
+Numbani,Defense,SP,CN,6:53,16,1,3,3,1,R
+Numbani,Defense,SP,CN,7:33,7,0,4,0,3,R
+Numbani,Attack,SP,CN,1:02,12,0,2,0,2,R
+Numbani,Attack,SP,CN,1:35,2,0,1,0,0,R
+Numbani,Attack,SP,CN,1:44,101,15,5,2,3,B
+Numbani,Attack,SP,CN,3:54,12,0,2,1,2,R
+Numbani,Attack,SP,CN,4:36,10,3,0,1,1,B
+Numbani,Attack,SP,CN,4:56,8,1,0,1,0,B
+Numbani,Attack,SP,CN,5:54,34,2,3,1,1,B
+Numbani,Attack,SP,CN,6:57,17,1,3,1,3,B
+Numbani,Attack,SP,CN,7:49,11,0,6,0,3,R
+Volskaya Industries,Attack,SP,CN,0:30,14,1,5,0,1,R
+Volskaya Industries,Attack,SP,CN,1:27,8,0,1,0,2,R
+Volskaya Industries,Attack,SP,CN,1:52,0,0,1,0,0,R
+Volskaya Industries,Attack,SP,CN,2:23,3,0,1,1,0,R
+Volskaya Industries,Attack,SP,CN,2:45,28,5,1,2,1,B
+Volskaya Industries,Attack,SP,CN,3:38,0,1,0,0,0,B
+Volskaya Industries,Attack,SP,CN,3:55,11,1,5,0,1,R
+Volskaya Industries,Attack,SP,CN,4:35,0,0,1,0,0,R
+Volskaya Industries,Attack,SP,CN,4:54,6,1,0,2,2,B
+Volskaya Industries,Attack,SP,CN,5:34,24,1,5,0,0,R
+Volskaya Industries,Attack,SP,CN,6:37,9,0,4,0,0,R
+Volskaya Industries,Attack,SP,CN,7:27,28,2,5,1,1,B
+Volskaya Industries,Defense,SP,CN,0:28,18,5,1,0,0,R
+Volskaya Industries,Defense,SP,CN,1:21,26,6,2,2,0,R
+Volskaya Industries,Defense,SP,CN,2:17,15,6,0,2,0,B
+Volskaya Industries,Defense,SP,CN,3:06,26,0,5,1,3,R
+Volskaya Industries,Defense,SP,CN,3:48,7,4,1,3,1,B
+Volskaya Industries,Defense,SP,CN,4:46,9,0,3,0,1,R
+Rialto,Defense,SP,CN,0:12,57,1,9,0,0,R
+Rialto,Defense,SP,CN,1:29,0,0,1,0,0,R
+Rialto,Defense,SP,CN,2:02,21,3,3,1,4,B
+Rialto,Defense,SP,CN,2:39,17,0,5,1,0,R
+Rialto,Defense,SP,CN,3:22,19,1,4,1,2,B
+Rialto,Defense,SP,CN,4:07,14,0,6,1,1,R
+Rialto,Attack,SP,CN,0:43,46,8,1,0,0,B
+Rialto,Attack,SP,CN,1:51,16,0,3,0,0,R
+Rialto,Attack,SP,CN,2:33,22,3,4,2,2,B
+Rialto,Attack,SP,CN,3:22,13,0,4,0,1,R
+Rialto,Attack,SP,CN,4:01,17,0,5,1,1,R
+Rialto,Attack,SP,CN,4:40,17,1,3,0,0,R
+Rialto,Attack,SP,CN,5:22,35,6,4,6,1,R
+Rialto,Attack,SP,CN,6:24,18,0,5,1,3,R
+Lijiang Tower,Night Market,DK,SE,0:44,10,4,0,0,0,B
+Lijiang Tower,Night Market,DK,SE,1:20,46,6,4,3,1,R
+Lijiang Tower,Night Market,DK,SE,2:30,48,8,6,3,2,R
+Lijiang Tower,Garden,DK,SE,0:24,9,6,0,0,0,B
+Lijiang Tower,Garden,DK,SE,1:09,9,4,0,0,0,B
+Lijiang Tower,Garden,DK,SE,1:40,31,4,1,2,2,B
+Lijiang Tower,Garden,DK,SE,2:27,50,11,1,3,4,B
+Hollywood,Attack,DK,SE,0:37,17,6,1,0,0,B
+Hollywood,Attack,DK,SE,1:16,2,0,2,1,0,R
+Hollywood,Attack,DK,SE,1:25,28,1,6,4,2,B
+Hollywood,Attack,DK,SE,2:20,12,0,3,0,0,R
+Hollywood,Attack,DK,SE,2:52,17,0,2,2,2,R
+Hollywood,Attack,DK,SE,3:34,23,6,0,1,1,B
+Hollywood,Attack,DK,SE,4:39,33,4,2,4,2,B
+Hollywood,Attack,DK,SE,5:27,5,2,0,0,0,B
+Hollywood,Attack,DK,SE,5:53,21,7,0,3,0,B
+Hollywood,Attack,DK,SE,6:37,5,0,1,1,2,R
+Hollywood,Attack,DK,SE,7:04,17,0,4,2,1,R
+Hollywood,Attack,DK,SE,7:41,62,4,11,1,4,R
+Hollywood,Defense,DK,SE,0:47,21,0,6,0,0,R
+Hollywood,Defense,DK,SE,1:49,18,1,5,1,0,R
+Hollywood,Defense,DK,SE,2:49,34,1,8,0,1,R
+Hollywood,Defense,DK,SE,3:32,17,0,2,3,2,R
+Temple of Anubis,Defense,DK,SE,0:38,0,1,0,0,0,B
+Temple of Anubis,Defense,DK,SE,1:08,21,0,6,0,0,R
+Temple of Anubis,Defense,DK,SE,1:56,13,2,1,0,3,B
+Temple of Anubis,Defense,DK,SE,3:00,54,4,6,3,5,R
+Temple of Anubis,Defense,DK,SE,4:25,5,1,0,1,0,B
+Temple of Anubis,Defense,DK,SE,4:45,6,4,0,0,0,B
+Temple of Anubis,Defense,DK,SE,5:26,35,5,2,2,2,B
+Temple of Anubis,Defense,DK,SE,6:29,0,1,0,0,0,B
+Temple of Anubis,Defense,DK,SE,7:03,7,1,2,1,1,R
+Temple of Anubis,Defense,DK,SE,7:40,19,6,0,4,1,B
+Temple of Anubis,Attack,DK,SE,0:32,27,1,6,0,0,B
+Temple of Anubis,Attack,DK,SE,1:22,0,0,1,0,0,R
+Temple of Anubis,Attack,DK,SE,1:42,18,0,3,1,1,R
+Temple of Anubis,Attack,DK,SE,2:27,22,1,7,4,0,R
+Temple of Anubis,Attack,DK,SE,3:11,27,1,5,0,2,R
+Temple of Anubis,Attack,DK,SE,4:01,12,1,5,0,0,R
+Watchpoint: Gibraltar,Defense,DK,SE,0:52,8,0,3,0,0,R
+Watchpoint: Gibraltar,Defense,DK,SE,1:32,19,4,2,3,1,R
+Watchpoint: Gibraltar,Defense,DK,SE,2:38,6,0,1,1,1,R
+Watchpoint: Gibraltar,Defense,DK,SE,3:00,43,5,4,2,1,B
+Watchpoint: Gibraltar,Defense,DK,SE,4:10,70,2,15,1,2,R
+Watchpoint: Gibraltar,Defense,DK,SE,5:34,9,1,0,1,1,B
+Watchpoint: Gibraltar,Defense,DK,SE,5:57,21,4,1,0,2,B
+Watchpoint: Gibraltar,Defense,DK,SE,6:54,64,8,8,4,5,R
+Watchpoint: Gibraltar,Attack,DK,SE,0:37,0,1,0,0,0,B
+Watchpoint: Gibraltar,Attack,DK,SE,1:02,35,8,2,0,0,R
+Watchpoint: Gibraltar,Attack,DK,SE,1:56,0,1,0,0,0,B
+Watchpoint: Gibraltar,Attack,DK,SE,2:07,41,7,1,1,1,B
+Watchpoint: Gibraltar,Attack,DK,SE,3:13,39,2,7,0,1,R
+Watchpoint: Gibraltar,Attack,DK,SE,4:13,21,3,0,4,3,B
+Nepal,Village,DK,SE,0:23,10,2,0,0,0,B
+Nepal,Village,DK,SE,1:01,17,6,0,3,1,B
+Nepal,Village,DK,SE,1:33,23,3,0,2,0,B
+Nepal,Village,DK,SE,2:31,20,0,4,3,2,R
+Nepal,Village,DK,SE,3:32,30,1,5,2,2,R
+Nepal,Village,DK,SE,4:43,25,0,5,3,1,R
+Nepal,Shrine,DK,SE,1:02,17,0,3,0,2,R
+Nepal,Shrine,DK,SE,1:33,29,1,2,4,2,B
+Nepal,Shrine,DK,SE,2:25,20,0,5,0,2,R
+Nepal,Sanctum,AUS,CN,1:04,22,6,1,1,0,B
+Nepal,Sanctum,AUS,CN,1:47,11,4,0,3,2,B
+Nepal,Sanctum,AUS,CN,2:18,8,0,1,0,1,R
+Nepal,Sanctum,AUS,CN,2:30,24,0,6,0,0,R
+Nepal,Sanctum,AUS,CN,3:24,7,0,1,0,0,R
+Nepal,Sanctum,AUS,CN,3:52,16,1,6,1,2,R
+Nepal,Village,AUS,CN,0:38,12,6,0,0,0,B
+Nepal,Village,AUS,CN,1:32,9,1,0,1,0,B
+Nepal,Village,AUS,CN,1:49,12,1,0,2,1,B
+Nepal,Village,AUS,CN,2:25,10,3,1,1,1,B
+Nepal,Village,AUS,CN,2:46,39,7,2,1,3,B
+Nepal,Village,AUS,CN,3:36,14,4,1,3,0,B
+Nepal,Shrine,AUS,CN,0:36,13,1,3,0,1,R
+Nepal,Shrine,AUS,CN,1:26,14,0,6,0,1,R
+Nepal,Shrine,AUS,CN,2:07,10,0,4,2,1,R
+Nepal,Shrine,AUS,CN,2:40,20,0,6,0,2,R
+King's Row,Defense,AUS,CN,0:00,0,1,0,0,0,B
+King's Row,Defense,AUS,CN,0:25,10,3,0,1,0,B
+King's Row,Defense,AUS,CN,0:58,18,4,2,2,1,B
+King's Row,Defense,AUS,CN,1:54,17,4,3,2,0,R
+King's Row,Defense,AUS,CN,2:30,17,4,1,3,0,R
+King's Row,Defense,AUS,CN,3:15,16,1,6,0,2,R
+King's Row,Defense,AUS,CN,4:18,30,2,6,0,0,R
+King's Row,Defense,AUS,CN,5:13,5,2,0,2,0,B
+King's Row,Defense,AUS,CN,5:48,29,1,6,1,1,R
+King's Row,Defense,AUS,CN,6:53,33,6,3,3,2,R
+King's Row,Defense,AUS,CN,7:57,0,0,1,0,0,R
+King's Row,Attack,AUS,CN,0:52,4,1,1,0,1,R
+King's Row,Attack,AUS,CN,1:03,20,1,2,1,0,B
+King's Row,Attack,AUS,CN,1:46,17,2,2,3,3,B
+King's Row,Attack,AUS,CN,2:47,14,4,2,1,2,B
+King's Row,Attack,AUS,CN,3:52,20,0,5,0,1,R
+King's Row,Attack,AUS,CN,4:30,21,5,2,2,1,R
+King's Row,Attack,AUS,CN,5:11,15,2,3,3,2,R
+King's Row,Attack,AUS,CN,6:15,26,0,8,0,2,R
+Temple of Anubis,Attack,AUS,CN,0:49,9,0,2,0,0,R
+Temple of Anubis,Attack,AUS,CN,1:38,23,1,6,1,1,R
+Temple of Anubis,Attack,AUS,CN,2:30,33,5,2,4,4,R
+Temple of Anubis,Attack,AUS,CN,3:48,8,1,0,1,1,B
+Temple of Anubis,Attack,AUS,CN,4:04,17,0,4,2,3,R
+Temple of Anubis,Attack,AUS,CN,4:53,0,1,0,0,0,B
+Temple of Anubis,Attack,AUS,CN,5:05,12,1,4,1,1,R
+Temple of Anubis,Attack,AUS,CN,6:24,50,5,5,4,4,B
+Temple of Anubis,Attack,AUS,CN,7:35,43,5,4,3,1,B
+Temple of Anubis,Defense,AUS,CN,0:36,0,1,0,0,0,B
+Temple of Anubis,Defense,AUS,CN,1:10,0,1,0,0,0,B
+Temple of Anubis,Defense,AUS,CN,1:25,3,1,1,0,0,R
+Temple of Anubis,Defense,AUS,CN,1:55,6,2,0,0,0,B
+Temple of Anubis,Defense,AUS,CN,2:20,0,1,0,0,0,B
+Temple of Anubis,Defense,AUS,CN,2:26,9,1,0,1,0,B
+Temple of Anubis,Defense,AUS,CN,3:03,21,3,0,2,2,B
+Temple of Anubis,Defense,AUS,CN,4:00,7,1,1,1,1,R
+Temple of Anubis,Defense,AUS,CN,4:16,10,1,0,1,0,B
+Rialto,Attack,AUS,CN,0:36,1,1,0,1,0,B
+Rialto,Attack,AUS,CN,1:03,56,8,1,3,2,B
+Rialto,Attack,AUS,CN,2:32,20,4,0,3,0,B
+Rialto,Attack,AUS,CN,3:19,23,2,3,1,2,B
+Rialto,Attack,AUS,CN,4:28,0,0,1,0,0,R
+Rialto,Attack,AUS,CN,4:36,8,0,1,2,1,R
+Rialto,Attack,AUS,CN,5:16,15,1,5,2,3,B
+Rialto,Attack,AUS,CN,6:08,4,4,0,0,0,B
+Rialto,Attack,AUS,CN,6:26,8,0,1,1,0,R
+Rialto,Attack,AUS,CN,7:09,58,1,9,5,6,R
+Rialto,Defense,AUS,CN,0:08,0,1,0,0,0,B
+Rialto,Defense,AUS,CN,0:23,0,0,1,0,0,R
+Rialto,Defense,AUS,CN,0:47,0,1,0,0,0,B
+Rialto,Defense,AUS,CN,1:11,24,3,1,1,2,B
+Rialto,Defense,AUS,CN,2:07,12,0,6,2,3,R
+Rialto,Defense,AUS,CN,2:35,28,4,3,1,2,B
+Rialto,Defense,AUS,CN,3:28,21,0,2,1,2,R
+Rialto,Defense,AUS,CN,4:12,26,5,0,0,1,B
+Rialto,Defense,AUS,CN,5:11,13,2,1,3,1,R
+Rialto,Defense,AUS,CN,5:39,12,4,0,0,0,B
+Rialto,Defense,AUS,CN,6:27,26,5,0,3,0,B
+Lijiang Tower,Night Market,AUS,CN,0:21,10,0,4,0,1,R
+Lijiang Tower,Night Market,AUS,CN,1:09,13,0,6,0,2,R
+Lijiang Tower,Night Market,AUS,CN,1:54,0,1,0,0,0,B
+Lijiang Tower,Night Market,AUS,CN,2:05,10,1,0,2,1,B
+Lijiang Tower,Night Market,AUS,CN,2:41,8,2,0,1,0,B
+Lijiang Tower,Night Market,AUS,CN,3:34,24,0,7,3,2,R
+Lijiang Tower,Control Center,AUS,CN,0:43,15,0,4,0,0,R
+Lijiang Tower,Control Center,AUS,CN,1:50,34,2,6,2,3,B
+Lijiang Tower,Control Center,AUS,CN,2:38,20,1,3,1,1,R
+Lijiang Tower,Control Center,AUS,CN,3:18,10,1,1,1,2,B
+Oasis,Gardens,SP,TH,0:13,3,0,2,0,0,R
+Oasis,Gardens,SP,TH,0:36,0,0,1,0,0,R
+Oasis,Gardens,SP,TH,1:13,0,1,0,0,1,B
+Oasis,Gardens,SP,TH,1:22,39,6,1,4,2,R
+Oasis,Gardens,SP,TH,2:33,10,5,1,2,0,B
+Oasis,Gardens,SP,TH,3:19,34,2,6,1,2,B
+Oasis,Gardens,SP,TH,4:20,2,2,0,0,0,B
+Oasis,Gardens,SP,TH,4:43,23,6,2,2,1,B
+Oasis,City Center,SP,TH,0:32,20,6,1,0,0,B
+Oasis,City Center,SP,TH,1:27,5,1,0,1,0,B
+Oasis,City Center,SP,TH,2:11,0,0,1,0,0,R
+Oasis,City Center,SP,TH,2:21,49,7,2,4,4,B
+King's Row,Defense,SP,TH,0:22,18,3,0,0,0,B
+King's Row,Defense,SP,TH,1:03,18,3,1,0,0,B
+King's Row,Defense,SP,TH,1:38,10,4,0,3,0,B
+King's Row,Defense,SP,TH,2:11,8,1,0,2,3,B
+King's Row,Defense,SP,TH,2:39,11,0,6,1,0,R
+King's Row,Defense,SP,TH,3:22,28,0,5,2,2,R
+King's Row,Defense,SP,TH,4:07,15,3,1,1,1,B
+King's Row,Defense,SP,TH,4:46,17,6,1,2,0,B
+King's Row,Defense,SP,TH,5:33,23,5,1,1,2,B
+King's Row,Defense,SP,TH,6:24,17,6,0,3,0,B
+King's Row,Attack,SP,TH,0:42,0,0,1,0,0,R
+King's Row,Attack,SP,TH,1:12,13,0,2,0,0,R
+King's Row,Attack,SP,TH,1:48,11,1,2,1,2,R
+King's Row,Attack,SP,TH,2:18,0,1,0,0,0,B
+King's Row,Attack,SP,TH,2:27,18,2,1,1,2,B
+King's Row,Attack,SP,TH,3:09,15,1,2,0,1,R
+King's Row,Attack,SP,TH,3:46,4,0,1,0,1,R
+Volskaya Industries,Defense,SP,TH,1:00,35,1,6,0,2,R
+Volskaya Industries,Defense,SP,TH,2:13,45,4,7,3,3,B
+Volskaya Industries,Defense,SP,TH,3:06,23,6,1,2,0,B
+Volskaya Industries,Defense,SP,TH,4:10,14,0,3,1,4,R
+Volskaya Industries,Defense,SP,TH,4:30,18,0,4,2,1,R
+Volskaya Industries,Attack,SP,TH,0:57,23,0,6,0,0,R
+Volskaya Industries,Attack,SP,TH,1:49,13,0,2,2,1,R
+Volskaya Industries,Attack,SP,TH,2:17,5,1,3,1,0,R
+Volskaya Industries,Attack,SP,TH,2:55,18,1,4,1,2,R
+Volskaya Industries,Attack,SP,TH,3:36,28,2,6,0,2,R
+Rialto,Defense,SP,TH,0:24,9,1,2,0,0,R
+Rialto,Defense,SP,TH,1:08,17,1,6,0,1,R
+Rialto,Defense,SP,TH,1:46,37,3,5,3,3,B
+Rialto,Defense,SP,TH,2:43,20,2,0,1,2,B
+Rialto,Defense,SP,TH,3:35,15,1,4,3,3,R
+Rialto,Defense,SP,TH,4:13,5,0,1,0,2,R
+Rialto,Defense,SP,TH,4:23,17,1,1,2,0,B
+Rialto,Defense,SP,TH,5:01,24,6,4,1,0,R
+Rialto,Defense,SP,TH,5:51,8,3,0,3,0,B
+Rialto,Defense,SP,TH,6:32,30,0,5,4,5,R
+Rialto,Defense,SP,TH,7:11,22,3,4,2,1,B
+Rialto,Attack,SP,TH,0:28,18,3,8,0,0,R
+Rialto,Attack,SP,TH,1:03,13,4,0,1,0,B
+Rialto,Attack,SP,TH,1:41,11,0,4,2,1,R
+Rialto,Attack,SP,TH,2:24,19,0,2,1,1,R
+Rialto,Attack,SP,TH,3:06,21,1,2,3,1,R
+Rialto,Attack,SP,TH,3:47,22,1,4,1,2,B
+Nepal,Shrine,NL,FR,0:34,27,1,6,0,2,B
+Nepal,Shrine,NL,FR,1:28,15,1,6,3,2,B
+Nepal,Shrine,NL,FR,2:16,15,0,5,1,3,R
+Nepal,Shrine,NL,FR,2:53,21,0,5,1,2,R
+Nepal,Village,NL,FR,0:32,29,3,7,0,0,R
+Nepal,Village,NL,FR,1:25,14,0,2,0,1,R
+Nepal,Village,NL,FR,2:03,7,0,5,2,3,R
+Nepal,Village,NL,FR,2:34,31,2,6,2,1,R
+Nepal,Village,NL,FR,3:23,26,5,2,1,3,R
+Nepal,Village,NL,FR,4:22,38,1,8,2,1,R
+Blizzard World,Attack,NL,FR,0:33,0,1,0,0,0,B
+Blizzard World,Attack,NL,FR,0:55,15,0,6,1,2,R
+Blizzard World,Attack,NL,FR,1:51,48,8,3,5,2,R
+Blizzard World,Attack,NL,FR,3:22,10,5,0,0,0,B
+Blizzard World,Attack,NL,FR,4:04,16,0,4,0,1,R
+Blizzard World,Attack,NL,FR,4:46,0,1,0,0,0,B
+Blizzard World,Attack,NL,FR,5:08,13,0,4,0,0,R
+Blizzard World,Attack,NL,FR,6:02,22,0,6,0,3,R
+Blizzard World,Defense,NL,FR,0:27,1,1,1,0,0,B
+Blizzard World,Defense,NL,FR,0:56,18,1,5,3,2,B
+Blizzard World,Defense,NL,FR,1:55,16,5,1,0,1,B
+Blizzard World,Defense,NL,FR,2:43,23,2,6,2,1,B
+Blizzard World,Defense,NL,FR,5:30,16,1,6,0,0,R
+Temple of Anubis,Attack,NL,FR,0:01,9,0,2,0,0,R
+Temple of Anubis,Attack,NL,FR,0:30,11,0,3,0,0,R
+Temple of Anubis,Attack,NL,FR,1:12,10,0,4,0,0,R
+Temple of Anubis,Attack,NL,FR,1:44,0,0,1,0,0,R
+Temple of Anubis,Attack,NL,FR,2:10,0,0,1,0,0,R
+Temple of Anubis,Attack,NL,FR,2:25,19,0,6,1,2,R
+Temple of Anubis,Attack,NL,FR,3:05,19,1,3,0,1,B
+Temple of Anubis,Attack,NL,FR,3:47,49,7,8,3,3,R
+Temple of Anubis,Defense,NL,FR,3:26,38,5,7,0,1,R
+Rialto,Attack,NL,FR,0:24,0,0,1,0,0,R
+Rialto,Attack,NL,FR,0:56,15,1,4,0,2,R
+Rialto,Attack,NL,FR,1:27,27,0,5,1,1,R
+Rialto,Attack,NL,FR,2:15,19,5,0,2,2,B
+Rialto,Attack,NL,FR,2:59,14,5,0,0,1,B
+Rialto,Attack,NL,FR,3:45,12,6,0,2,1,B
+Rialto,Attack,NL,FR,4:12,4,2,0,0,0,B
+Rialto,Attack,NL,FR,4:38,32,2,3,3,4,R
+Rialto,Attack,NL,FR,5:34,19,6,0,0,0,B
+Rialto,Attack,NL,FR,6:09,25,6,1,2,4,B
+Rialto,Attack,NL,FR,7:05,22,5,0,2,1,B
+Rialto,Attack,NL,FR,7:43,39,1,4,2,7,R
+Rialto,Defense,NL,FR,0:12,18,1,5,0,1,R
+Rialto,Defense,NL,FR,1:12,25,1,8,0,1,R
+Rialto,Defense,NL,FR,2:11,25,1,6,0,2,R
+Rialto,Defense,NL,FR,2:52,26,1,8,5,2,R
+Rialto,Defense,NL,FR,3:50,10,1,5,0,1,R
+Lijiang Tower,Control Center,GER,UK,0:31,0,0,1,0,0,R
+Lijiang Tower,Control Center,GER,UK,0:54,15,1,4,4,2,R
+Lijiang Tower,Control Center,GER,UK,1:48,26,6,1,1,0,B
+Lijiang Tower,Control Center,GER,UK,2:36,9,1,0,3,1,B
+Lijiang Tower,Control Center,GER,UK,3:15,18,4,0,1,2,B
+Lijiang Tower,Control Center,GER,UK,3:59,16,0,2,3,3,R
+Lijiang Tower,Control Center,GER,UK,4:49,14,0,5,0,2,R
+Lijiang Tower,Garden,GER,UK,1:00,2,0,1,1,1,R
+Lijiang Tower,Garden,GER,UK,1:31,13,1,4,0,0,R
+Lijiang Tower,Garden,GER,UK,2:09,20,6,0,4,1,B
+Lijiang Tower,Garden,GER,UK,3:00,61,9,6,5,5,R
+Lijiang Tower,Garden,GER,UK,4:38,16,0,6,4,5,R
+Blizzard World,Defense,GER,UK,0:25,2,1,1,0,0,R
+Blizzard World,Defense,GER,UK,0:59,22,2,5,2,0,B
+Blizzard World,Defense,GER,UK,2:01,6,1,1,0,1,B
+Blizzard World,Defense,GER,UK,2:28,107,4,11,3,3,R
+Blizzard World,Defense,GER,UK,4:39,0,0,1,0,0,R
+Blizzard World,Defense,GER,UK,4:55,16,0,5,0,2,R
+Blizzard World,Attack,GER,UK,0:37,35,7,1,0,0,B
+Blizzard World,Attack,GER,UK,1:36,31,4,5,1,2,B
+Blizzard World,Attack,GER,UK,2:31,15,2,0,1,0,B
+Blizzard World,Attack,GER,UK,3:27,28,6,2,1,0,R
+Blizzard World,Attack,GER,UK,4:23,12,1,2,0,1,R
+Blizzard World,Attack,GER,UK,5:08,13,1,5,0,2,B
+Blizzard World,Attack,GER,UK,5:44,5,0,4,0,0,R
+Blizzard World,Attack,GER,UK,6:12,10,1,0,2,1,B
+Blizzard World,Attack,GER,UK,6:38,29,4,4,1,1,B
+Blizzard World,Attack,GER,UK,7:23,38,9,0,3,3,B
+Blizzard World,Defense,GER,UK,0:21,0,0,1,0,0,R
+Blizzard World,Defense,GER,UK,0:39,4,0,3,0,0,R
+Volskaya Industries,Attack,GER,UK,0:36,15,5,0,0,0,B
+Volskaya Industries,Attack,GER,UK,1:34,20,2,5,2,2,B
+Volskaya Industries,Attack,GER,UK,2:24,30,4,1,1,3,B
+Volskaya Industries,Attack,GER,UK,3:17,0,0,1,0,0,R
+Volskaya Industries,Attack,GER,UK,3:53,15,3,0,2,0,B
+Volskaya Industries,Defense,GER,UK,0:25,0,1,0,0,0,B
+Volskaya Industries,Defense,GER,UK,0:43,23,4,2,1,0,R
+Volskaya Industries,Defense,GER,UK,1:41,0,1,0,0,0,B
+Volskaya Industries,Defense,GER,UK,2:15,9,0,2,1,1,R
+Volskaya Industries,Defense,GER,UK,2:52,9,4,1,1,0,B
+Volskaya Industries,Defense,GER,UK,3:27,15,0,5,0,0,R
+Volskaya Industries,Defense,GER,UK,4:10,10,0,1,2,2,R
+Volskaya Industries,Defense,GER,UK,4:35,31,5,6,0,0,R
+Volskaya Industries,Defense,GER,UK,5:24,17,0,5,0,2,R
+Volskaya Industries,Defense,GER,UK,0:36,1,1,1,0,0,R
+Volskaya Industries,Defense,GER,UK,1:03,0,1,0,0,0,B
+Volskaya Industries,Defense,GER,UK,1:35,8,3,0,1,0,B
+Volskaya Industries,Defense,GER,UK,2:01,34,7,0,5,4,B
+Volskaya Industries,Attack,GER,UK,0:31,0,0,1,0,0,R
+Volskaya Industries,Attack,GER,UK,1:05,6,0,1,1,0,R
+Volskaya Industries,Attack,GER,UK,1:26,0,0,1,0,0,R
+Volskaya Industries,Attack,GER,UK,1:54,7,0,2,0,2,R
+Volskaya Industries,Attack,GER,UK,2:34,39,8,2,4,3,B
+Watchpoint: Gibraltar,Attack,GER,UK,0:55,0,1,0,0,0,B
+Watchpoint: Gibraltar,Attack,GER,UK,1:19,23,6,2,1,3,R
+Watchpoint: Gibraltar,Attack,GER,UK,2:03,6,1,0,3,0,B
+Watchpoint: Gibraltar,Attack,GER,UK,2:15,61,3,5,2,1,R
+Watchpoint: Gibraltar,Attack,GER,UK,3:42,14,0,2,0,1,R
+Watchpoint: Gibraltar,Attack,GER,UK,4:55,14,1,1,0,1,B
+Watchpoint: Gibraltar,Attack,GER,UK,5:52,36,0,8,0,2,R
+Watchpoint: Gibraltar,Defense,GER,UK,1:16,16,2,2,2,1,R
+Watchpoint: Gibraltar,Defense,GER,UK,1:41,24,0,5,2,2,R
+Watchpoint: Gibraltar,Defense,GER,UK,2:37,32,2,7,1,1,B
+Oasis,University,PL,IT,0:44,5,3,0,0,0,B
+Oasis,University,PL,IT,1:10,20,5,2,2,1,B
+Oasis,University,PL,IT,1:52,7,2,0,2,0,B
+Oasis,University,PL,IT,2:26,20,0,6,1,3,R
+Oasis,University,PL,IT,3:18,25,6,2,4,2,B
+Oasis,University,PL,IT,4:05,13,0,3,0,1,R
+Oasis,University,PL,IT,4:40,40,5,1,6,4,B
+Oasis,Gardens,PL,IT,0:44,15,1,2,1,1,R
+Oasis,Gardens,PL,IT,1:27,4,0,2,0,0,R
+Oasis,Gardens,PL,IT,2:09,14,2,0,0,0,B
+Oasis,Gardens,PL,IT,2:52,25,4,1,3,2,R
+Oasis,Gardens,PL,IT,3:53,17,0,4,0,2,R
+Oasis,Gardens,PL,IT,4:41,0,0,1,0,0,R
+Oasis,Gardens,PL,IT,4:46,39,2,5,3,3,B
+Oasis,City Center,PL,IT,0:39,38,2,6,1,2,R
+Oasis,City Center,PL,IT,1:50,18,4,0,2,1,B
+Oasis,City Center,PL,IT,3:04,10,3,2,1,0,B
+Oasis,City Center,PL,IT,3:44,40,7,2,2,4,B
+King's Row,Attack,PL,IT,0:38,16,4,1,0,0,B
+King's Row,Attack,PL,IT,1:09,0,1,0,0,0,B
+King's Row,Attack,PL,IT,1:46,18,6,0,3,1,B
+King's Row,Attack,PL,IT,2:26,12,6,0,0,0,B
+King's Row,Attack,PL,IT,3:01,24,1,3,2,1,B
+King's Row,Attack,PL,IT,3:42,7,0,2,0,1,R
+King's Row,Attack,PL,IT,3:59,23,0,2,0,1,R
+King's Row,Attack,PL,IT,4:41,12,6,0,1,0,B
+King's Row,Attack,PL,IT,5:11,11,5,0,2,1,B
+King's Row,Attack,PL,IT,5:38,17,0,4,0,1,R
+King's Row,Attack,PL,IT,6:28,38,10,0,3,1,B
+King's Row,Defense,PL,IT,0:20,11,2,1,0,0,B
+King's Row,Defense,PL,IT,1:07,11,4,0,1,0,B
+King's Row,Defense,PL,IT,1:38,17,4,0,1,0,B
+King's Row,Defense,PL,IT,2:20,9,0,1,1,0,R
+King's Row,Defense,PL,IT,3:30,2,0,1,1,2,R
+King's Row,Defense,PL,IT,4:07,14,3,0,1,1,B
+King's Row,Defense,PL,IT,4:44,7,1,0,1,1,B
+King's Row,Defense,PL,IT,4:59,27,3,0,1,0,B
+King's Row,Defense,PL,IT,5:59,16,0,5,0,0,R
+King's Row,Defense,PL,IT,6:27,18,0,3,1,2,R
+King's Row,Defense,PL,IT,6:50,11,0,1,0,1,R
+King's Row,Defense,PL,IT,7:20,59,2,8,4,4,B
+King's Row,Defense,PL,IT,0:22,18,1,3,0,0,R
+King's Row,Defense,PL,IT,0:58,4,0,3,0,0,R
+King's Row,Defense,PL,IT,1:52,9,0,5,0,1,R
+King's Row,Defense,PL,IT,2:41,23,2,6,1,0,R
+King's Row,Defense,PL,IT,3:22,11,5,0,3,1,B
+King's Row,Attack,PL,IT,0:42,8,1,3,0,0,R
+King's Row,Attack,PL,IT,1:23,13,0,2,2,2,R
+King's Row,Attack,PL,IT,1:50,36,6,4,3,2,R
+King's Row,Attack,PL,IT,3:12,6,0,3,1,1,R
+Horizon Lunar Colony,Attack,PL,IT,1:22,17,0,5,1,3,R
+Horizon Lunar Colony,Attack,PL,IT,2:20,32,6,1,2,1,B
+Horizon Lunar Colony,Attack,PL,IT,3:52,11,3,2,0,1,B
+Horizon Lunar Colony,Attack,PL,IT,4:13,47,3,3,2,3,B
+Horizon Lunar Colony,Attack,PL,IT,5:27,15,1,3,0,1,R
+Horizon Lunar Colony,Attack,PL,IT,6:35,16,0,3,0,1,R
+Horizon Lunar Colony,Attack,PL,IT,7:26,27,8,0,5,2,B
+Horizon Lunar Colony,Defense,PL,IT,0:13,0,1,0,0,0,B
+Horizon Lunar Colony,Defense,PL,IT,0:29,15,1,1,0,1,B
+Horizon Lunar Colony,Defense,PL,IT,1:14,9,6,0,0,0,B
+Horizon Lunar Colony,Defense,PL,IT,1:50,15,3,3,1,2,B
+Horizon Lunar Colony,Defense,PL,IT,2:32,2,1,0,0,1,B
+Horizon Lunar Colony,Defense,PL,IT,2:45,19,4,0,1,1,B
+Horizon Lunar Colony,Defense,PL,IT,3:48,18,1,6,1,1,R
+Horizon Lunar Colony,Defense,PL,IT,4:34,13,4,0,2,0,B
+Horizon Lunar Colony,Defense,PL,IT,5:03,4,1,1,0,0,B
+Horizon Lunar Colony,Defense,PL,IT,5:19,7,3,0,0,1,B
+Horizon Lunar Colony,Defense,PL,IT,6:05,37,5,2,2,4,R
+Horizon Lunar Colony,Defense,PL,IT,7:18,5,5,0,1,0,B
+Horizon Lunar Colony,Defense,PL,IT,7:51,0,1,0,0,0,B
+Horizon Lunar Colony,Defense,PL,IT,8:04,12,4,1,3,0,B
+Junkertown,Attack,PL,IT,0:47,13,4,0,0,1,B
+Junkertown,Attack,PL,IT,1:26,16,5,0,2,1,B
+Junkertown,Attack,PL,IT,2:13,16,5,0,2,0,B
+Junkertown,Attack,PL,IT,2:55,20,0,6,1,3,R
+Junkertown,Attack,PL,IT,4:07,0,0,1,0,0,R
+Junkertown,Attack,PL,IT,4:55,21,0,3,0,0,R
+Junkertown,Attack,PL,IT,5:30,14,0,4,2,3,R
+Junkertown,Attack,PL,IT,6:13,16,1,2,0,2,R
+Junkertown,Attack,PL,IT,6:46,5,3,0,0,0,B
+Junkertown,Attack,PL,IT,7:24,10,6,1,1,0,R
+Junkertown,Attack,PL,IT,8:07,25,0,7,0,2,R
+Junkertown,Defense,PL,IT,0:29,18,0,2,0,2,R
+Junkertown,Defense,PL,IT,1:06,25,3,1,2,1,B
+Junkertown,Defense,PL,IT,2:17,23,4,0,1,0,B
+Junkertown,Defense,PL,IT,3:02,32,4,1,2,3,B
+Junkertown,Defense,PL,IT,4:00,18,1,5,1,0,R
+Junkertown,Defense,PL,IT,4:30,21,0,5,1,2,R
+Junkertown,Defense,PL,IT,5:16,13,1,6,0,2,B
+Junkertown,Defense,PL,IT,5:55,10,3,0,0,0,B
+Junkertown,Defense,PL,IT,6:36,16,5,0,0,0,B
+Junkertown,Defense,PL,IT,7:15,6,0,1,1,1,R
+Lijiang Tower,Night Market,PL,IT,0:18,10,4,1,0,0,B
+Lijiang Tower,Night Market,PL,IT,0:47,20,4,0,2,3,B
+Lijiang Tower,Night Market,PL,IT,1:30,11,2,4,1,1,B
+Lijiang Tower,Night Market,PL,IT,1:52,28,3,1,2,1,R
+Lijiang Tower,Night Market,PL,IT,2:27,30,5,0,2,2,B
+Lijiang Tower,Garden,PL,IT,0:39,20,0,6,0,1,R
+Lijiang Tower,Garden,PL,IT,1:37,21,0,6,1,2,R
+Lijiang Tower,Garden,PL,IT,2:35,17,6,0,0,0,B
+Lijiang Tower,Garden,PL,IT,3:31,11,0,6,1,0,R
+Lijiang Tower,Control Center,PL,IT,0:25,0,0,2,0,0,R
+Lijiang Tower,Control Center,PL,IT,0:46,25,6,0,3,1,B
+Lijiang Tower,Control Center,PL,IT,1:41,19,1,5,0,0,R
+Lijiang Tower,Control Center,PL,IT,2:28,34,3,5,3,3,B
+Lijiang Tower,Control Center,PL,IT,3:24,29,5,2,2,1,B
+Lijiang Tower,Control Center,PL,IT,4:20,25,1,5,2,2,R
+Ilios,Well,NL,GER,0:29,17,4,0,0,0,B
+Ilios,Well,NL,GER,1:26,8,6,2,0,0,B
+Ilios,Well,NL,GER,2:28,18,6,0,0,0,B
+Ilios,Lighthouse,NL,GER,0:29,0,0,1,0,0,R
+Ilios,Lighthouse,NL,GER,0:50,4,3,2,0,0,B
+Ilios,Lighthouse,NL,GER,1:16,21,0,6,0,2,R
+Ilios,Lighthouse,NL,GER,1:54,46,2,7,5,4,R
+Ilios,Lighthouse,NL,GER,3:05,8,0,1,0,1,R
+Ilios,Lighthouse,NL,GER,3:41,39,2,9,1,2,B
+Ilios,Ruins,NL,GER,1:12,20,5,3,0,0,B
+Ilios,Ruins,NL,GER,2:07,50,5,5,2,2,B
+Ilios,Ruins,NL,GER,3:22,18,2,3,0,2,B
+Ilios,Ruins,NL,GER,4:05,14,0,5,2,1,R
+Ilios,Ruins,NL,GER,4:50,47,7,4,2,3,B
+Blizzard World,Defense,NL,GER,1:03,8,2,0,0,0,B
+Blizzard World,Defense,NL,GER,1:41,10,1,1,1,2,B
+Blizzard World,Defense,NL,GER,2:27,30,0,5,3,4,R
+Blizzard World,Defense,NL,GER,3:30,18,5,0,0,0,B
+Blizzard World,Defense,NL,GER,4:26,20,4,0,2,3,B
+Blizzard World,Defense,NL,GER,5:07,24,5,2,2,1,R
+Blizzard World,Defense,NL,GER,6:00,17,3,3,1,1,R
+Blizzard World,Defense,NL,GER,6:38,19,4,0,3,1,B
+Blizzard World,Attack,NL,GER,0:38,8,1,2,0,1,R
+Blizzard World,Attack,NL,GER,1:18,11,2,1,0,2,B
+Blizzard World,Attack,NL,GER,1:44,12,1,0,1,0,B
+Blizzard World,Attack,NL,GER,2:04,29,3,2,0,2,R
+Blizzard World,Attack,NL,GER,3:13,13,5,0,0,0,B
+Volskaya Industries,Defense,NL,GER,0:31,0,1,0,0,0,B
+Volskaya Industries,Defense,NL,GER,0:59,3,1,1,0,1,B
+Volskaya Industries,Defense,NL,GER,1:28,24,0,6,1,1,R
+Volskaya Industries,Defense,NL,GER,2:23,33,3,5,1,3,R
+Volskaya Industries,Defense,NL,GER,3:34,5,3,0,0,0,B
+Volskaya Industries,Defense,NL,GER,4:07,9,4,0,0,0,B
+Volskaya Industries,Defense,NL,GER,4:39,6,3,0,0,0,B
+Volskaya Industries,Defense,NL,GER,5:15,59,2,6,4,5,R
+Volskaya Industries,Defense,NL,GER,6:57,17,3,0,0,0,B
+Volskaya Industries,Defense,NL,GER,7:45,9,1,0,2,2,B
+Volskaya Industries,Attack,NL,GER,0:40,0,0,1,0,0,R
+Volskaya Industries,Attack,NL,GER,0:55,14,5,0,2,0,B
+Volskaya Industries,Attack,NL,GER,1:40,32,1,6,2,4,R
+Volskaya Industries,Attack,NL,GER,2:37,0,0,1,0,0,R
+Volskaya Industries,Attack,NL,GER,3:28,6,0,3,0,0,R
+Volskaya Industries,Attack,NL,GER,4:10,38,4,0,5,4,B
+Rialto,Defense,NL,GER,0:14,0,1,0,0,0,B
+Rialto,Defense,NL,GER,0:33,10,0,5,0,2,R
+Rialto,Defense,NL,GER,1:13,14,4,4,3,2,B
+Rialto,Defense,NL,GER,1:31,12,0,1,0,1,R
+Rialto,Defense,NL,GER,1:58,34,0,10,1,4,R
+Rialto,Defense,NL,GER,2:54,11,4,0,1,2,B
+Rialto,Defense,NL,GER,3:30,28,2,4,1,1,R
+Rialto,Defense,NL,GER,4:15,6,1,0,2,1,B
+Rialto,Defense,NL,GER,4:53,14,1,5,0,1,R
+Rialto,Defense,NL,GER,5:42,0,0,1,0,0,R
+Rialto,Defense,NL,GER,6:08,14,0,2,0,1,R
+Rialto,Defense,NL,GER,6:49,20,4,0,1,2,B
+Rialto,Defense,NL,GER,7:37,18,4,0,3,3,B
+Rialto,Attack,NL,GER,0:53,18,3,2,0,0,B
+Rialto,Attack,NL,GER,1:35,37,7,1,2,5,B
+Rialto,Attack,NL,GER,2:49,9,2,0,1,0,B
+Rialto,Attack,NL,GER,3:36,23,5,0,2,1,B
+Rialto,Attack,NL,GER,4:26,13,5,0,1,0,B
+Nepal,Village,PL,UK,0:29,20,4,0,0,0,B
+Nepal,Village,PL,UK,1:15,18,1,6,3,3,R
+Nepal,Village,PL,UK,1:58,15,0,4,1,1,R
+Nepal,Village,PL,UK,2:42,15,0,4,0,3,R
+Nepal,Village,PL,UK,3:25,14,2,1,1,1,B
+Nepal,Village,PL,UK,3:51,26,0,6,4,3,R
+Nepal,Shrine,PL,UK,0:30,28,6,2,0,0,R
+Nepal,Shrine,PL,UK,1:17,6,3,0,1,0,B
+Nepal,Shrine,PL,UK,1:44,51,2,6,4,3,R
+Nepal,Shrine,PL,UK,2:51,10,1,0,0,1,B
+Nepal,Shrine,PL,UK,3:08,11,1,0,0,0,B
+Nepal,Shrine,PL,UK,3:26,26,1,2,0,2,B
+Nepal,Shrine,PL,UK,4:28,30,1,3,1,3,B
+Numbani,Defense,PL,UK,0:19,10,2,0,0,0,B
+Numbani,Defense,PL,UK,1:16,15,1,5,0,0,R
+Numbani,Defense,PL,UK,1:56,9,1,0,3,1,B
+Numbani,Defense,PL,UK,2:32,9,1,5,0,1,R
+Numbani,Defense,PL,UK,3:08,10,0,6,2,2,R
+Numbani,Defense,PL,UK,4:31,8,0,1,0,0,R
+Numbani,Defense,PL,UK,5:08,14,0,6,0,0,R
+Numbani,Attack,PL,UK,0:29,12,1,3,0,0,R
+Numbani,Attack,PL,UK,0:58,18,2,3,0,2,R
+Numbani,Attack,PL,UK,1:42,6,2,1,2,1,B
+Numbani,Attack,PL,UK,2:03,37,6,1,3,2,B
+Numbani,Attack,PL,UK,3:11,19,0,5,0,1,R
+Numbani,Attack,PL,UK,3:51,11,0,5,0,1,R
+Numbani,Attack,PL,UK,4:18,22,1,6,1,1,R
+Numbani,Attack,PL,UK,5:14,13,0,4,0,0,R
+Numbani,Attack,PL,UK,5:45,14,0,4,1,1,R
+Numbani,Attack,PL,UK,6:13,17,0,3,0,2,R
+Horizon Lunar Colony,Attack,PL,UK,1:00,5,1,1,0,0,R
+Horizon Lunar Colony,Attack,PL,UK,1:26,22,0,5,0,2,R
+Horizon Lunar Colony,Attack,PL,UK,2:20,9,0,4,1,1,R
+Horizon Lunar Colony,Attack,PL,UK,3:23,6,2,0,1,1,B
+Horizon Lunar Colony,Attack,PL,UK,3:48,52,6,3,3,4,B
+Horizon Lunar Colony,Attack,PL,UK,5:30,14,0,2,0,0,R
+Horizon Lunar Colony,Attack,PL,UK,6:37,20,4,0,2,1,B
+Horizon Lunar Colony,Defense,PL,UK,0:22,7,1,2,0,0,B
+Horizon Lunar Colony,Defense,PL,UK,0:44,0,0,1,0,0,R
+Horizon Lunar Colony,Defense,PL,UK,1:02,13,1,5,1,1,R
+Horizon Lunar Colony,Defense,PL,UK,1:31,48,6,8,4,4,R
+Horizon Lunar Colony,Defense,PL,UK,2:44,14,1,1,1,1,R
+Horizon Lunar Colony,Defense,PL,UK,3:22,11,1,0,2,1,B
+Horizon Lunar Colony,Defense,PL,UK,4:03,12,2,0,1,1,B
+Horizon Lunar Colony,Defense,PL,UK,4:39,1,1,0,1,0,B
+Horizon Lunar Colony,Defense,PL,UK,5:24,14,2,3,0,1,B
+Horizon Lunar Colony,Attack,PL,UK,0:49,21,3,2,0,1,B
+Horizon Lunar Colony,Attack,PL,UK,1:33,39,5,2,4,5,B
+Horizon Lunar Colony,Defense,PL,UK,0:28,0,1,0,0,0,B
+Horizon Lunar Colony,Defense,PL,UK,0:53,2,1,1,0,0,R
+Horizon Lunar Colony,Defense,PL,UK,1:21,9,3,3,2,1,R
+Horizon Lunar Colony,Defense,PL,UK,1:58,15,0,5,1,2,R
+Horizon Lunar Colony,Defense,PL,UK,2:49,18,1,4,3,4,R
+Dorado,Defense,PL,UK,0:52,0,0,1,0,0,R
+Dorado,Defense,PL,UK,1:01,25,0,6,1,1,R
+Dorado,Defense,PL,UK,2:05,21,0,3,1,2,R
+Dorado,Defense,PL,UK,2:48,34,3,1,1,0,R
+Dorado,Defense,PL,UK,3:49,21,6,1,1,2,R
+Dorado,Defense,PL,UK,4:45,2,0,1,0,0,R
+Dorado,Defense,PL,UK,4:57,30,1,7,0,0,R
+Dorado,Defense,PL,UK,5:58,22,0,2,0,2,R
+Dorado,Defense,PL,UK,6:33,23,4,2,3,0,R
+Dorado,Defense,PL,UK,7:27,44,7,1,1,2,B
+Dorado,Attack,PL,UK,0:58,0,0,1,0,0,R
+Dorado,Attack,PL,UK,2:15,11,0,1,1,1,R
+Dorado,Attack,PL,UK,3:23,0,0,1,0,0,R
+Dorado,Attack,PL,UK,3:46,11,0,1,1,1,R
+Oasis,University,GER,FR,0:27,49,8,4,4,1,B
+Oasis,University,GER,FR,1:43,31,0,6,4,2,R
+Oasis,University,GER,FR,2:40,17,1,6,1,2,B
+Oasis,University,GER,FR,3:08,9,2,2,0,1,B
+Oasis,Gardens,GER,FR,0:29,46,5,1,0,2,B
+Oasis,Gardens,GER,FR,1:40,12,3,0,1,1,B
+Oasis,Gardens,GER,FR,2:19,7,3,0,3,0,B
+Oasis,Gardens,GER,FR,3:16,22,0,5,0,0,R
+Oasis,Gardens,GER,FR,3:59,6,0,3,0,1,R
+Oasis,Gardens,GER,FR,4:28,21,1,2,4,3,R
+Oasis,Gardens,GER,FR,5:00,16,0,6,0,2,R
+Numbani,Attack,GER,FR,0:28,7,0,2,0,0,R
+Numbani,Attack,GER,FR,1:03,0,0,1,0,0,R
+Numbani,Attack,GER,FR,1:30,4,0,1,0,0,R
+Numbani,Attack,GER,FR,2:05,17,1,3,3,2,R
+Numbani,Attack,GER,FR,2:59,12,0,1,0,1,R
+Numbani,Attack,GER,FR,3:43,2,2,1,0,0,R
+Numbani,Attack,GER,FR,3:52,36,6,1,2,4,B
+Numbani,Attack,GER,FR,4:50,23,6,0,2,0,B
+Numbani,Attack,GER,FR,5:42,4,1,1,1,0,B
+Numbani,Attack,GER,FR,6:07,14,1,2,1,1,B
+Numbani,Attack,GER,FR,6:46,24,0,4,1,3,R
+Numbani,Defense,GER,FR,0:39,17,4,2,0,0,B
+Numbani,Defense,GER,FR,1:19,17,4,2,1,0,B
+Numbani,Defense,GER,FR,2:03,30,4,2,4,3,R
+Numbani,Defense,GER,FR,3:11,20,0,5,0,0,R
+Numbani,Defense,GER,FR,3:42,16,1,1,0,1,R
+Numbani,Defense,GER,FR,4:19,22,2,4,3,3,R
+Numbani,Defense,GER,FR,4:59,0,0,1,0,0,R
+Numbani,Defense,GER,FR,5:14,24,3,3,1,3,R
+Volskaya Industries,Attack,GER,FR,0:25,0,0,1,0,0,R
+Volskaya Industries,Attack,GER,FR,0:47,7,1,1,0,1,R
+Volskaya Industries,Attack,GER,FR,1:22,18,5,0,2,1,B
+Volskaya Industries,Attack,GER,FR,2:22,4,0,4,0,1,R
+Volskaya Industries,Attack,GER,FR,2:59,51,4,4,2,4,B
+Volskaya Industries,Attack,GER,FR,4:20,18,2,0,3,1,B
+Volskaya Industries,Defense,GER,FR,0:20,10,2,1,0,0,B
+Volskaya Industries,Defense,GER,FR,1:06,9,2,1,2,1,B
+Volskaya Industries,Defense,GER,FR,1:36,5,1,1,0,1,B
+Volskaya Industries,Defense,GER,FR,1:52,29,1,6,2,3,R
+Volskaya Industries,Defense,GER,FR,2:49,14,4,0,0,0,B
+Volskaya Industries,Defense,GER,FR,3:38,4,0,2,0,0,R
+Volskaya Industries,Defense,GER,FR,3:55,21,0,4,2,1,R
+Volskaya Industries,Attack,GER,FR,0:49,21,5,0,1,0,B
+Volskaya Industries,Attack,GER,FR,1:38,16,2,5,0,2,B
+Volskaya Industries,Attack,GER,FR,2:27,1,0,1,1,0,R
+Volskaya Industries,Attack,GER,FR,3:11,47,8,1,4,4,B
+Volskaya Industries,Defense,GER,FR,0:27,20,3,5,0,1,B
+Volskaya Industries,Defense,GER,FR,1:15,15,3,0,0,0,B
+Volskaya Industries,Defense,GER,FR,1:58,28,5,3,1,3,R
+Volskaya Industries,Defense,GER,FR,2:52,11,4,0,3,0,B
+Volskaya Industries,Defense,GER,FR,3:39,9,1,0,1,3,B
+Volskaya Industries,Defense,GER,FR,4:09,8,2,0,2,0,B
+Route 66,Attack,GER,FR,0:50,23,6,0,2,2,B
+Route 66,Attack,GER,FR,1:36,11,6,0,1,0,B
+Route 66,Attack,GER,FR,2:24,7,0,5,0,0,R
+Route 66,Attack,GER,FR,3:03,16,5,0,3,1,B
+Route 66,Attack,GER,FR,3:50,6,0,1,1,2,R
+Route 66,Attack,GER,FR,4:34,22,6,0,0,1,B
+Route 66,Attack,GER,FR,5:25,26,6,2,4,4,R
+Route 66,Attack,GER,FR,6:34,10,0,4,0,1,R
+Route 66,Attack,GER,FR,7:00,28,6,0,3,1,B
+Route 66,Attack,GER,FR,8:00,28,2,1,3,2,B
+Route 66,Attack,GER,FR,8:49,14,3,3,1,2,B
+Route 66,Attack,GER,FR,9:06,30,6,1,1,0,B
+Route 66,Defense,GER,FR,0:34,8,0,4,0,0,R
+Route 66,Defense,GER,FR,1:14,16,1,6,0,1,R
+Route 66,Defense,GER,FR,1:49,20,3,4,1,0,B
+Route 66,Defense,GER,FR,2:35,25,1,5,3,2,R
+Route 66,Defense,GER,FR,3:18,18,1,5,1,1,R
+Route 66,Defense,GER,FR,4:04,16,0,4,0,2,R
+Route 66,Defense,GER,FR,4:44,33,3,1,3,4,R
+Route 66,Defense,GER,FR,5:48,27,4,1,4,4,B
+Route 66,Defense,GER,FR,6:40,10,1,0,2,1,B
+Route 66,Defense,GER,FR,7:18,12,1,0,2,0,B
+Route 66,Defense,GER,FR,8:07,49,0,7,4,5,R
+Route 66,Attack,GER,FR,0:10,22,6,0,1,0,B
+Route 66,Attack,GER,FR,1:15,7,6,0,0,0,B
+Route 66,Attack,GER,FR,1:56,14,4,0,2,2,B
+Route 66,Attack,GER,FR,2:42,10,6,0,0,1,B
+Route 66,Attack,GER,FR,3:20,19,6,2,2,2,B
+Route 66,Attack,GER,FR,4:25,5,0,3,0,0,R
+Route 66,Defense,GER,FR,0:42,25,0,4,1,2,R
+Route 66,Defense,GER,FR,1:50,11,0,5,0,2,R
+Route 66,Defense,GER,FR,2:27,0,1,0,1,0,B
+Route 66,Defense,GER,FR,2:31,19,3,0,1,2,B
+Nepal,Village,GER,FR,0:40,7,0,3,0,1,R
+Nepal,Village,GER,FR,1:17,12,0,5,0,1,R
+Nepal,Village,GER,FR,1:58,10,1,0,3,1,B
+Nepal,Village,GER,FR,2:28,6,5,0,0,0,B
+Nepal,Village,GER,FR,3:05,20,0,3,1,3,R
+Nepal,Shrine,GER,FR,0:52,9,0,3,1,1,R
+Nepal,Shrine,GER,FR,1:32,14,0,4,0,0,R
+Nepal,Shrine,GER,FR,2:13,25,0,5,3,4,R
+Nepal,Shrine,IT,NL,0:31,3,1,1,0,0,B
+Nepal,Shrine,IT,NL,0:41,28,0,4,3,4,R
+Nepal,Village,IT,NL,0:42,30,2,5,3,4,R
+Nepal,Village,IT,NL,1:37,23,4,1,1,0,B
+Nepal,Village,IT,NL,2:31,13,5,2,2,1,R
+Nepal,Village,IT,NL,3:15,25,0,5,1,1,R
+Nepal,Village,IT,NL,4:00,14,0,4,0,1,R
+Nepal,Village,IT,NL,4:37,27,6,1,4,1,R
+Nepal,Sanctum,IT,NL,0:31,14,0,2,0,0,R
+Nepal,Sanctum,IT,NL,1:25,28,1,4,1,0,R
+Nepal,Sanctum,IT,NL,2:13,26,0,5,1,2,R
+King's Row,Attack,IT,NL,0:41,12,6,1,1,2,B
+King's Row,Attack,IT,NL,1:32,19,4,1,2,0,R
+King's Row,Attack,IT,NL,2:13,14,6,1,2,1,R
+King's Row,Attack,IT,NL,2:57,12,1,5,0,1,R
+King's Row,Attack,IT,NL,3:38,19,1,2,2,1,R
+King's Row,Attack,IT,NL,4:37,11,0,4,0,0,R
+King's Row,Attack,IT,NL,5:24,22,1,4,2,2,R
+King's Row,Attack,IT,NL,6:08,10,0,1,1,3,R
+King's Row,Attack,IT,NL,6:33,0,0,1,0,0,R
+King's Row,Attack,IT,NL,6:52,10,0,6,1,1,R
+King's Row,Attack,IT,NL,7:31,27,6,1,2,0,R
+King's Row,Attack,IT,NL,8:17,24,1,6,2,3,B
+King's Row,Defense,IT,NL,0:40,0,0,1,0,0,R
+King's Row,Defense,IT,NL,0:47,10,0,1,0,1,R
+King's Row,Defense,IT,NL,1:33,19,1,6,1,2,R
+King's Row,Defense,IT,NL,2:18,33,1,6,4,4,B
+King's Row,Defense,IT,NL,3:13,17,0,6,0,4,R
+King's Row,Defense,IT,NL,3:43,19,6,0,2,1,B
+King's Row,Defense,IT,NL,4:32,11,2,0,1,0,B
+King's Row,Defense,IT,NL,5:20,17,0,2,2,4,R
+Temple of Anubis,Attack,IT,NL,0:35,17,4,5,0,1,B
+Temple of Anubis,Attack,IT,NL,1:26,29,6,1,1,0,B
+Temple of Anubis,Attack,IT,NL,2:15,50,5,7,2,3,B
+Temple of Anubis,Attack,IT,NL,3:30,10,0,5,0,2,R
+Temple of Anubis,Attack,IT,NL,4:24,22,0,5,0,1,R
+Temple of Anubis,Attack,IT,NL,5:18,23,0,5,0,1,R
+Temple of Anubis,Attack,IT,NL,6:12,6,1,0,3,1,B
+Temple of Anubis,Attack,IT,NL,6:38,38,5,3,2,3,R
+Temple of Anubis,Attack,IT,NL,7:23,65,5,9,3,4,R
+Temple of Anubis,Defense,IT,NL,0:18,0,1,0,0,0,B
+Temple of Anubis,Defense,IT,NL,0:38,18,3,0,0,0,B
+Temple of Anubis,Defense,IT,NL,1:46,37,5,3,1,2,R
+Temple of Anubis,Defense,IT,NL,2:44,26,4,0,1,0,B
+Temple of Anubis,Defense,IT,NL,3:46,33,7,3,4,3,R
+Rialto,Defense,IT,NL,0:27,16,1,5,0,0,R
+Rialto,Defense,IT,NL,1:04,11,0,2,1,3,R
+Rialto,Defense,IT,NL,1:38,14,0,3,1,0,R
+Rialto,Defense,IT,NL,2:25,14,0,6,0,1,R
+Rialto,Defense,IT,NL,2:53,20,3,0,1,3,B
+Rialto,Defense,IT,NL,3:50,16,0,5,1,1,R
+Rialto,Defense,IT,NL,4:32,9,0,5,1,1,R
+Rialto,Defense,IT,NL,4:58,27,0,5,0,3,R
+Rialto,Attack,IT,NL,0:08,18,5,1,1,0,R
+Rialto,Attack,IT,NL,0:54,18,3,1,2,0,R
+Rialto,Attack,IT,NL,1:26,13,6,1,1,0,B
+Rialto,Attack,IT,NL,2:09,13,0,4,0,2,R
+Rialto,Attack,IT,NL,2:53,12,0,4,2,3,R
+Rialto,Attack,IT,NL,3:23,3,0,1,2,0,R
+Rialto,Attack,IT,NL,3:36,29,1,4,3,3,B
+Rialto,Attack,IT,NL,4:34,15,5,0,2,1,B
+Rialto,Attack,IT,NL,5:14,40,8,0,3,3,B
+Rialto,Attack,IT,NL,6:33,16,1,2,0,1,R
+Rialto,Attack,IT,NL,7:25,42,0,8,3,2,R
+Nepal,Sanctum,PL,GER,0:21,10,0,3,0,0,R
+Nepal,Sanctum,PL,GER,0:55,12,4,1,0,0,B
+Nepal,Sanctum,PL,GER,1:34,10,2,1,0,3,R
+Nepal,Sanctum,PL,GER,2:06,10,4,0,4,0,B
+Nepal,Sanctum,PL,GER,2:35,4,1,0,1,0,B
+Nepal,Sanctum,PL,GER,3:03,21,2,4,0,2,B
+Nepal,Sanctum,PL,GER,3:48,10,2,5,0,2,B
+Nepal,Sanctum,PL,GER,4:22,20,1,5,2,1,R
+Nepal,Shrine,PL,GER,0:44,22,1,6,1,1,R
+Nepal,Shrine,PL,GER,1:55,15,1,1,0,0,R
+Nepal,Shrine,PL,GER,2:24,11,4,0,1,1,B
+Nepal,Shrine,PL,GER,3:27,18,0,6,0,0,R
+Numbani,Defense,PL,GER,0:30,10,0,3,0,0,R
+Numbani,Defense,PL,GER,1:16,0,1,0,0,0,B
+Numbani,Defense,PL,GER,1:40,11,2,1,2,2,B
+Numbani,Defense,PL,GER,6:14,2,1,1,0,0,R
+Numbani,Defense,PL,GER,12:00,5,1,0,2,0,B
+Numbani,Defense,PL,GER,12:32,12,2,0,1,0,B
+Numbani,Defense,PL,GER,13:36,7,0,1,0,1,R
+Numbani,Defense,PL,GER,13:56,33,0,6,3,2,R
+Numbani,Defense,PL,GER,15:21,15,1,2,0,1,B
+Numbani,Defense,PL,GER,15:47,27,1,6,4,3,R
+Numbani,Attack,PL,GER,0:26,5,2,0,0,0,B
+Numbani,Attack,PL,GER,0:51,5,2,0,0,0,B
+Numbani,Attack,PL,GER,1:15,4,0,2,0,0,R
+Numbani,Attack,PL,GER,1:42,7,3,0,0,0,B
+Numbani,Attack,PL,GER,2:15,13,4,0,2,1,B
+Numbani,Attack,PL,GER,2:50,14,0,6,1,1,R
+Numbani,Attack,PL,GER,3:35,8,1,0,1,1,B
+Numbani,Attack,PL,GER,4:31,31,6,0,2,0,B
+Numbani,Defense,PL,GER,0:22,7,2,0,0,0,B
+Numbani,Defense,PL,GER,1:01,17,5,1,0,1,B
+Numbani,Attack,PL,GER,0:26,19,5,3,0,0,B
+Volskaya Industries,Attack,PL,GER,0:42,10,0,2,0,1,R
+Volskaya Industries,Attack,PL,GER,1:13,13,0,4,0,1,R
+Volskaya Industries,Attack,PL,GER,2:16,33,4,6,2,1,R
+Volskaya Industries,Attack,PL,GER,3:15,19,0,3,0,1,R
+Volskaya Industries,Attack,PL,GER,3:52,30,6,3,3,2,R
+Volskaya Industries,Attack,PL,GER,5:05,19,1,3,1,1,R
+Volskaya Industries,Attack,PL,GER,5:55,13,1,5,0,0,R
+Volskaya Industries,Attack,PL,GER,6:33,44,3,8,4,4,R
+Volskaya Industries,Attack,PL,GER,7:49,0,0,1,0,0,R
+Volskaya Industries,Attack,PL,GER,8:13,28,4,7,2,3,R
+Volskaya Industries,Defense,PL,GER,0:26,17,0,6,0,0,R
+Volskaya Industries,Defense,PL,GER,1:20,14,1,4,0,1,R
+Dorado,Attack,PL,GER,0:40,20,2,1,0,1,R
+Dorado,Attack,PL,GER,1:45,15,4,1,1,2,R
+Dorado,Attack,PL,GER,2:23,9,2,1,1,1,B
+Dorado,Attack,PL,GER,2:49,29,5,1,2,1,B
+Dorado,Attack,PL,GER,3:59,16,0,2,3,4,R
+Dorado,Attack,PL,GER,5:24,12,2,0,1,2,B
+Dorado,Attack,PL,GER,5:58,0,0,2,0,0,R
+Dorado,Attack,PL,GER,6:34,20,3,0,3,3,B
+Dorado,Defense,PL,GER,0:48,8,3,0,0,0,B
+Dorado,Defense,PL,GER,1:44,11,0,5,1,0,R
+Dorado,Defense,PL,GER,2:28,5,1,0,1,1,B
+Dorado,Defense,PL,GER,2:59,22,0,6,1,1,R
+Dorado,Defense,PL,GER,4:18,15,5,0,1,0,B
+Dorado,Defense,PL,GER,5:09,31,0,8,1,1,R
+Dorado,Defense,PL,GER,6:17,21,0,5,0,2,R
+Dorado,Defense,PL,GER,6:56,12,5,0,2,1,B
+Oasis,University,PL,GER,0:18,21,0,5,0,0,R
+Oasis,University,PL,GER,1:29,15,4,0,1,0,B
+Oasis,University,PL,GER,2:10,42,7,5,3,5,R
+Oasis,University,PL,GER,3:16,11,4,0,1,0,B
+Oasis,City Center,PL,GER,1:01,9,4,0,2,0,B
+Oasis,City Center,PL,GER,1:36,22,0,6,0,2,R
+Oasis,City Center,PL,GER,2:19,14,2,5,0,0,R
+Oasis,City Center,PL,GER,3:01,21,0,5,3,2,R
+Oasis,City Center,PL,GER,3:46,8,0,3,0,1,R
+Oasis,City Center,PL,GER,4:09,10,0,5,0,1,R
+Oasis,Gardens,PL,GER,0:37,9,0,3,0,0,R
+Oasis,Gardens,PL,GER,1:15,25,1,4,0,0,R
+Oasis,Gardens,PL,GER,2:10,38,8,4,3,3,B
+Oasis,Gardens,PL,GER,3:28,43,1,9,3,4,R
+Lijiang Tower,Control Center,IT,FR,0:34,6,3,1,0,0,R
+Lijiang Tower,Control Center,IT,FR,1:06,12,0,3,2,2,R
+Lijiang Tower,Control Center,IT,FR,1:58,24,1,5,0,0,B
+Lijiang Tower,Control Center,IT,FR,2:42,15,1,3,1,2,B
+Lijiang Tower,Control Center,IT,FR,3:25,14,0,3,1,5,R
+Lijiang Tower,Control Center,IT,FR,3:48,8,0,1,1,0,R
+Lijiang Tower,Control Center,IT,FR,4:36,15,3,0,0,1,B
+Lijiang Tower,Control Center,IT,FR,5:13,20,1,5,1,2,R
+Lijiang Tower,Garden,IT,FR,0:15,7,0,3,0,0,R
+Lijiang Tower,Garden,IT,FR,0:56,12,1,5,0,1,R
+Lijiang Tower,Garden,IT,FR,1:31,4,0,1,1,2,R
+Lijiang Tower,Garden,IT,FR,1:57,23,1,4,4,3,R
+Lijiang Tower,Garden,IT,FR,2:39,4,0,5,0,2,R
+King's Row,Attack,IT,FR,1:21,11,0,1,1,3,R
+King's Row,Attack,IT,FR,1:59,5,2,2,1,1,B
+King's Row,Attack,IT,FR,2:33,12,1,2,1,1,B
+King's Row,Attack,IT,FR,3:29,16,2,1,4,5,R
+King's Row,Attack,IT,FR,4:13,8,0,4,0,0,R
+King's Row,Defense,IT,FR,0:32,14,1,6,0,0,R
+Temple of Anubis,Attack,IT,FR,0:23,0,0,1,0,0,R
+Temple of Anubis,Attack,IT,FR,0:57,7,0,1,0,0,R
+Temple of Anubis,Attack,IT,FR,1:38,13,2,4,0,1,R
+Temple of Anubis,Attack,IT,FR,2:31,20,0,3,2,3,R
+Temple of Anubis,Attack,IT,FR,3:23,18,1,3,1,2,R
+Temple of Anubis,Attack,IT,FR,4:01,48,7,4,3,3,R
+Temple of Anubis,Attack,IT,FR,5:51,26,0,4,2,3,R
+Temple of Anubis,Attack,IT,FR,7:36,28,0,6,2,2,R
+Temple of Anubis,Attack,IT,FR,8:43,18,2,2,2,0,B
+Temple of Anubis,Attack,IT,FR,9:07,21,1,4,2,1,R
+Temple of Anubis,Defense,IT,FR,0:30,6,2,0,0,0,B
+Temple of Anubis,Defense,IT,FR,1:18,15,2,0,1,0,B
+Temple of Anubis,Defense,IT,FR,1:58,12,4,0,0,1,B
+Temple of Anubis,Defense,IT,FR,2:48,11,2,5,1,2,R
+Temple of Anubis,Defense,IT,FR,3:34,26,4,3,2,3,R
+Rialto,Attack,IT,FR,0:16,0,0,1,0,0,R
+Rialto,Attack,IT,FR,0:57,12,0,5,0,0,R
+Rialto,Attack,IT,FR,1:24,21,4,2,3,2,B
+Rialto,Attack,IT,FR,2:07,47,10,6,0,0,B
+Rialto,Attack,IT,FR,3:29,16,6,0,1,0,B
+Rialto,Attack,IT,FR,4:10,17,0,3,1,3,R
+Rialto,Attack,IT,FR,4:53,10,5,0,2,0,B
+Rialto,Attack,IT,FR,5:43,19,4,1,1,2,B
+Rialto,Attack,IT,FR,6:42,24,2,6,1,3,B
+Rialto,Attack,IT,FR,7:26,22,4,1,2,2,R
+Rialto,Attack,IT,FR,8:13,2,0,2,0,2,R
+Rialto,Defense,IT,FR,0:35,0,1,0,0,0,B
+Rialto,Defense,IT,FR,0:57,13,0,3,0,0,R
+Rialto,Defense,IT,FR,1:43,9,0,4,0,0,R
+Rialto,Defense,IT,FR,2:44,18,1,4,0,1,B
+Rialto,Defense,IT,FR,3:25,43,0,8,1,4,R
+Oasis,City Center,NL,UK,0:35,22,0,5,0,0,R
+Oasis,City Center,NL,UK,1:33,44,2,6,0,0,B
+Oasis,City Center,NL,UK,2:40,20,0,6,0,3,R
+Oasis,University,NL,UK,0:45,18,1,5,0,0,R
+Oasis,University,NL,UK,1:26,9,0,2,0,1,R
+Oasis,University,NL,UK,2:09,23,3,1,1,1,B
+Oasis,University,NL,UK,2:55,6,0,3,0,2,R
+Oasis,University,NL,UK,3:30,30,5,2,2,1,R
+Oasis,University,NL,UK,4:37,14,4,0,0,0,B
+Oasis,University,NL,UK,5:11,10,2,0,4,0,B
+Oasis,Gardens,NL,UK,0:43,16,0,6,0,1,R
+Oasis,Gardens,NL,UK,1:15,10,0,4,0,2,R
+Oasis,Gardens,NL,UK,2:10,23,1,4,0,1,R
+Oasis,Gardens,NL,UK,3:09,13,1,5,0,1,R
+Blizzard World,Defense,NL,UK,0:42,0,1,0,0,0,B
+Blizzard World,Defense,NL,UK,1:14,11,5,0,2,0,B
+Blizzard World,Defense,NL,UK,1:48,11,0,3,0,3,R
+Blizzard World,Defense,NL,UK,2:38,7,0,6,0,2,R
+Blizzard World,Defense,NL,UK,3:20,19,0,6,2,3,R
+Blizzard World,Defense,NL,UK,4:11,13,3,0,3,1,B
+Blizzard World,Defense,NL,UK,4:48,15,1,6,1,1,R
+Blizzard World,Defense,NL,UK,5:33,18,4,1,0,1,B
+Blizzard World,Defense,NL,UK,6:22,26,0,6,2,3,R
+Blizzard World,Defense,NL,UK,7:07,4,0,1,0,1,R
+Blizzard World,Attack,NL,UK,1:08,18,1,6,0,2,B
+Blizzard World,Attack,NL,UK,1:56,9,0,2,0,2,R
+Blizzard World,Attack,NL,UK,2:28,36,3,1,3,2,B
+Blizzard World,Attack,NL,UK,3:46,6,1,1,0,2,B
+Blizzard World,Attack,NL,UK,4:04,12,3,0,0,0,B
+Blizzard World,Attack,NL,UK,4:37,16,1,2,0,0,B
+Blizzard World,Attack,NL,UK,5:23,16,3,0,1,1,B
+Blizzard World,Attack,NL,UK,6:25,11,3,1,1,0,B
+Blizzard World,Defense,NL,UK,0:48,1,1,1,0,0,B
+Blizzard World,Defense,NL,UK,1:18,16,0,4,0,1,R
+Blizzard World,Defense,NL,UK,2:20,22,2,6,2,1,R
+Blizzard World,Defense,NL,UK,3:03,24,1,5,0,3,R
+Blizzard World,Defense,NL,UK,3:53,20,4,0,2,2,B
+Blizzard World,Attack,NL,UK,0:44,15,0,5,0,0,R
+Blizzard World,Attack,NL,UK,1:35,0,0,1,0,0,R
+Blizzard World,Attack,NL,UK,1:41,17,0,4,1,3,R
+Volskaya Industries,Attack,NL,UK,0:43,0,1,0,0,0,B
+Volskaya Industries,Attack,NL,UK,1:11,8,1,4,0,1,R
+Volskaya Industries,Attack,NL,UK,1:50,19,4,0,2,2,B
+Volskaya Industries,Attack,NL,UK,2:54,20,0,6,1,1,R
+Volskaya Industries,Attack,NL,UK,3:53,47,8,3,1,5,R
+Volskaya Industries,Defense,NL,UK,0:47,12,2,5,0,0,R
+Volskaya Industries,Defense,NL,UK,1:47,56,3,11,3,5,B
+Volskaya Industries,Attack,NL,UK,0:13,1,0,2,0,0,R
+Volskaya Industries,Attack,NL,UK,1:00,10,0,6,0,0,R
+Volskaya Industries,Attack,NL,UK,1:40,14,0,6,0,2,R
+Volskaya Industries,Attack,NL,UK,2:22,8,0,1,1,2,R
+Volskaya Industries,Attack,NL,UK,2:58,33,0,5,2,4,R
+Volskaya Industries,Defense,NL,UK,0:21,0,1,0,0,0,B
+Volskaya Industries,Defense,NL,UK,0:42,35,2,7,0,1,R
+Rialto,Defense,NL,UK,0:15,10,0,5,0,0,R
+Rialto,Defense,NL,UK,1:09,13,0,6,0,0,R
+Rialto,Defense,NL,UK,2:08,12,0,4,1,1,R
+Rialto,Defense,NL,UK,2:45,29,1,7,4,3,B
+Rialto,Defense,NL,UK,3:42,18,0,6,2,2,R
+Rialto,Defense,NL,UK,4:12,30,2,1,3,3,R
+Rialto,Defense,NL,UK,5:30,14,5,0,0,0,B
+Rialto,Defense,NL,UK,6:30,19,1,2,4,2,B
+Rialto,Attack,NL,UK,0:26,14,5,0,0,1,B
+Rialto,Attack,NL,UK,1:01,20,1,5,1,1,R
+Rialto,Attack,NL,UK,1:46,20,4,1,3,2,R
+Rialto,Attack,NL,UK,2:41,21,4,5,1,1,R
+Rialto,Attack,NL,UK,3:25,7,0,3,0,1,R
+Rialto,Attack,NL,UK,4:02,5,0,1,2,1,R
+Rialto,Attack,NL,UK,5:07,10,2,1,0,1,B
+Rialto,Attack,NL,UK,5:30,13,0,4,0,0,R
+Rialto,Attack,NL,UK,6:17,28,1,6,0,2,B
+Lijiang Tower,Garden,IT,GER,0:30,12,1,6,0,0,R
+Lijiang Tower,Garden,IT,GER,1:07,18,0,4,2,2,R
+Lijiang Tower,Garden,IT,GER,1:53,12,1,1,2,3,B
+Lijiang Tower,Garden,IT,GER,2:19,26,0,6,1,3,R
+Lijiang Tower,Control Center,IT,GER,0:17,6,1,1,0,0,R
+Lijiang Tower,Control Center,IT,GER,0:38,16,0,2,1,1,R
+Lijiang Tower,Control Center,IT,GER,1:15,14,0,5,0,2,R
+Lijiang Tower,Control Center,IT,GER,1:59,25,1,6,1,2,R
+King's Row,Defense,IT,GER,0:45,11,1,2,1,0,B
+King's Row,Defense,IT,GER,1:28,17,1,1,2,3,B
+King's Row,Defense,IT,GER,1:58,6,1,0,1,1,B
+King's Row,Defense,IT,GER,2:27,13,3,0,2,0,B
+King's Row,Defense,IT,GER,3:11,8,2,0,2,1,B
+King's Row,Defense,IT,GER,3:48,17,3,0,1,0,B
+King's Row,Defense,IT,GER,4:23,18,0,6,1,2,R
+King's Row,Defense,IT,GER,5:17,9,1,1,1,1,B
+King's Row,Defense,IT,GER,5:43,15,0,6,0,0,R
+King's Row,Defense,IT,GER,6:53,2,2,2,0,0,R
+King's Row,Defense,IT,GER,7:33,16,0,6,1,1,R
+King's Row,Attack,IT,GER,0:37,0,0,1,0,0,R
+King's Row,Attack,IT,GER,1:19,24,5,0,0,0,B
+King's Row,Attack,IT,GER,2:57,24,6,0,0,0,B
+King's Row,Attack,IT,GER,3:48,4,1,1,2,1,B
+King's Row,Attack,IT,GER,4:57,11,0,4,0,0,R
+King's Row,Attack,IT,GER,5:36,16,0,4,0,2,R
+King's Row,Attack,IT,GER,6:31,15,0,5,0,1,R
+King's Row,Attack,IT,GER,7:20,18,0,4,1,5,R
+King's Row,Attack,IT,GER,8:14,19,3,3,2,1,B
+King's Row,Attack,IT,GER,8:48,25,0,5,0,4,R
+Temple of Anubis,Defense,IT,GER,0:59,16,1,6,0,0,B
+Temple of Anubis,Defense,IT,GER,1:56,42,2,6,1,5,R
+Temple of Anubis,Defense,IT,GER,3:09,10,3,2,1,2,R
+Temple of Anubis,Defense,IT,GER,3:38,0,1,0,0,1,B
+Temple of Anubis,Defense,IT,GER,4:05,11,4,0,1,0,B
+Temple of Anubis,Defense,IT,GER,4:49,8,1,2,0,2,R
+Temple of Anubis,Defense,IT,GER,5:14,21,4,2,0,0,B
+Temple of Anubis,Defense,IT,GER,6:03,0,1,0,1,0,B
+Temple of Anubis,Defense,IT,GER,6:39,20,4,1,0,2,B
+Temple of Anubis,Defense,IT,GER,7:34,35,7,0,2,2,B
+Temple of Anubis,Attack,IT,GER,0:05,0,0,1,0,0,R
+Temple of Anubis,Attack,IT,GER,0:31,5,0,4,0,0,R
+Temple of Anubis,Attack,IT,GER,1:02,5,0,4,0,0,R
+Temple of Anubis,Attack,IT,GER,1:22,27,5,2,0,2,B
+Temple of Anubis,Attack,IT,GER,2:42,28,0,4,1,1,R
+Temple of Anubis,Attack,IT,GER,4:06,20,0,5,0,1,R
+Temple of Anubis,Attack,IT,GER,4:43,0,0,1,0,0,R
+Temple of Anubis,Attack,IT,GER,5:16,82,12,5,4,6,B
+Temple of Anubis,Attack,IT,GER,6:55,49,10,1,4,4,B
+Route 66,Defense,IT,GER,0:13,5,2,0,0,0,B
+Route 66,Defense,IT,GER,0:41,6,4,0,1,0,B
+Route 66,Defense,IT,GER,1:13,36,4,5,5,4,R
+Route 66,Defense,IT,GER,2:19,20,1,6,0,1,B
+Route 66,Defense,IT,GER,3:18,14,0,5,1,1,R
+Route 66,Defense,IT,GER,4:39,21,0,6,1,1,R
+Route 66,Defense,IT,GER,5:33,23,0,6,1,1,R
+Route 66,Defense,IT,GER,6:23,16,0,4,4,4,R
+Route 66,Defense,IT,GER,7:00,20,1,3,1,2,R
+Route 66,Defense,IT,GER,7:46,14,3,1,0,0,B
+Route 66,Defense,IT,GER,8:13,5,0,1,0,0,R
+Route 66,Attack,IT,GER,0:12,0,0,1,0,0,R
+Route 66,Attack,IT,GER,0:42,7,0,3,0,0,R
+Route 66,Attack,IT,GER,1:28,11,0,3,2,2,R
+Route 66,Attack,IT,GER,1:56,13,0,2,1,3,R
+Route 66,Attack,IT,GER,3:02,10,0,5,1,1,R
+Route 66,Attack,IT,GER,3:40,40,0,6,4,3,R
+Ilios,Well,PL,FR,0:34,12,4,1,0,0,B
+Ilios,Well,PL,FR,1:20,29,0,6,2,3,R
+Ilios,Well,PL,FR,2:05,57,3,7,2,3,B
+Ilios,Well,PL,FR,3:37,17,0,6,0,0,R
+Ilios,Lighthouse,PL,FR,0:42,21,6,0,0,0,B
+Ilios,Lighthouse,PL,FR,1:30,15,5,0,2,1,B
+Ilios,Lighthouse,PL,FR,2:15,14,5,2,2,3,R
+Ilios,Lighthouse,PL,FR,2:53,22,1,5,1,0,R
+Ilios,Lighthouse,PL,FR,3:56,39,1,8,2,3,B
+Numbani,Attack,PL,FR,0:28,16,5,1,0,0,B
+Numbani,Attack,PL,FR,1:09,0,0,1,0,0,R
+Numbani,Attack,PL,FR,1:28,0,0,1,0,0,R
+Numbani,Attack,PL,FR,1:44,14,6,0,2,0,B
+Numbani,Attack,PL,FR,2:23,6,4,0,1,0,B
+Numbani,Attack,PL,FR,3:02,21,0,2,1,1,R
+Numbani,Attack,PL,FR,3:41,0,0,1,0,0,R
+Numbani,Attack,PL,FR,4:10,16,0,4,2,2,R
+Numbani,Attack,PL,FR,4:51,11,0,3,0,2,R
+Numbani,Attack,PL,FR,5:30,18,4,0,1,1,B
+Numbani,Attack,PL,FR,6:12,14,0,3,1,1,R
+Numbani,Attack,PL,FR,7:00,17,1,2,1,0,R
+Numbani,Attack,PL,FR,7:34,9,1,1,0,2,R
+Numbani,Attack,PL,FR,7:53,10,1,1,0,0,B
+Numbani,Attack,PL,FR,8:26,8,0,3,1,3,R
+Numbani,Defense,PL,FR,0:51,0,0,1,0,0,R
+Numbani,Defense,PL,FR,1:09,21,0,4,0,1,R
+Numbani,Defense,PL,FR,2:05,6,0,4,0,1,R
+Numbani,Defense,PL,FR,2:42,14,0,5,0,1,R
+Horizon Lunar Colony,Attack,PL,FR,0:01,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,PL,FR,0:21,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,PL,FR,0:35,10,0,1,0,1,R
+Horizon Lunar Colony,Attack,PL,FR,1:33,11,0,3,0,0,R
+Horizon Lunar Colony,Attack,PL,FR,2:13,39,6,4,4,2,B
+Horizon Lunar Colony,Attack,PL,FR,4:16,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,PL,FR,5:03,20,1,4,1,3,R
+Horizon Lunar Colony,Attack,PL,FR,5:53,48,5,8,3,3,R
+Horizon Lunar Colony,Attack,PL,FR,7:08,18,0,3,0,2,R
+Horizon Lunar Colony,Attack,PL,FR,7:49,34,2,5,4,4,B
+Horizon Lunar Colony,Defense,PL,FR,0:13,0,1,0,0,0,B
+Horizon Lunar Colony,Defense,PL,FR,0:47,15,2,5,0,0,R
+Horizon Lunar Colony,Defense,PL,FR,1:40,0,1,0,0,0,B
+Horizon Lunar Colony,Defense,PL,FR,2:03,15,6,1,2,0,B
+Horizon Lunar Colony,Defense,PL,FR,2:46,52,0,14,2,5,R
+Dorado,Attack,PL,FR,0:03,0,0,1,0,0,R
+Dorado,Attack,PL,FR,0:41,16,6,0,0,0,B
+Dorado,Attack,PL,FR,1:17,21,2,4,2,1,R
+Dorado,Attack,PL,FR,2:00,22,2,7,1,1,B
+Dorado,Attack,PL,FR,3:17,28,2,2,1,1,R
+Dorado,Attack,PL,FR,4:03,16,6,1,0,0,B
+Dorado,Attack,PL,FR,4:53,34,3,2,1,2,R
+Dorado,Attack,PL,FR,6:06,18,3,5,0,0,B
+Dorado,Attack,PL,FR,6:43,21,2,3,1,1,R
+Dorado,Attack,PL,FR,7:07,12,0,1,2,1,R
+Dorado,Defense,PL,FR,0:15,9,0,5,0,1,R
+Dorado,Defense,PL,FR,0:58,11,0,6,0,1,R
+Dorado,Defense,PL,FR,1:32,6,0,4,0,2,R
+Dorado,Defense,PL,FR,2:11,6,0,4,1,0,R
+Ilios,Lighthouse,IT,UK,0:55,22,0,5,1,2,R
+Ilios,Lighthouse,IT,UK,1:44,6,0,4,0,0,R
+Ilios,Lighthouse,IT,UK,2:15,21,0,4,1,1,R
+Ilios,Lighthouse,IT,UK,2:47,20,1,4,1,2,B
+Ilios,Lighthouse,IT,UK,3:23,21,0,4,2,2,R
+Ilios,Well,IT,UK,0:13,15,0,3,0,0,R
+Ilios,Well,IT,UK,0:52,14,1,5,0,0,B
+Ilios,Well,IT,UK,1:19,11,0,4,0,3,R
+Ilios,Well,IT,UK,1:49,2,0,3,0,0,R
+Ilios,Well,IT,UK,2:05,23,3,0,1,1,B
+Ilios,Well,IT,UK,3:06,75,2,11,4,5,B
+King's Row,Defense,IT,UK,0:33,0,0,1,0,0,R
+King's Row,Defense,IT,UK,1:44,25,1,6,1,2,B
+King's Row,Defense,IT,UK,2:36,18,4,0,2,1,B
+King's Row,Defense,IT,UK,3:28,25,0,5,1,1,R
+King's Row,Defense,IT,UK,4:12,20,0,4,3,3,R
+King's Row,Defense,IT,UK,5:06,16,0,6,0,1,R
+King's Row,Attack,IT,UK,1:12,13,2,0,1,0,B
+King's Row,Attack,IT,UK,1:43,34,3,1,3,2,R
+King's Row,Attack,IT,UK,2:53,18,0,4,0,2,R
+King's Row,Attack,IT,UK,3:30,17,0,3,1,3,R
+King's Row,Attack,IT,UK,4:16,37,5,0,4,2,B
+King's Row,Attack,IT,UK,5:21,4,1,0,1,0,B
+King's Row,Attack,IT,UK,5:45,4,1,0,0,2,B
+King's Row,Attack,IT,UK,6:03,12,0,2,1,0,R
+King's Row,Attack,IT,UK,6:53,5,3,0,0,0,B
+King's Row,Attack,IT,UK,7:11,22,1,3,3,1,B
+King's Row,Attack,IT,UK,7:53,0,1,0,0,0,B
+King's Row,Defense,IT,UK,0:47,0,1,0,0,0,B
+King's Row,Defense,IT,UK,1:11,4,1,0,1,0,B
+King's Row,Defense,IT,UK,1:46,13,0,3,4,5,R
+Temple of Anubis,Attack,IT,UK,0:53,0,0,1,0,0,R
+Temple of Anubis,Attack,IT,UK,1:19,3,1,1,0,0,B
+Temple of Anubis,Attack,IT,UK,2:00,14,0,5,0,2,R
+Temple of Anubis,Attack,IT,UK,2:40,28,0,6,1,2,R
+Temple of Anubis,Attack,IT,UK,3:31,39,0,9,3,2,R
+Temple of Anubis,Defense,IT,UK,0:47,45,3,8,2,3,B
+Junkertown,Defense,IT,UK,0:51,17,0,3,0,2,R
+Junkertown,Defense,IT,UK,1:42,22,0,3,1,1,R
+Junkertown,Defense,IT,UK,2:44,23,2,2,1,0,R
+Junkertown,Defense,IT,UK,3:23,0,0,1,0,0,R
+Junkertown,Defense,IT,UK,4:12,6,0,1,0,1,R
+Junkertown,Defense,IT,UK,4:34,21,1,2,1,2,R
+Junkertown,Defense,IT,UK,5:10,82,6,7,5,5,R
+Junkertown,Defense,IT,UK,7:21,5,1,0,2,0,B
+Junkertown,Defense,IT,UK,7:41,0,1,0,0,0,B
+Junkertown,Defense,IT,UK,8:07,27,4,2,4,2,B
+Junkertown,Attack,IT,UK,0:59,0,0,1,0,0,R
+Junkertown,Attack,IT,UK,1:20,0,0,1,0,0,R
+Junkertown,Attack,IT,UK,1:38,0,0,1,0,0,R
+Junkertown,Attack,IT,UK,2:12,31,1,4,1,0,R
+Junkertown,Attack,IT,UK,3:04,21,0,5,0,1,R
+Junkertown,Attack,IT,UK,3:48,7,0,3,0,1,R
+Lijiang Tower,Control Center,PL,NL,0:17,6,0,2,0,0,R
+Lijiang Tower,Control Center,PL,NL,0:58,11,0,5,0,1,R
+Lijiang Tower,Control Center,PL,NL,1:34,7,0,5,0,2,R
+Lijiang Tower,Control Center,PL,NL,2:08,0,0,1,0,0,R
+Lijiang Tower,Control Center,PL,NL,2:26,28,5,0,6,3,B
+Lijiang Tower,Control Center,PL,NL,3:23,27,2,6,1,2,R
+Lijiang Tower,Garden,PL,NL,0:16,0,1,0,0,0,B
+Lijiang Tower,Garden,PL,NL,0:21,11,1,0,1,0,B
+Lijiang Tower,Garden,PL,NL,0:53,0,1,0,0,0,B
+Lijiang Tower,Garden,PL,NL,1:15,29,1,7,2,3,R
+Lijiang Tower,Garden,PL,NL,2:12,13,0,7,0,0,R
+Lijiang Tower,Garden,PL,NL,2:47,30,0,7,1,5,R
+Lijiang Tower,Garden,PL,NL,3:35,30,3,0,4,1,B
+Lijiang Tower,Garden,PL,NL,4:32,12,0,5,0,1,R
+King's Row,Attack,PL,NL,0:35,20,5,1,0,0,R
+King's Row,Attack,PL,NL,1:24,0,0,1,0,0,R
+King's Row,Attack,PL,NL,1:51,16,6,1,2,1,B
+King's Row,Attack,PL,NL,2:36,19,0,4,0,1,R
+King's Row,Attack,PL,NL,3:43,4,0,2,0,0,R
+King's Row,Attack,PL,NL,4:05,0,0,1,0,0,R
+King's Row,Attack,PL,NL,4:29,26,4,0,3,3,B
+King's Row,Attack,PL,NL,5:18,1,0,1,1,0,R
+King's Row,Attack,PL,NL,6:00,19,1,5,0,0,R
+King's Row,Defense,PL,NL,0:20,13,1,4,0,0,R
+King's Row,Defense,PL,NL,1:29,13,3,0,0,0,B
+King's Row,Defense,PL,NL,2:04,21,5,1,3,0,B
+King's Row,Defense,PL,NL,2:55,3,1,0,0,0,B
+King's Row,Defense,PL,NL,3:27,27,0,6,1,4,R
+King's Row,Defense,PL,NL,4:14,13,0,3,2,3,R
+Horizon Lunar Colony,Attack,PL,NL,0:49,29,7,3,0,0,B
+Horizon Lunar Colony,Attack,PL,NL,1:53,31,2,5,1,3,B
+Horizon Lunar Colony,Attack,PL,NL,2:47,33,1,5,3,1,B
+Horizon Lunar Colony,Attack,PL,NL,3:46,22,1,5,1,2,R
+Horizon Lunar Colony,Attack,PL,NL,4:56,55,12,0,4,2,B
+Horizon Lunar Colony,Defense,PL,NL,0:39,0,0,1,0,0,R
+Horizon Lunar Colony,Defense,PL,NL,1:11,21,0,5,1,0,R
+Horizon Lunar Colony,Defense,PL,NL,1:45,38,0,7,3,4,R
+Horizon Lunar Colony,Attack,PL,NL,1:10,26,5,2,1,2,B
+Horizon Lunar Colony,Attack,PL,NL,2:01,15,3,5,1,1,R
+Horizon Lunar Colony,Attack,PL,NL,2:33,11,1,4,0,1,R
+Horizon Lunar Colony,Defense,PL,NL,0:47,17,0,5,0,0,R
+Horizon Lunar Colony,Defense,PL,NL,1:29,26,3,5,3,1,B
+Dorado,Attack,PL,NL,0:47,19,6,0,0,0,B
+Dorado,Attack,PL,NL,1:31,22,5,0,1,0,B
+Dorado,Attack,PL,NL,2:13,6,1,0,0,1,B
+Dorado,Attack,PL,NL,2:29,14,2,1,4,2,B
+Dorado,Attack,PL,NL,2:58,20,6,1,0,1,B
+Dorado,Attack,PL,NL,3:43,0,1,0,0,0,B
+Dorado,Attack,PL,NL,4:08,27,2,1,3,0,R
+Dorado,Attack,PL,NL,4:44,20,0,6,0,2,R
+Dorado,Attack,PL,NL,5:36,13,0,2,0,1,R
+Dorado,Attack,PL,NL,6:21,50,3,6,2,4,B
+Dorado,Attack,PL,NL,7:49,53,8,1,4,3,B
+Dorado,Defense,PL,NL,0:47,0,1,0,0,0,B
+Dorado,Defense,PL,NL,1:06,14,0,5,0,1,R
+Dorado,Defense,PL,NL,2:17,0,0,1,0,0,R
+Dorado,Defense,PL,NL,2:50,19,5,1,1,0,B
+Dorado,Defense,PL,NL,3:27,8,1,0,1,0,B
+Dorado,Defense,PL,NL,4:06,44,3,9,2,4,B
+Dorado,Defense,PL,NL,5:29,17,1,3,0,1,B
+Dorado,Defense,PL,NL,6:04,6,1,0,2,0,B
+Dorado,Defense,PL,NL,6:39,30,0,7,4,5,R
+Dorado,Attack,PL,NL,0:08,0,0,1,0,0,R
+Dorado,Attack,PL,NL,0:42,25,1,6,0,1,R
+Dorado,Defense,PL,NL,0:08,0,1,0,0,0,B
+Dorado,Defense,PL,NL,0:33,19,2,1,0,1,R
+Dorado,Defense,PL,NL,1:18,42,3,4,2,4,B
+Oasis,University,UK,FR,0:31,1,0,1,0,1,R
+Oasis,University,UK,FR,1:00,5,0,1,1,1,R
+Oasis,University,UK,FR,1:37,29,6,0,3,2,B
+Oasis,University,UK,FR,2:30,15,2,2,2,1,B
+Oasis,University,UK,FR,2:58,11,0,5,0,1,R
+Oasis,University,UK,FR,3:27,29,0,7,2,4,R
+Oasis,Gardens,UK,FR,0:24,0,1,1,0,0,B
+Oasis,Gardens,UK,FR,0:41,13,1,4,0,0,R
+Oasis,Gardens,UK,FR,1:25,0,1,0,0,0,B
+Oasis,Gardens,UK,FR,1:59,6,3,0,0,0,B
+Oasis,Gardens,UK,FR,2:32,21,0,6,1,2,R
+Oasis,Gardens,UK,FR,3:36,37,4,6,1,2,B
+Blizzard World,Attack,UK,FR,0:49,0,0,1,0,0,R
+Blizzard World,Attack,UK,FR,1:34,21,6,0,1,3,B
+Blizzard World,Attack,UK,FR,2:38,11,0,3,0,0,R
+Blizzard World,Attack,UK,FR,3:50,12,0,4,0,0,R
+Blizzard World,Attack,UK,FR,4:25,25,6,1,1,0,B
+Blizzard World,Attack,UK,FR,5:37,5,0,2,0,0,R
+Blizzard World,Attack,UK,FR,6:27,21,5,0,1,0,B
+Blizzard World,Attack,UK,FR,7:15,23,6,1,1,2,B
+Blizzard World,Attack,UK,FR,7:55,17,6,0,1,1,B
+Blizzard World,Defense,UK,FR,0:42,0,1,1,0,0,B
+Blizzard World,Defense,UK,FR,0:56,16,3,0,0,0,B
+Blizzard World,Defense,UK,FR,1:31,10,4,0,1,0,B
+Blizzard World,Defense,UK,FR,2:08,8,0,1,0,3,R
+Blizzard World,Defense,UK,FR,2:51,22,0,6,0,1,R
+Blizzard World,Defense,UK,FR,3:43,23,0,4,1,1,R
+Blizzard World,Defense,UK,FR,4:36,23,0,4,3,4,R
+Blizzard World,Defense,UK,FR,5:14,19,1,4,1,2,R
+Blizzard World,Attack,UK,FR,0:52,7,4,0,0,0,B
+Blizzard World,Attack,UK,FR,1:17,25,1,3,5,4,R
+Blizzard World,Defense,UK,FR,0:47,16,0,3,0,0,R
+Blizzard World,Defense,UK,FR,1:29,0,1,0,0,0,B
+Blizzard World,Defense,UK,FR,1:49,11,3,2,3,1,R
+Blizzard World,Defense,UK,FR,2:26,4,0,2,0,0,R
+Temple of Anubis,Attack,UK,FR,0:29,0,0,1,0,0,R
+Temple of Anubis,Attack,UK,FR,1:00,2,0,1,0,0,R
+Temple of Anubis,Attack,UK,FR,1:34,18,0,4,0,0,R
+Temple of Anubis,Attack,UK,FR,2:13,29,0,5,1,1,R
+Temple of Anubis,Attack,UK,FR,3:10,4,0,1,0,1,R
+Temple of Anubis,Attack,UK,FR,3:41,32,7,0,4,2,B
+Temple of Anubis,Attack,UK,FR,4:55,3,1,0,1,0,B
+Temple of Anubis,Attack,UK,FR,5:16,28,7,0,3,2,B
+Temple of Anubis,Defense,UK,FR,0:28,24,4,2,0,1,R
+Temple of Anubis,Defense,UK,FR,1:26,14,2,0,2,1,B
+Temple of Anubis,Defense,UK,FR,1:57,0,1,0,0,0,B
+Temple of Anubis,Defense,UK,FR,2:40,21,4,0,2,2,B
+Temple of Anubis,Defense,UK,FR,3:35,17,0,6,2,2,R
+Temple of Anubis,Defense,UK,FR,4:52,56,2,12,1,3,R
+Temple of Anubis,Defense,UK,FR,0:19,0,1,0,0,0,B
+Temple of Anubis,Defense,UK,FR,0:47,10,2,4,0,0,R
+Temple of Anubis,Defense,UK,FR,1:42,20,2,5,1,3,R
+Temple of Anubis,Defense,UK,FR,2:41,30,5,4,4,2,B
+Temple of Anubis,Attack,UK,FR,0:56,0,0,1,0,0,R
+Temple of Anubis,Attack,UK,FR,1:17,17,0,5,0,0,R
+Temple of Anubis,Attack,UK,FR,1:57,0,0,1,0,0,R
+Temple of Anubis,Attack,UK,FR,2:15,15,0,4,1,3,R
+Route 66,Attack,UK,FR,0:09,0,1,0,0,0,B
+Route 66,Attack,UK,FR,0:25,7,4,0,0,0,B
+Route 66,Attack,UK,FR,1:00,33,6,0,5,0,B
+Route 66,Attack,UK,FR,2:02,32,5,2,2,4,B
+Route 66,Attack,UK,FR,2:59,35,6,2,3,3,R
+Route 66,Attack,UK,FR,3:48,7,3,0,1,0,B
+Route 66,Attack,UK,FR,4:20,21,3,1,1,3,B
+Route 66,Attack,UK,FR,5:08,8,0,2,0,1,R
+Route 66,Attack,UK,FR,5:37,17,4,0,3,2,B
+Route 66,Attack,UK,FR,6:07,22,7,0,3,3,B
+Route 66,Defense,UK,FR,0:28,18,4,2,0,0,B
+Route 66,Defense,UK,FR,1:12,25,0,5,3,3,R
+Route 66,Defense,UK,FR,2:02,12,3,0,1,0,B
+Route 66,Defense,UK,FR,2:37,20,1,5,1,2,R
+Route 66,Defense,UK,FR,3:10,14,3,2,0,1,B
+Route 66,Defense,UK,FR,3:55,27,1,6,0,1,R
+Route 66,Defense,UK,FR,4:49,21,1,2,4,3,R
+Route 66,Defense,UK,FR,5:35,19,0,4,1,1,R
+Route 66,Defense,UK,FR,6:05,20,3,3,2,3,R
+Route 66,Defense,UK,FR,6:55,23,2,2,2,3,R
+Route 66,Defense,UK,FR,7:42,7,3,0,0,0,B
+Route 66,Defense,UK,FR,7:59,14,1,1,3,2,R
+Route 66,Defense,UK,FR,8:22,13,0,2,1,2,R
+Route 66,Defense,UK,FR,8:56,21,0,4,0,2,R
+Route 66,Defense,UK,FR,0:21,3,0,2,0,0,R
+Route 66,Defense,UK,FR,0:40,0,0,1,0,0,R
+Route 66,Defense,UK,FR,1:07,26,3,3,2,2,B
+Route 66,Defense,UK,FR,2:13,19,0,4,3,2,R
+Route 66,Defense,UK,FR,3:01,13,0,5,0,3,R
+Route 66,Defense,UK,FR,3:32,0,0,1,0,0,R
+Route 66,Defense,UK,FR,3:59,22,3,1,1,0,B
+Route 66,Attack,UK,FR,0:13,10,1,3,0,0,R
+Route 66,Attack,UK,FR,0:55,4,0,1,0,1,R
+Route 66,Attack,UK,FR,1:14,8,1,3,0,0,R
+Route 66,Attack,UK,FR,1:42,25,3,1,4,4,R
+Route 66,Attack,UK,FR,2:44,16,0,4,2,1,R
+Busan,Downtown,CA,FR,0:31,41,8,1,0,0,B
+Busan,Downtown,CA,FR,1:37,18,6,1,2,0,B
+Busan,Downtown,CA,FR,2:26,39,2,6,3,4,R
+Busan,Downtown,CA,FR,3:21,16,6,0,2,0,B
+Busan,Sanctuary,CA,FR,0:37,17,0,3,0,0,R
+Busan,Sanctuary,CA,FR,1:12,15,0,2,0,0,R
+Busan,Sanctuary,CA,FR,1:44,7,0,4,1,1,R
+Busan,Sanctuary,CA,FR,2:17,29,5,0,2,2,B
+Busan,Sanctuary,CA,FR,3:14,5,1,1,1,1,R
+Busan,Sanctuary,CA,FR,3:35,11,4,0,1,0,B
+Busan,Sanctuary,CA,FR,4:25,17,0,4,0,0,R
+Busan,MEKA Base,CA,FR,0:21,0,0,1,0,0,R
+Busan,MEKA Base,CA,FR,0:46,36,4,2,0,1,R
+Busan,MEKA Base,CA,FR,1:54,10,3,3,0,1,B
+Busan,MEKA Base,CA,FR,2:22,5,0,1,0,1,R
+Busan,MEKA Base,CA,FR,2:39,19,1,5,0,1,R
+Busan,MEKA Base,CA,FR,3:17,15,4,0,3,0,B
+Busan,MEKA Base,CA,FR,3:44,34,2,5,1,3,R
+Busan,MEKA Base,CA,FR,4:43,13,5,0,2,1,B
+Busan,MEKA Base,CA,FR,5:13,12,5,0,2,0,B
+Eichenwalde,Defense,CA,FR,0:29,11,1,2,0,0,B
+Eichenwalde,Defense,CA,FR,0:55,2,0,2,0,0,R
+Eichenwalde,Defense,CA,FR,1:27,13,4,1,0,0,R
+Eichenwalde,Defense,CA,FR,2:27,19,4,0,1,2,B
+Eichenwalde,Defense,CA,FR,3:19,14,4,0,2,1,B
+Eichenwalde,Defense,CA,FR,4:03,30,1,4,0,2,B
+Eichenwalde,Defense,CA,FR,4:53,25,3,2,2,1,B
+Eichenwalde,Defense,CA,FR,5:30,11,1,1,2,0,R
+Eichenwalde,Defense,CA,FR,6:09,8,0,1,0,0,R
+Eichenwalde,Defense,CA,FR,6:22,18,1,3,0,1,R
+Eichenwalde,Defense,CA,FR,7:01,28,2,2,3,2,R
+Eichenwalde,Defense,CA,FR,8:09,5,3,1,0,0,B
+Eichenwalde,Attack,CA,FR,0:49,7,0,2,0,1,R
+Eichenwalde,Attack,CA,FR,1:18,24,0,3,0,2,R
+Eichenwalde,Attack,CA,FR,1:55,28,5,0,4,1,B
+Eichenwalde,Attack,CA,FR,2:54,23,6,1,1,2,B
+Eichenwalde,Attack,CA,FR,3:43,21,6,3,0,1,B
+Eichenwalde,Attack,CA,FR,4:21,9,4,0,2,0,B
+Eichenwalde,Attack,CA,FR,5:00,3,0,1,0,1,R
+Eichenwalde,Attack,CA,FR,5:27,29,4,0,2,2,B
+Eichenwalde,Attack,CA,FR,6:12,3,0,2,1,0,R
+Eichenwalde,Attack,CA,FR,6:45,30,2,5,2,2,R
+Eichenwalde,Attack,CA,FR,7:47,33,4,3,3,3,R
+Eichenwalde,Attack,CA,FR,8:29,11,2,1,2,1,B
+Temple of Anubis,Defense,CA,FR,0:29,12,5,1,0,0,B
+Temple of Anubis,Defense,CA,FR,1:15,12,4,1,2,1,R
+Temple of Anubis,Defense,CA,FR,2:26,17,4,2,0,0,R
+Temple of Anubis,Defense,CA,FR,3:11,28,1,6,1,2,R
+Temple of Anubis,Defense,CA,FR,4:17,7,1,1,0,0,B
+Temple of Anubis,Defense,CA,FR,4:41,5,3,0,0,0,B
+Temple of Anubis,Defense,CA,FR,5:12,35,1,6,3,6,R
+Temple of Anubis,Attack,CA,FR,0:12,0,0,1,0,0,R
+Temple of Anubis,Attack,CA,FR,0:38,28,6,2,1,0,B
+Temple of Anubis,Attack,CA,FR,1:48,14,1,4,1,1,B
+Temple of Anubis,Attack,CA,FR,2:33,10,2,0,1,1,B
+Temple of Anubis,Attack,CA,FR,2:48,12,1,0,0,2,B
+Temple of Anubis,Attack,CA,FR,3:08,29,6,0,3,1,B
+Temple of Anubis,Defense,CA,FR,0:27,13,1,6,1,0,B
+Temple of Anubis,Defense,CA,FR,1:26,67,1,11,0,7,R
+Temple of Anubis,Attack,CA,FR,0:26,9,0,3,0,0,R
+Temple of Anubis,Attack,CA,FR,0:55,9,0,1,0,1,R
+Temple of Anubis,Attack,CA,FR,1:29,22,6,1,1,1,B
+Temple of Anubis,Attack,CA,FR,2:25,30,5,2,3,1,R
+Temple of Anubis,Attack,CA,FR,3:07,10,3,0,2,0,B
+Temple of Anubis,Defense,CA,FR,0:36,23,3,1,1,0,B
+Temple of Anubis,Attack,CA,FR,0:08,7,0,2,0,0,R
+Temple of Anubis,Attack,CA,FR,0:48,27,5,1,2,0,B
+Lijiang Tower,Control Center,CN,FL,0:50,7,0,3,0,0,R
+Lijiang Tower,Control Center,CN,FL,1:20,20,0,5,2,2,R
+Lijiang Tower,Control Center,CN,FL,2:01,11,0,5,1,2,R
+Lijiang Tower,Control Center,CN,FL,2:39,5,0,1,2,2,R
+Lijiang Tower,Control Center,CN,FL,2:51,9,0,1,1,0,R
+Lijiang Tower,Garden,CN,FL,0:20,0,0,1,0,0,R
+Lijiang Tower,Garden,CN,FL,1:03,21,6,0,0,1,B
+Lijiang Tower,Garden,CN,FL,1:49,20,5,0,2,1,B
+Lijiang Tower,Garden,CN,FL,2:51,14,4,0,0,0,B
+Lijiang Tower,Garden,CN,FL,3:29,3,1,1,0,2,B
+Lijiang Tower,Garden,CN,FL,3:38,25,4,3,4,2,B
+Lijiang Tower,Night Market,CN,FL,0:48,55,3,6,4,4,R
+Lijiang Tower,Night Market,CN,FL,2:09,9,0,1,1,1,R
+Lijiang Tower,Night Market,CN,FL,2:48,35,7,2,3,4,B
+Lijiang Tower,Night Market,CN,FL,3:50,19,0,6,1,1,R
+Lijiang Tower,Night Market,CN,FL,4:29,41,6,1,3,3,B
+Hollywood,Defense,CN,FL,0:33,3,2,0,0,0,B
+Hollywood,Defense,CN,FL,0:59,8,2,0,0,1,B
+Hollywood,Defense,CN,FL,1:42,12,0,2,1,2,R
+Hollywood,Defense,CN,FL,1:59,22,1,1,2,1,B
+Hollywood,Defense,CN,FL,2:32,17,1,3,0,3,B
+Hollywood,Defense,CN,FL,3:24,6,1,0,0,1,B
+Hollywood,Defense,CN,FL,3:51,33,7,1,1,1,R
+Hollywood,Defense,CN,FL,4:44,47,4,2,2,2,R
+Hollywood,Defense,CN,FL,5:48,36,7,0,1,1,B
+Hollywood,Attack,CN,FL,0:35,15,4,1,0,0,B
+Hollywood,Attack,CN,FL,1:39,13,5,1,2,2,B
+Hollywood,Attack,CN,FL,2:08,0,1,0,0,0,B
+Hollywood,Attack,CN,FL,2:36,17,2,2,2,2,R
+Hollywood,Attack,CN,FL,3:04,12,0,1,1,1,R
+Hollywood,Attack,CN,FL,3:33,11,1,6,1,0,R
+Hollywood,Attack,CN,FL,4:26,22,4,1,0,0,R
+Hollywood,Attack,CN,FL,5:11,16,4,1,3,0,R
+Hollywood,Attack,CN,FL,5:57,17,5,0,1,0,B
+Hollywood,Attack,CN,FL,6:30,14,2,0,1,1,B
+Hanamura,Defense,CN,FL,0:20,19,1,3,0,0,R
+Hanamura,Defense,CN,FL,0:57,1,0,1,0,1,R
+Hanamura,Defense,CN,FL,1:14,22,6,0,0,1,B
+Hanamura,Defense,CN,FL,2:07,17,1,1,2,1,B
+Hanamura,Defense,CN,FL,2:47,0,0,1,0,0,R
+Hanamura,Defense,CN,FL,3:01,62,0,11,4,5,R
+Hanamura,Attack,CN,FL,0:42,0,0,1,0,0,R
+Hanamura,Attack,CN,FL,1:04,0,0,1,0,0,R
+Hanamura,Attack,CN,FL,1:14,20,4,1,2,1,B
+Hanamura,Attack,CN,FL,2:29,16,1,3,2,3,R
+Hanamura,Attack,CN,FL,3:32,19,2,3,2,1,B
+Hanamura,Attack,CN,FL,4:44,19,0,5,0,1,R
+Hanamura,Attack,CN,FL,5:35,7,0,3,1,1,R
+Hanamura,Attack,CN,FL,6:17,34,6,0,3,4,B
+Hanamura,Attack,CN,FL,1:15,12,6,1,1,0,B
+Hanamura,Attack,CN,FL,2:05,26,8,0,2,3,B
+Hanamura,Defense,CN,FL,0:40,1,1,1,0,0,B
+Hanamura,Defense,CN,FL,1:19,6,1,4,0,0,B
+Hanamura,Defense,CN,FL,2:12,19,6,1,1,1,R
+Hanamura,Defense,CN,FL,3:03,15,4,1,1,1,R
+Hanamura,Defense,CN,FL,3:36,0,0,1,0,0,R
+Hanamura,Defense,CN,FL,4:11,35,5,1,4,1,R
+Ilios,Lighthouse,UK,USA,0:28,12,0,6,0,0,R
+Ilios,Lighthouse,UK,USA,1:06,12,0,6,0,1,R
+Ilios,Lighthouse,UK,USA,1:40,18,0,6,1,3,R
+Ilios,Lighthouse,UK,USA,2:21,13,0,6,0,2,R
+Ilios,Ruins,UK,USA,0:39,4,2,1,0,0,B
+Ilios,Ruins,UK,USA,1:16,12,3,1,2,0,R
+Ilios,Ruins,UK,USA,1:56,34,1,3,2,1,B
+Ilios,Ruins,UK,USA,2:44,22,2,0,3,2,B
+Ilios,Ruins,UK,USA,3:27,17,0,3,1,2,R
+Ilios,Ruins,UK,USA,4:03,15,1,4,1,2,B
+Ilios,Ruins,UK,USA,4:49,35,1,6,2,1,R
+King's Row,Attack,UK,USA,1:01,8,4,1,0,0,R
+King's Row,Attack,UK,USA,1:39,20,0,4,3,1,R
+King's Row,Attack,UK,USA,2:17,11,0,3,0,0,R
+King's Row,Attack,UK,USA,2:49,6,0,3,0,1,R
+King's Row,Attack,UK,USA,3:23,9,0,4,0,2,R
+King's Row,Attack,UK,USA,4:05,24,6,0,4,2,B
+King's Row,Attack,UK,USA,5:05,16,0,5,0,1,R
+King's Row,Attack,UK,USA,5:48,13,1,1,2,3,B
+King's Row,Attack,UK,USA,6:29,25,6,1,2,2,R
+King's Row,Attack,UK,USA,7:20,16,0,4,1,4,R
+King's Row,Defense,UK,USA,0:20,0,1,0,0,0,B
+King's Row,Defense,UK,USA,1:06,11,3,0,0,0,B
+King's Row,Defense,UK,USA,1:45,24,4,1,1,1,B
+King's Row,Defense,UK,USA,2:32,10,3,0,1,1,B
+King's Row,Defense,UK,USA,2:56,8,2,1,1,1,B
+King's Row,Defense,UK,USA,3:26,15,5,0,0,0,B
+King's Row,Defense,UK,USA,3:56,13,2,0,2,0,B
+Volskaya Industries,Attack,UK,USA,0:35,0,0,1,0,0,R
+Volskaya Industries,Attack,UK,USA,1:02,14,0,5,0,1,R
+Volskaya Industries,Attack,UK,USA,1:45,12,1,1,1,1,B
+Volskaya Industries,Attack,UK,USA,2:10,49,7,3,3,3,B
+Volskaya Industries,Attack,UK,USA,3:33,3,1,0,1,0,B
+Volskaya Industries,Attack,UK,USA,3:45,28,1,4,0,1,B
+Volskaya Industries,Attack,UK,USA,4:43,11,0,2,0,3,R
+Volskaya Industries,Attack,UK,USA,5:29,27,6,0,3,2,B
+Volskaya Industries,Defense,UK,USA,0:24,0,1,0,0,0,B
+Volskaya Industries,Defense,UK,USA,0:55,0,1,0,0,0,B
+Volskaya Industries,Defense,UK,USA,1:29,16,1,5,1,3,B
+Volskaya Industries,Defense,UK,USA,2:35,18,4,1,0,1,B
+Volskaya Industries,Defense,UK,USA,3:36,24,0,7,3,1,R
+Volskaya Industries,Attack,UK,USA,0:16,10,2,0,0,0,B
+Volskaya Industries,Attack,UK,USA,0:48,19,4,0,1,1,B
+Volskaya Industries,Attack,UK,USA,1:32,42,6,4,0,1,B
+Volskaya Industries,Attack,UK,USA,2:26,40,1,6,3,6,B
+Volskaya Industries,Defense,UK,USA,0:26,13,3,2,0,0,R
+Volskaya Industries,Defense,UK,USA,1:04,29,6,2,2,3,B
+Volskaya Industries,Defense,UK,USA,2:04,20,4,0,2,0,B
+Volskaya Industries,Defense,UK,USA,2:51,35,3,5,2,2,R
+Volskaya Industries,Defense,UK,USA,4:01,59,7,3,3,3,B
+Route 66,Attack,UK,USA,0:33,16,5,0,0,0,B
+Route 66,Attack,UK,USA,1:16,41,8,1,2,3,B
+Route 66,Attack,UK,USA,2:27,17,6,0,2,1,B
+Route 66,Attack,UK,USA,3:19,36,6,2,3,2,R
+Route 66,Attack,UK,USA,4:20,2,0,2,1,0,R
+Route 66,Attack,UK,USA,4:44,25,5,0,0,1,B
+Route 66,Attack,UK,USA,5:32,21,7,0,3,1,B
+Route 66,Defense,UK,USA,0:20,7,4,0,0,0,B
+Route 66,Defense,UK,USA,0:55,23,1,4,2,1,R
+Route 66,Defense,UK,USA,1:51,13,0,6,0,2,R
+Route 66,Defense,UK,USA,2:23,8,0,4,0,1,R
+Route 66,Defense,UK,USA,3:04,13,4,0,1,2,B
+Route 66,Defense,UK,USA,3:55,21,1,6,0,0,R
+Route 66,Defense,UK,USA,4:50,5,1,0,1,0,B
+Route 66,Defense,UK,USA,5:25,13,5,0,0,0,B
+Route 66,Defense,UK,USA,6:04,2,1,0,1,1,B
+Route 66,Defense,UK,USA,6:24,14,1,6,0,0,R
+Route 66,Defense,UK,USA,7:06,15,5,0,1,0,B
+Route 66,Defense,UK,USA,7:36,12,3,0,2,1,B
+Route 66,Defense,UK,USA,8:03,3,1,0,1,1,B
+Busan,Downtown,AUS,KR,0:09,0,1,0,0,0,B
+Busan,Downtown,AUS,KR,0:44,10,2,2,0,0,R
+Busan,Downtown,AUS,KR,1:37,25,5,2,1,0,B
+Busan,Downtown,AUS,KR,2:23,15,1,5,2,2,R
+Busan,Downtown,AUS,KR,3:02,33,0,7,2,3,R
+Busan,Sanctuary,AUS,KR,0:34,15,0,4,0,1,R
+Busan,Sanctuary,AUS,KR,1:28,0,0,1,0,0,R
+Busan,Sanctuary,AUS,KR,1:43,0,0,1,0,0,R
+Busan,Sanctuary,AUS,KR,2:19,17,0,4,0,1,R
+Busan,Sanctuary,AUS,KR,3:00,18,3,4,0,0,B
+Blizzard World,Defense,AUS,KR,0:44,0,1,0,0,0,B
+Blizzard World,Defense,AUS,KR,0:59,0,2,0,0,0,B
+Blizzard World,Defense,AUS,KR,1:29,49,4,7,2,0,B
+Blizzard World,Defense,AUS,KR,3:21,12,0,3,0,0,R
+Blizzard World,Defense,AUS,KR,3:52,10,2,0,2,0,B
+Blizzard World,Defense,AUS,KR,4:50,16,2,1,2,0,R
+Blizzard World,Defense,AUS,KR,5:47,7,3,0,2,0,B
+Blizzard World,Defense,AUS,KR,6:12,30,1,6,1,4,B
+Blizzard World,Defense,AUS,KR,7:18,10,0,5,0,1,R
+Blizzard World,Defense,AUS,KR,7:40,28,5,0,3,0,B
+Blizzard World,Attack,AUS,KR,1:16,0,1,0,0,0,B
+Blizzard World,Attack,AUS,KR,1:35,31,5,1,3,4,B
+Blizzard World,Attack,AUS,KR,2:59,9,4,3,1,0,B
+Blizzard World,Attack,AUS,KR,3:33,33,3,3,2,3,B
+Blizzard World,Attack,AUS,KR,4:33,22,5,0,1,1,B
+Blizzard World,Attack,AUS,KR,5:22,16,5,0,3,0,B
+Blizzard World,Attack,AUS,KR,6:06,25,1,5,0,1,B
+Blizzard World,Attack,AUS,KR,6:53,20,1,5,1,2,B
+Blizzard World,Attack,AUS,KR,7:54,0,0,1,0,0,R
+Temple of Anubis,Defense,AUS,KR,0:46,0,0,1,0,1,R
+Temple of Anubis,Defense,AUS,KR,1:11,1,2,0,1,0,B
+Temple of Anubis,Defense,AUS,KR,1:41,13,2,1,2,2,B
+Temple of Anubis,Defense,AUS,KR,2:23,21,1,6,2,3,R
+Temple of Anubis,Defense,AUS,KR,3:23,6,1,0,0,0,B
+Temple of Anubis,Defense,AUS,KR,4:00,16,4,1,0,0,B
+Temple of Anubis,Defense,AUS,KR,4:52,3,1,0,0,1,B
+Temple of Anubis,Defense,AUS,KR,5:37,16,3,1,1,0,B
+Temple of Anubis,Defense,AUS,KR,6:21,4,0,2,1,1,R
+Temple of Anubis,Defense,AUS,KR,6:41,14,0,4,1,1,R
+Temple of Anubis,Attack,AUS,KR,0:53,0,1,0,0,0,B
+Temple of Anubis,Attack,AUS,KR,1:09,19,5,1,1,0,R
+Temple of Anubis,Attack,AUS,KR,2:20,23,2,2,2,2,B
+Temple of Anubis,Attack,AUS,KR,2:51,16,0,2,0,0,R
+Temple of Anubis,Attack,AUS,KR,3:43,17,0,6,1,0,R
+Temple of Anubis,Attack,AUS,KR,4:35,20,1,5,1,2,R
+Temple of Anubis,Attack,AUS,KR,5:35,23,0,6,3,2,R
+Temple of Anubis,Attack,AUS,KR,6:29,17,0,3,1,1,R
+Temple of Anubis,Attack,AUS,KR,7:24,7,1,3,0,1,B
+Temple of Anubis,Attack,AUS,KR,7:56,16,0,6,2,0,R
+Oasis,Gardens,CN,CA,0:37,14,0,5,0,0,R
+Oasis,Gardens,CN,CA,1:11,12,0,2,1,2,R
+Oasis,Gardens,CN,CA,1:56,0,0,1,0,0,R
+Oasis,Gardens,CN,CA,2:11,5,1,1,1,1,B
+Oasis,Gardens,CN,CA,2:26,21,4,0,3,2,B
+Oasis,Gardens,CN,CA,3:14,11,2,0,0,0,B
+Oasis,Gardens,CN,CA,3:43,13,4,0,2,3,B
+Oasis,Gardens,CN,CA,4:30,20,6,0,3,0,B
+Oasis,University,CN,CA,0:35,13,3,0,1,0,B
+Oasis,University,CN,CA,1:17,13,3,0,2,0,B
+Oasis,University,CN,CA,1:50,12,2,2,2,2,B
+Oasis,University,CN,CA,2:13,10,2,1,1,1,B
+Oasis,University,CN,CA,2:33,34,2,5,3,2,B
+Oasis,University,CN,CA,3:27,12,1,3,0,2,R
+Oasis,University,CN,CA,4:05,2,0,1,1,1,R
+Oasis,University,CN,CA,4:20,4,0,2,0,0,R
+Oasis,City Center,CN,CA,0:22,3,2,0,0,0,B
+Oasis,City Center,CN,CA,1:11,14,6,0,1,0,B
+Oasis,City Center,CN,CA,1:57,40,4,2,2,5,B
+Oasis,City Center,CN,CA,2:46,11,3,0,1,1,B
+Blizzard World,Attack,CN,CA,0:49,17,0,4,1,1,R
+Blizzard World,Attack,CN,CA,1:36,12,1,1,0,1,R
+Blizzard World,Attack,CN,CA,1:52,43,5,0,3,1,B
+Blizzard World,Attack,CN,CA,3:12,20,4,0,2,0,B
+Blizzard World,Attack,CN,CA,3:58,20,1,2,2,2,B
+Blizzard World,Attack,CN,CA,4:48,0,0,1,0,0,R
+Blizzard World,Attack,CN,CA,5:18,50,6,2,1,2,B
+Blizzard World,Attack,CN,CA,6:12,22,6,0,2,1,B
+Blizzard World,Attack,CN,CA,7:00,13,0,2,1,1,R
+Blizzard World,Attack,CN,CA,7:36,2,1,1,0,0,R
+Blizzard World,Attack,CN,CA,7:54,16,0,2,3,3,R
+Blizzard World,Attack,CN,CA,8:35,16,5,2,2,1,B
+Blizzard World,Defense,CN,CA,0:33,0,0,1,0,0,R
+Blizzard World,Defense,CN,CA,1:00,0,1,0,0,0,B
+Blizzard World,Defense,CN,CA,1:36,30,6,0,0,0,B
+Blizzard World,Defense,CN,CA,2:14,17,2,0,2,1,B
+Blizzard World,Defense,CN,CA,2:56,47,5,2,3,4,R
+Blizzard World,Defense,CN,CA,3:56,7,2,0,2,1,B
+Temple of Anubis,Defense,CN,CA,0:28,19,0,4,0,1,R
+Temple of Anubis,Defense,CN,CA,1:15,13,0,4,0,1,R
+Temple of Anubis,Defense,CN,CA,1:45,38,4,5,2,3,R
+Temple of Anubis,Defense,CN,CA,2:38,6,1,0,0,2,B
+Temple of Anubis,Defense,CN,CA,2:56,19,1,1,2,1,R
+Temple of Anubis,Defense,CN,CA,3:35,6,3,1,0,0,B
+Temple of Anubis,Defense,CN,CA,4:21,19,6,0,0,1,B
+Temple of Anubis,Defense,CN,CA,5:03,23,5,0,1,0,B
+Temple of Anubis,Defense,CN,CA,5:42,10,3,0,0,0,B
+Temple of Anubis,Defense,CN,CA,6:12,10,5,0,1,0,B
+Temple of Anubis,Defense,CN,CA,6:54,12,3,0,1,0,B
+Temple of Anubis,Defense,CN,CA,7:23,0,1,0,0,0,B
+Temple of Anubis,Defense,CN,CA,7:36,18,6,0,1,2,B
+Temple of Anubis,Attack,CN,CA,0:26,0,0,1,0,0,R
+Temple of Anubis,Attack,CN,CA,0:44,0,0,1,0,0,R
+Temple of Anubis,Attack,CN,CA,1:02,7,0,1,1,1,R
+Temple of Anubis,Attack,CN,CA,1:34,11,0,1,0,1,R
+Temple of Anubis,Attack,CN,CA,2:23,18,4,0,0,0,B
+Temple of Anubis,Attack,CN,CA,3:30,25,1,3,2,1,R
+Temple of Anubis,Attack,CN,CA,4:33,17,4,0,1,2,B
+Temple of Anubis,Attack,CN,CA,5:05,8,3,1,0,0,B
+Nepal,Sanctum,KR,UK,0:20,23,0,4,0,0,R
+Nepal,Sanctum,KR,UK,1:18,24,6,1,0,0,B
+Nepal,Sanctum,KR,UK,2:19,32,3,2,2,2,R
+Nepal,Sanctum,KR,UK,2:58,15,5,0,1,0,B
+Nepal,Sanctum,KR,UK,3:42,30,6,1,1,0,R
+Nepal,Sanctum,KR,UK,0:37,19,1,6,0,2,R
+Nepal,Sanctum,KR,UK,1:20,15,1,2,4,3,R
+Nepal,Sanctum,KR,UK,2:03,8,1,5,0,0,R
+Nepal,Sanctum,KR,UK,2:44,32,6,1,2,0,B
+Nepal,Sanctum,KR,UK,3:47,4,5,0,0,0,B
+Nepal,Sanctum,KR,UK,4:23,46,1,7,5,6,R
+Nepal,Village,KR,UK,0:42,7,4,1,0,1,B
+Nepal,Village,KR,UK,1:16,41,6,3,3,2,B
+Nepal,Village,KR,UK,2:23,39,7,1,2,1,B
+Nepal,Village,KR,UK,3:18,20,5,0,3,2,B
+King's Row,Attack,KR,UK,0:32,34,7,1,1,1,B
+King's Row,Attack,KR,UK,1:41,22,5,2,1,0,B
+King's Row,Attack,KR,UK,2:31,13,2,1,3,2,B
+King's Row,Attack,KR,UK,2:56,10,0,1,0,0,R
+King's Row,Attack,KR,UK,4:05,18,5,1,1,0,B
+King's Row,Attack,KR,UK,4:57,0,0,1,0,0,R
+King's Row,Attack,KR,UK,5:22,5,3,2,2,0,R
+King's Row,Attack,KR,UK,5:53,49,9,0,3,1,B
+King's Row,Defense,KR,UK,0:21,17,2,2,0,0,R
+King's Row,Defense,KR,UK,0:52,34,3,1,4,2,B
+King's Row,Defense,KR,UK,1:57,8,1,0,1,0,B
+King's Row,Defense,KR,UK,2:34,45,2,8,4,2,R
+King's Row,Defense,KR,UK,4:07,20,0,4,1,2,R
+King's Row,Defense,KR,UK,4:45,9,1,3,0,0,R
+King's Row,Defense,KR,UK,5:27,4,2,0,0,0,B
+King's Row,Defense,KR,UK,5:55,10,0,6,1,1,R
+King's Row,Defense,KR,UK,6:23,32,6,3,2,4,R
+King's Row,Defense,KR,UK,7:28,6,1,0,1,0,B
+King's Row,Defense,KR,UK,7:40,13,1,1,1,2,R
+King's Row,Defense,KR,UK,8:07,42,2,5,2,2,B
+King's Row,Attack,KR,UK,0:22,0,0,1,0,0,R
+King's Row,Attack,KR,UK,0:39,0,0,1,0,0,R
+King's Row,Attack,KR,UK,1:31,5,0,1,0,0,R
+Volskaya Industries,Attack,KR,UK,0:41,18,5,0,1,0,B
+Volskaya Industries,Attack,KR,UK,1:19,81,18,1,8,2,B
+Volskaya Industries,Attack,KR,UK,2:59,4,2,0,1,0,B
+Volskaya Industries,Defense,KR,UK,0:19,12,4,1,0,0,B
+Volskaya Industries,Defense,KR,UK,1:01,16,1,6,2,0,R
+Volskaya Industries,Defense,KR,UK,1:30,5,0,1,1,0,R
+Volskaya Industries,Defense,KR,UK,2:06,27,3,0,0,0,B
+Volskaya Industries,Defense,KR,UK,3:28,17,4,0,1,1,B
+Volskaya Industries,Defense,KR,UK,4:12,11,0,1,1,1,R
+Volskaya Industries,Defense,KR,UK,4:54,6,0,3,0,1,R
+Volskaya Industries,Defense,KR,UK,0:30,10,0,6,0,0,R
+Volskaya Industries,Defense,KR,UK,1:13,12,5,1,0,0,B
+Volskaya Industries,Defense,KR,UK,2:09,35,5,3,3,2,R
+Volskaya Industries,Defense,KR,UK,3:24,24,6,1,0,1,B
+Volskaya Industries,Attack,KR,UK,0:31,14,0,4,0,1,R
+Volskaya Industries,Attack,KR,UK,1:22,19,6,0,2,3,B
+Volskaya Industries,Attack,KR,UK,2:14,19,2,2,1,2,B
+Volskaya Industries,Attack,KR,UK,3:01,23,0,2,0,0,R
+Volskaya Industries,Attack,KR,UK,3:50,14,0,2,1,1,R
+Volskaya Industries,Attack,KR,UK,4:40,9,0,4,0,1,R
+Volskaya Industries,Attack,KR,UK,5:14,20,0,6,4,3,R
+Rialto,Attack,KR,UK,0:09,13,5,2,0,0,B
+Rialto,Attack,KR,UK,0:49,28,6,0,1,0,B
+Rialto,Attack,KR,UK,1:48,20,6,0,2,1,B
+Rialto,Attack,KR,UK,2:23,27,0,6,1,3,R
+Rialto,Attack,KR,UK,3:20,37,7,7,1,1,R
+Rialto,Attack,KR,UK,4:13,24,1,5,1,3,R
+Rialto,Attack,KR,UK,5:17,18,0,3,0,0,R
+Rialto,Attack,KR,UK,6:27,11,2,2,0,1,B
+Rialto,Defense,KR,UK,0:18,11,0,5,0,1,R
+Rialto,Defense,KR,UK,0:52,9,0,5,0,1,R
+Rialto,Defense,KR,UK,1:36,14,2,6,0,2,R
+Rialto,Defense,KR,UK,2:29,10,4,0,0,0,B
+Rialto,Defense,KR,UK,3:10,13,4,0,2,1,B
+Rialto,Defense,KR,UK,3:57,12,6,0,1,1,B
+Rialto,Defense,KR,UK,4:36,24,6,1,2,2,R
+Rialto,Defense,KR,UK,5:40,9,5,0,1,0,B
+Rialto,Defense,KR,UK,6:32,21,3,4,1,0,B
+Busan,MEKA Base,UK,CA,0:45,6,3,0,0,0,B
+Busan,MEKA Base,UK,CA,1:08,6,1,0,1,0,B
+Busan,MEKA Base,UK,CA,1:36,0,1,0,0,0,B
+Busan,MEKA Base,UK,CA,1:57,19,0,6,0,1,R
+Busan,MEKA Base,UK,CA,2:36,19,2,2,4,3,R
+Busan,MEKA Base,UK,CA,3:06,9,1,3,0,2,R
+Busan,MEKA Base,UK,CA,3:48,24,5,3,1,0,R
+Busan,MEKA Base,UK,CA,4:28,11,1,2,1,3,R
+Busan,MEKA Base,UK,CA,4:56,5,1,0,1,0,B
+Busan,Downtown,UK,CA,0:49,15,1,3,0,1,R
+Busan,Downtown,UK,CA,1:32,9,1,0,2,1,B
+Busan,Downtown,UK,CA,1:59,16,3,0,2,3,B
+Busan,Downtown,UK,CA,2:51,13,2,0,3,2,B
+Busan,Downtown,UK,CA,3:20,16,3,1,1,2,R
+Blizzard World,Attack,UK,CA,0:57,10,1,5,0,1,R
+Blizzard World,Attack,UK,CA,1:36,20,0,5,1,2,R
+Blizzard World,Attack,UK,CA,2:27,11,0,6,0,1,R
+Blizzard World,Attack,UK,CA,3:21,23,5,0,1,0,B
+Blizzard World,Attack,UK,CA,4:16,10,3,0,1,0,B
+Blizzard World,Attack,UK,CA,4:54,17,3,3,2,3,B
+Blizzard World,Attack,UK,CA,5:23,28,1,5,3,4,R
+Blizzard World,Attack,UK,CA,6:18,23,0,6,1,3,R
+Blizzard World,Defense,UK,CA,0:14,0,1,0,0,0,B
+Blizzard World,Defense,UK,CA,0:41,3,2,0,0,0,B
+Blizzard World,Defense,UK,CA,1:06,40,3,5,2,3,B
+Blizzard World,Defense,UK,CA,2:08,10,3,2,3,1,R
+Blizzard World,Defense,UK,CA,2:45,26,1,6,2,2,R
+Blizzard World,Defense,UK,CA,3:27,15,0,4,0,3,R
+Volskaya Industries,Attack,UK,CA,0:19,15,5,2,0,0,B
+Volskaya Industries,Attack,UK,CA,1:12,63,6,6,5,4,B
+Volskaya Industries,Attack,UK,CA,2:53,28,6,0,1,1,B
+Volskaya Industries,Defense,UK,CA,0:27,8,2,0,0,0,B
+Volskaya Industries,Defense,UK,CA,1:08,26,0,7,0,1,R
+Volskaya Industries,Defense,UK,CA,2:11,89,11,6,3,5,B
+Volskaya Industries,Defense,UK,CA,3:56,9,2,4,1,0,B
+Volskaya Industries,Defense,UK,CA,4:28,30,6,1,2,3,R
+Volskaya Industries,Defense,UK,CA,5:08,30,7,0,0,1,B
+Volskaya Industries,Defense,UK,CA,6:17,22,4,2,1,0,R
+Volskaya Industries,Defense,UK,CA,7:09,18,6,0,1,3,B
+Volskaya Industries,Defense,UK,CA,7:56,15,0,2,3,3,R
+Volskaya Industries,Attack,UK,CA,0:18,8,4,0,0,0,B
+Junkertown,Attack,UK,CA,0:32,13,4,2,0,1,B
+Junkertown,Attack,UK,CA,1:11,36,3,5,3,3,B
+Junkertown,Attack,UK,CA,2:09,17,5,0,1,1,B
+Junkertown,Attack,UK,CA,2:48,17,0,4,0,1,R
+Junkertown,Attack,UK,CA,3:38,22,0,5,1,2,R
+Junkertown,Attack,UK,CA,4:49,3,1,1,0,0,R
+Junkertown,Attack,UK,CA,5:03,20,5,0,1,2,B
+Junkertown,Attack,UK,CA,5:45,13,5,1,1,2,R
+Junkertown,Attack,UK,CA,6:33,6,2,2,2,0,R
+Junkertown,Attack,UK,CA,7:15,17,0,5,0,1,R
+Junkertown,Attack,UK,CA,7:56,25,5,2,2,2,B
+Junkertown,Attack,UK,CA,8:40,11,0,2,1,1,R
+Junkertown,Defense,UK,CA,0:20,23,4,0,2,1,B
+Junkertown,Defense,UK,CA,1:13,29,2,6,2,4,R
+Junkertown,Defense,UK,CA,2:11,11,5,0,1,1,B
+Junkertown,Defense,UK,CA,2:58,14,0,6,2,2,R
+Junkertown,Defense,UK,CA,3:30,23,0,6,0,0,R
+Junkertown,Defense,UK,CA,4:14,0,0,1,0,0,R
+Junkertown,Defense,UK,CA,4:37,14,1,6,0,2,B
+Junkertown,Defense,UK,CA,5:25,17,3,0,1,0,B
+Junkertown,Defense,UK,CA,6:06,15,1,6,0,3,R
+Junkertown,Defense,UK,CA,6:43,26,0,6,1,1,R
+Junkertown,Defense,UK,CA,7:28,14,0,3,1,2,R
+Lijiang Tower,Control Center,CA,UK,0:34,24,0,5,0,1,R
+Lijiang Tower,Control Center,CA,UK,1:27,21,0,6,1,1,R
+Lijiang Tower,Control Center,CA,UK,2:11,15,1,5,3,2,R
+Lijiang Tower,Control Center,CA,UK,2:48,28,1,4,2,4,R
+Lijiang Tower,Night Market,CA,UK,0:31,0,0,1,0,0,R
+Lijiang Tower,Night Market,CA,UK,0:47,1,0,2,0,0,R
+Lijiang Tower,Night Market,CA,UK,1:31,25,0,5,0,1,R
+Lijiang Tower,Night Market,CA,UK,2:22,15,0,2,5,3,R
+Ilios,Lighthouse,KR,CN,0:33,14,5,0,0,0,B
+Ilios,Lighthouse,KR,CN,1:11,9,4,0,1,0,B
+Ilios,Lighthouse,KR,CN,1:41,18,4,0,1,0,B
+Ilios,Lighthouse,KR,CN,2:35,29,4,2,3,4,R
+Ilios,Well,KR,CN,1:08,19,6,1,1,2,B
+Ilios,Well,KR,CN,2:02,15,5,0,0,0,B
+Ilios,Well,KR,CN,2:50,8,1,0,3,3,B
+King's Row,Attack,KR,CN,0:43,5,0,2,0,0,R
+King's Row,Attack,KR,CN,1:24,16,2,6,0,1,R
+King's Row,Attack,KR,CN,2:05,20,4,1,2,2,R
+King's Row,Attack,KR,CN,3:00,29,1,6,0,1,B
+King's Row,Attack,KR,CN,3:51,17,3,0,1,1,B
+King's Row,Attack,KR,CN,4:31,9,3,1,1,1,B
+King's Row,Attack,KR,CN,5:09,20,6,1,1,2,B
+King's Row,Attack,KR,CN,5:47,16,1,1,1,1,R
+King's Row,Attack,KR,CN,6:28,12,2,0,2,3,B
+King's Row,Defense,KR,CN,0:44,0,1,0,0,0,B
+King's Row,Defense,KR,CN,1:02,12,2,1,1,1,B
+King's Row,Defense,KR,CN,1:32,20,3,0,1,0,B
+King's Row,Defense,KR,CN,2:23,11,1,1,3,2,B
+King's Row,Defense,KR,CN,2:44,27,2,6,1,3,R
+King's Row,Defense,KR,CN,3:57,20,5,0,0,1,B
+King's Row,Defense,KR,CN,4:43,48,4,5,2,4,R
+King's Row,Defense,KR,CN,6:00,24,3,0,2,2,B
+Temple of Anubis,Attack,KR,CN,0:54,22,4,1,0,0,B
+Temple of Anubis,Attack,KR,CN,1:33,59,12,0,5,3,B
+Temple of Anubis,Defense,KR,CN,1:10,11,2,2,0,0,B
+Temple of Anubis,Defense,KR,CN,1:41,9,0,2,0,0,R
+Temple of Anubis,Defense,KR,CN,2:02,18,0,5,2,3,R
+Temple of Anubis,Defense,KR,CN,2:50,24,4,0,2,0,B
+Temple of Anubis,Defense,KR,CN,3:47,10,3,0,0,0,B
+Temple of Anubis,Defense,KR,CN,4:25,7,3,0,0,1,B
+Temple of Anubis,Defense,KR,CN,4:48,0,1,0,0,0,B
+Temple of Anubis,Defense,KR,CN,5:11,13,5,0,2,1,B
+Temple of Anubis,Defense,KR,CN,5:58,13,4,0,0,0,B
+Temple of Anubis,Defense,KR,CN,6:54,24,5,2,2,1,R
+Temple of Anubis,Defense,KR,CN,7:51,22,5,0,2,1,B
+Watchpoint: Gibraltar,Attack,KR,CN,1:05,5,0,2,0,2,R
+Watchpoint: Gibraltar,Attack,KR,CN,1:43,18,6,0,3,0,B
+Watchpoint: Gibraltar,Attack,KR,CN,2:18,2,2,0,0,0,B
+Watchpoint: Gibraltar,Attack,KR,CN,3:00,31,3,6,1,3,R
+Watchpoint: Gibraltar,Attack,KR,CN,4:10,38,6,6,1,1,B
+Watchpoint: Gibraltar,Attack,KR,CN,5:31,25,5,1,0,2,R
+Watchpoint: Gibraltar,Attack,KR,CN,6:02,22,6,0,2,2,B
+Watchpoint: Gibraltar,Attack,KR,CN,6:50,11,1,3,1,0,R
+Watchpoint: Gibraltar,Attack,KR,CN,7:30,19,1,3,0,1,R
+Watchpoint: Gibraltar,Attack,KR,CN,8:08,20,4,0,1,0,B
+Watchpoint: Gibraltar,Defense,KR,CN,0:56,8,0,1,1,1,R
+Watchpoint: Gibraltar,Defense,KR,CN,1:19,24,2,6,1,1,R
+Watchpoint: Gibraltar,Defense,KR,CN,1:58,0,0,1,0,0,R
+Watchpoint: Gibraltar,Defense,KR,CN,2:08,60,4,3,5,5,R
+Watchpoint: Gibraltar,Defense,KR,CN,3:19,43,3,6,4,4,R
+Watchpoint: Gibraltar,Defense,KR,CN,4:10,17,0,3,0,1,R
+Watchpoint: Gibraltar,Defense,KR,CN,4:49,11,2,1,1,1,B
+Watchpoint: Gibraltar,Defense,KR,CN,5:20,33,2,6,2,3,R
+Watchpoint: Gibraltar,Defense,KR,CN,6:18,21,2,4,1,3,R
+Watchpoint: Gibraltar,Attack,KR,CN,0:03,0,0,1,0,0,R
+Watchpoint: Gibraltar,Attack,KR,CN,0:25,4,0,2,0,0,R
+Watchpoint: Gibraltar,Attack,KR,CN,1:26,15,1,2,1,1,R
+Watchpoint: Gibraltar,Defense,KR,CN,0:37,7,2,1,0,0,B
+Watchpoint: Gibraltar,Defense,KR,CN,1:01,22,4,1,2,2,B
+Watchpoint: Gibraltar,Defense,KR,CN,1:50,22,6,0,2,0,B
+Ilios,Lighthouse,NO,CA,0:26,10,1,1,0,0,R
+Ilios,Lighthouse,NO,CA,1:07,8,5,1,1,0,B
+Ilios,Lighthouse,NO,CA,1:33,10,0,1,1,0,R
+Ilios,Lighthouse,NO,CA,1:57,22,1,6,1,2,R
+Ilios,Lighthouse,NO,CA,2:52,23,5,1,1,0,B
+Ilios,Lighthouse,NO,CA,3:30,75,5,12,4,5,R
+Ilios,Well,NO,CA,0:44,0,0,1,0,0,R
+Ilios,Well,NO,CA,0:59,0,1,0,0,0,B
+Ilios,Well,NO,CA,1:14,16,0,3,0,1,R
+Ilios,Well,NO,CA,1:51,23,0,4,1,4,R
+Ilios,Well,NO,CA,2:41,10,4,2,2,1,B
+Ilios,Well,NO,CA,3:38,26,2,5,1,2,R
+Blizzard World,Attack,NO,CA,0:45,46,4,7,1,1,B
+Blizzard World,Attack,NO,CA,2:09,14,1,4,1,2,R
+Blizzard World,Attack,NO,CA,2:52,31,3,5,4,3,B
+Blizzard World,Attack,NO,CA,4:04,19,5,1,0,0,B
+Blizzard World,Attack,NO,CA,5:21,17,1,3,1,0,R
+Blizzard World,Attack,NO,CA,5:59,33,2,5,3,2,B
+Blizzard World,Attack,NO,CA,6:50,13,0,5,0,3,R
+Blizzard World,Defense,NO,CA,0:41,9,2,3,0,0,R
+Blizzard World,Defense,NO,CA,1:09,15,1,4,0,0,R
+Blizzard World,Defense,NO,CA,1:47,23,0,4,3,3,R
+Horizon Lunar Colony,Attack,NO,CA,0:06,0,0,1,0,0,R
+Horizon Lunar Colony,Attack,NO,CA,0:34,15,2,5,0,0,R
+Horizon Lunar Colony,Attack,NO,CA,1:16,15,0,5,0,0,R
+Horizon Lunar Colony,Attack,NO,CA,1:58,19,1,4,1,1,R
+Horizon Lunar Colony,Attack,NO,CA,2:52,25,0,4,2,0,R
+Horizon Lunar Colony,Attack,NO,CA,3:39,21,0,6,0,2,R
+Horizon Lunar Colony,Defense,NO,CA,0:22,27,7,1,1,0,B
+Horizon Lunar Colony,Defense,NO,CA,1:37,21,5,0,3,1,B
+Horizon Lunar Colony,Defense,NO,CA,2:29,19,0,5,0,1,R
+Watchpoint: Gibraltar,Attack,NO,CA,0:06,2,2,0,0,0,B
+Watchpoint: Gibraltar,Attack,NO,CA,0:34,10,2,0,0,0,B
+Watchpoint: Gibraltar,Attack,NO,CA,0:59,20,3,0,0,0,B
+Watchpoint: Gibraltar,Attack,NO,CA,1:44,37,7,2,4,3,R
+Watchpoint: Gibraltar,Attack,NO,CA,2:55,9,4,1,0,0,B
+Watchpoint: Gibraltar,Attack,NO,CA,3:18,11,1,1,2,1,R
+Watchpoint: Gibraltar,Attack,NO,CA,3:35,55,3,4,3,3,R
+Watchpoint: Gibraltar,Attack,NO,CA,4:38,37,1,5,2,1,R
+Watchpoint: Gibraltar,Attack,NO,CA,5:33,21,2,4,2,2,R
+Watchpoint: Gibraltar,Attack,NO,CA,6:14,27,1,7,2,2,R
+Watchpoint: Gibraltar,Attack,NO,CA,7:09,9,1,1,0,1,B
+Watchpoint: Gibraltar,Attack,NO,CA,7:36,4,0,3,0,0,R
+Watchpoint: Gibraltar,Attack,NO,CA,7:58,31,3,6,4,5,B
+Watchpoint: Gibraltar,Defense,NO,CA,0:53,0,2,0,0,0,B
+Watchpoint: Gibraltar,Defense,NO,CA,1:42,0,1,0,0,0,B
+Watchpoint: Gibraltar,Defense,NO,CA,2:01,20,2,1,2,1,B
+Watchpoint: Gibraltar,Defense,NO,CA,2:44,0,0,1,0,0,R
+Watchpoint: Gibraltar,Defense,NO,CA,2:47,39,2,9,1,3,R
+Watchpoint: Gibraltar,Defense,NO,CA,3:39,7,1,0,1,0,B
+Watchpoint: Gibraltar,Defense,NO,CA,3:57,31,1,5,2,4,R
+Watchpoint: Gibraltar,Defense,NO,CA,4:44,10,0,5,0,0,R
+Watchpoint: Gibraltar,Defense,NO,CA,5:18,14,0,5,0,2,R
+Watchpoint: Gibraltar,Defense,NO,CA,5:47,18,0,2,1,1,R

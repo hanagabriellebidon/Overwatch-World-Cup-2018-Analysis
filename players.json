@@ -1,0 +1,1327 @@
+[
+ {
+   "playername": "ieatuup",
+   "role": "DPS",
+   "team": "Australia"
+ },
+ {
+   "playername": "Yuki",
+   "role": "DPS",
+   "team": "Australia"
+ },
+ {
+   "playername": "Hus",
+   "role": "DPS",
+   "team": "Australia"
+ },
+ {
+   "playername": "ckm",
+   "role": "DPS",
+   "team": "Australia"
+ },
+ {
+   "playername": "Adam",
+   "role": "Flex",
+   "team": "Australia"
+ },
+ {
+   "playername": "Punk",
+   "role": "Flex",
+   "team": "Australia"
+ },
+ {
+   "playername": "Trill",
+   "role": "Tank",
+   "team": "Australia"
+ },
+ {
+   "playername": "Quatz",
+   "role": "Tank",
+   "team": "Australia"
+ },
+ {
+   "playername": "tongue",
+   "role": "Support",
+   "team": "Australia"
+ },
+ {
+   "playername": "Akraken",
+   "role": "Support",
+   "team": "Australia"
+ },
+ {
+   "playername": "Bertlog",
+   "role": "Support",
+   "team": "Australia"
+ },
+ {
+   "playername": "Custa",
+   "role": "Support",
+   "team": "Australia"
+ },
+ {
+   "playername": "MrDragonLol",
+   "role": "DPS",
+   "team": "Austria"
+ },
+ {
+   "playername": "Stvn",
+   "role": "DPS",
+   "team": "Austria"
+ },
+ {
+   "playername": "HeroRay",
+   "role": "DPS",
+   "team": "Austria"
+ },
+ {
+   "playername": "Wat7",
+   "role": "Tank",
+   "team": "Austria"
+ },
+ {
+   "playername": "Sensotix",
+   "role": "Tank",
+   "team": "Austria"
+ },
+ {
+   "playername": "ecLipse",
+   "role": "Support",
+   "team": "Austria"
+ },
+ {
+   "playername": "Minimi",
+   "role": "Support",
+   "team": "Austria"
+ },
+ {
+   "playername": "liko",
+   "role": "DPS",
+   "team": "Brazil"
+ },
+ {
+   "playername": "dudu",
+   "role": "DPS",
+   "team": "Brazil"
+ },
+ {
+   "playername": "murizzz",
+   "role": "DPS",
+   "team": "Brazil"
+ },
+ {
+   "playername": "honorato",
+   "role": "Flex",
+   "team": "Brazil"
+ },
+ {
+   "playername": "Stylo",
+   "role": "Flex",
+   "team": "Brazil"
+ },
+ {
+   "playername": "Wetter",
+   "role": "Flex",
+   "team": "Brazil"
+ },
+ {
+   "playername": "neil",
+   "role": "Tank",
+   "team": "Brazil"
+ },
+ {
+   "playername": "Fastie",
+   "role": "Tank",
+   "team": "Brazil"
+ },
+ {
+   "playername": "ole",
+   "role": "Support",
+   "team": "Brazil"
+ },
+ {
+   "playername": "kolero",
+   "role": "Support",
+   "team": "Brazil"
+ },
+ {
+   "playername": "dehzinho",
+   "role": "Support",
+   "team": "Brazil"
+ },
+ {
+   "playername": "alemao",
+   "role": "Support",
+   "team": "Brazil"
+ },
+ {
+   "playername": "Surefour",
+   "role": "DPS",
+   "team": "Canada"
+ },
+ {
+   "playername": "Agilities",
+   "role": "DPS",
+   "team": "Canada"
+ },
+ {
+   "playername": "Mangachu",
+   "role": "DPS",
+   "team": "Canada"
+ },
+ {
+   "playername": "Kellar",
+   "role": "DPS",
+   "team": "Canada"
+ },
+ {
+   "playername": "NotE",
+   "role": "Flex",
+   "team": "Canada"
+ },
+ {
+   "playername": "Kevin",
+   "role": "Flex",
+   "team": "Canada"
+ },
+ {
+   "playername": "xQc",
+   "role": "Tank",
+   "team": "Canada"
+ },
+ {
+   "playername": "Chayne",
+   "role": "Tank",
+   "team": "Canada"
+ },
+ {
+   "playername": "Bani",
+   "role": "Support",
+   "team": "Canada"
+ },
+ {
+   "playername": "Joemeister",
+   "role": "Support",
+   "team": "Canada"
+ },
+ {
+   "playername": "Crimzo",
+   "role": "Support",
+   "team": "Canada"
+ },
+ {
+   "playername": "Roolf",
+   "role": "Support",
+   "team": "Canada"
+ },
+ {
+   "playername": "KHeart",
+   "role": "DPS",
+   "team": "China"
+ },
+ {
+   "playername": "leave",
+   "role": "DPS",
+   "team": "China"
+ },
+ {
+   "playername": "Krystal",
+   "role": "DPS",
+   "team": "China"
+ },
+ {
+   "playername": "Shy",
+   "role": "DPS",
+   "team": "China"
+ },
+ {
+   "playername": "Lateyoung",
+   "role": "DPS",
+   "team": "China"
+ },
+ {
+   "playername": "guxue",
+   "role": "DPS",
+   "team": "China"
+ },
+ {
+   "playername": "Sky",
+   "role": "Support",
+   "team": "China"
+ },
+ {
+   "playername": "Yveltal",
+   "role": "Support",
+   "team": "China"
+ },
+ {
+   "playername": "fischer",
+   "role": "DPS",
+   "team": "Denmark"
+ },
+ {
+   "playername": "naGGa",
+   "role": "DPS",
+   "team": "Denmark"
+ },
+ {
+   "playername": "SpoXez",
+   "role": "DPS",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Shax",
+   "role": "DPS",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Molf1g",
+   "role": "Flex",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Danii",
+   "role": "Flex",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Pagh",
+   "role": "Tank",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Nerfdd",
+   "role": "Tank",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Hunni",
+   "role": "Support",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Ding",
+   "role": "Support",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Scaler",
+   "role": "Support",
+   "team": "Denmark"
+ },
+ {
+   "playername": "Kellex",
+   "role": "Support",
+   "team": "Denmark"
+ },
+ {
+   "playername": "LiNkzr",
+   "role": "DPS",
+   "team": "Finland"
+ },
+ {
+   "playername": "Taimou",
+   "role": "DPS",
+   "team": "Finland"
+ },
+ {
+   "playername": "Davin",
+   "role": "DPS",
+   "team": "Finland"
+ },
+ {
+   "playername": "zappis",
+   "role": "Flex",
+   "team": "Finland"
+ },
+ {
+   "playername": "rCk",
+   "role": "Flex",
+   "team": "Finland"
+ },
+ {
+   "playername": "fragi",
+   "role": "Tank",
+   "team": "Finland"
+ },
+ {
+   "playername": "LhCloudy",
+   "role": "Tank",
+   "team": "Finland"
+ },
+ {
+   "playername": "BigGoose",
+   "role": "Support",
+   "team": "Finland"
+ },
+ {
+   "playername": "Masaa",
+   "role": "Support",
+   "team": "Finland"
+ },
+ {
+   "playername": "Shaz",
+   "role": "Support",
+   "team": "Finland"
+ },
+ {
+   "playername": "Zuppeh",
+   "role": "Support",
+   "team": "Finland"
+ },
+ {
+   "playername": "Ripa",
+   "role": "Support",
+   "team": "Finland"
+ },
+ {
+   "playername": "SoOn",
+   "role": "DPS",
+   "team": "France"
+ },
+ {
+   "playername": "aKm",
+   "role": "DPS",
+   "team": "France"
+ },
+ {
+   "playername": "NiCOgdh",
+   "role": "DPS",
+   "team": "France"
+ },
+ {
+   "playername": "Asking",
+   "role": "DPS",
+   "team": "France"
+ },
+ {
+   "playername": "Poko",
+   "role": "Flex",
+   "team": "France"
+ },
+ {
+   "playername": "Shuh",
+   "role": "Flex",
+   "team": "France"
+ },
+ {
+   "playername": "Kolsti",
+   "role": "Tank",
+   "team": "France"
+ },
+ {
+   "playername": "BenBest",
+   "role": "Tank",
+   "team": "France"
+ },
+ {
+   "playername": "HyP",
+   "role": "Support",
+   "team": "France"
+ },
+ {
+   "playername": "uNKOE",
+   "role": "Support",
+   "team": "France"
+ },
+ {
+   "playername": "dridro",
+   "role": "Support",
+   "team": "France"
+ },
+ {
+   "playername": "winz",
+   "role": "Support",
+   "team": "France"
+ },
+ {
+   "playername": "Adi",
+   "role": "DPS",
+   "team": "Germany"
+ },
+ {
+   "playername": "cRNKz",
+   "role": "DPS",
+   "team": "Germany"
+ },
+ {
+   "playername": "Massie",
+   "role": "DPS",
+   "team": "Germany"
+ },
+ {
+   "playername": "Nesh",
+   "role": "DPS",
+   "team": "Germany"
+ },
+ {
+   "playername": "Mete",
+   "role": "Flex",
+   "team": "Germany"
+ },
+ {
+   "playername": "NexX",
+   "role": "Flex",
+   "team": "Germany"
+ },
+ {
+   "playername": "ProGi",
+   "role": "Tank",
+   "team": "Germany"
+ },
+ {
+   "playername": "TerenZ",
+   "role": "Tank",
+   "team": "Germany"
+ },
+ {
+   "playername": "immortal",
+   "role": "Support",
+   "team": "Germany"
+ },
+ {
+   "playername": "KodaK",
+   "role": "Support",
+   "team": "Germany"
+ },
+ {
+   "playername": "Talyz",
+   "role": "Support",
+   "team": "Germany"
+ },
+ {
+   "playername": "Xenlon",
+   "role": "Support",
+   "team": "Germany"
+ },
+ {
+   "playername": "Mikouw",
+   "role": "DPS",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "Moowe",
+   "role": "DPS",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "YiWind",
+   "role": "Tank",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "GZQQ",
+   "role": "Tank",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "JazZy",
+   "role": "Tank",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "ManGoJai",
+   "role": "Support",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "AmCrazy",
+   "role": "Support",
+   "team": "Hong Kong"
+ },
+ {
+   "playername": "Carnifex",
+   "role": "DPS",
+   "team": "Italy"
+ },
+ {
+   "playername": "HearThbeaT",
+   "role": "DPS",
+   "team": "Italy"
+ },
+ {
+   "playername": "Hinu",
+   "role": "DPS",
+   "team": "Italy"
+ },
+ {
+   "playername": "Najiny",
+   "role": "DPS",
+   "team": "Italy"
+ },
+ {
+   "playername": "thebigone",
+   "role": "DPS",
+   "team": "Italy"
+ },
+ {
+   "playername": "DragonEddy",
+   "role": "DPS",
+   "team": "Italy"
+ },
+ {
+   "playername": "FighteR",
+   "role": "Flex",
+   "team": "Italy"
+ },
+ {
+   "playername": "LUFT",
+   "role": "Tank",
+   "team": "Italy"
+ },
+ {
+   "playername": "Midna",
+   "role": "Tank",
+   "team": "Italy"
+ },
+ {
+   "playername": "Adnar",
+   "role": "Support",
+   "team": "Italy"
+ },
+ {
+   "playername": "Bimbz",
+   "role": "Support",
+   "team": "Italy"
+ },
+ {
+   "playername": "Nisa",
+   "role": "Support",
+   "team": "Italy"
+ },
+ {
+   "playername": "AmeKen",
+   "role": "DPS",
+   "team": "Japan"
+ },
+ {
+   "playername": "hoshimi",
+   "role": "DPS",
+   "team": "Japan"
+ },
+ {
+   "playername": "Dep",
+   "role": "DPS",
+   "team": "Japan"
+ },
+ {
+   "playername": "ta1yo",
+   "role": "DPS",
+   "team": "Japan"
+ },
+ {
+   "playername": "pocky",
+   "role": "Flex",
+   "team": "Japan"
+ },
+ {
+   "playername": "kenmohororo",
+   "role": "Flex",
+   "team": "Japan"
+ },
+ {
+   "playername": "Rimlime",
+   "role": "Tank",
+   "team": "Japan"
+ },
+ {
+   "playername": "SamuraiD",
+   "role": "Tank",
+   "team": "Japan"
+ },
+ {
+   "playername": "CLAIRE",
+   "role": "Support",
+   "team": "Japan"
+ },
+ {
+   "playername": "Xeraphy",
+   "role": "Support",
+   "team": "Japan"
+ },
+ {
+   "playername": "Yoz",
+   "role": "Support",
+   "team": "Japan"
+ },
+ {
+   "playername": "Sabagod",
+   "role": "Support",
+   "team": "Japan"
+ },
+ {
+   "playername": "Jona",
+   "role": "DPS",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "Vizility",
+   "role": "DPS",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "Dante",
+   "role": "DPS",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "Zino",
+   "role": "DPS",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "Corn",
+   "role": "Tank",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "brussen",
+   "role": "Tank",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "sweex",
+   "role": "Tank",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "A10",
+   "role": "Tank",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "CrusaDe",
+   "role": "Support",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "sab",
+   "role": "Support",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "Trispear",
+   "role": "Support",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "TheWrongName",
+   "role": "Support",
+   "team": "Netherlands"
+ },
+ {
+   "playername": "good3st",
+   "role": "DPS",
+   "team": "Norway"
+ },
+ {
+   "playername": "TracK",
+   "role": "DPS",
+   "team": "Norway"
+ },
+ {
+   "playername": "Frost",
+   "role": "DPS",
+   "team": "Norway"
+ },
+ {
+   "playername": "ONIGOD",
+   "role": "DPS",
+   "team": "Norway"
+ },
+ {
+   "playername": "Invision",
+   "role": "DPS",
+   "team": "Norway"
+ },
+ {
+   "playername": "yiqids",
+   "role": "DPS",
+   "team": "Norway"
+ },
+ {
+   "playername": "Crow",
+   "role": "Tank",
+   "team": "Norway"
+ },
+ {
+   "playername": "Tricky",
+   "role": "Tank",
+   "team": "Norway"
+ },
+ {
+   "playername": "Decod",
+   "role": "Tank",
+   "team": "Norway"
+ },
+ {
+   "playername": "Iko",
+   "role": "Support",
+   "team": "Norway"
+ },
+ {
+   "playername": "iPN",
+   "role": "Support",
+   "team": "Norway"
+ },
+ {
+   "playername": "Melk",
+   "role": "Support",
+   "team": "Norway"
+ },
+ {
+   "playername": "Matth",
+   "role": "DPS",
+   "team": "Poland"
+ },
+ {
+   "playername": "Danye",
+   "role": "DPS",
+   "team": "Poland"
+ },
+ {
+   "playername": "Redziok",
+   "role": "DPS",
+   "team": "Poland"
+ },
+ {
+   "playername": "Dxtr",
+   "role": "Tank",
+   "team": "Poland"
+ },
+ {
+   "playername": "Philion",
+   "role": "Tank",
+   "team": "Poland"
+ },
+ {
+   "playername": "Setrox",
+   "role": "Tank",
+   "team": "Poland"
+ },
+ {
+   "playername": "Matwoj",
+   "role": "Tank",
+   "team": "Poland"
+ },
+ {
+   "playername": "Shaddo",
+   "role": "Tank",
+   "team": "Poland"
+ },
+ {
+   "playername": "Koby",
+   "role": "Support",
+   "team": "Poland"
+ },
+ {
+   "playername": "Webster",
+   "role": "Support",
+   "team": "Poland"
+ },
+ {
+   "playername": "Duku",
+   "role": "Support",
+   "team": "Poland"
+ },
+ {
+   "playername": "Xyzano",
+   "role": "Support",
+   "team": "Poland"
+ },
+ {
+   "playername": "ShaDowBurn",
+   "role": "DPS",
+   "team": "Russia"
+ },
+ {
+   "playername": "Mistakes",
+   "role": "DPS",
+   "team": "Russia"
+ },
+ {
+   "playername": "NLaaeR",
+   "role": "DPS",
+   "team": "Russia"
+ },
+ {
+   "playername": "uNFixed",
+   "role": "DPS",
+   "team": "Russia"
+ },
+ {
+   "playername": "Txao",
+   "role": "Flex",
+   "team": "Russia"
+ },
+ {
+   "playername": "rez",
+   "role": "Flex",
+   "team": "Russia"
+ },
+ {
+   "playername": "Alexey",
+   "role": "Tank",
+   "team": "Russia"
+ },
+ {
+   "playername": "Tonic",
+   "role": "Tank",
+   "team": "Russia"
+ },
+ {
+   "playername": "Engh",
+   "role": "Support",
+   "team": "Russia"
+ },
+ {
+   "playername": "MayN",
+   "role": "Support",
+   "team": "Russia"
+ },
+ {
+   "playername": "Bezpalivo",
+   "role": "Support",
+   "team": "Russia"
+ },
+ {
+   "playername": "Vlad",
+   "role": "Support",
+   "team": "Russia"
+ },
+ {
+   "playername": "Saebyeolbe",
+   "role": "DPS",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Libero",
+   "role": "DPS",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Carpe",
+   "role": "DPS",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Fleta",
+   "role": "DPS",
+   "team": "South Korea"
+ },
+ {
+   "playername": "MekO",
+   "role": "Flex",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Fury",
+   "role": "Flex",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Fissure",
+   "role": "Tank",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Fate",
+   "role": "Tank",
+   "team": "South Korea"
+ },
+ {
+   "playername": "ArK",
+   "role": "Support",
+   "team": "South Korea"
+ },
+ {
+   "playername": "JJoNak",
+   "role": "Support",
+   "team": "South Korea"
+ },
+ {
+   "playername": "Anamo",
+   "role": "Support",
+   "team": "South Korea"
+ },
+ {
+   "playername": "KariV",
+   "role": "Support",
+   "team": "South Korea"
+ },
+ {
+   "playername": "PoPiFresH",
+   "role": "DPS",
+   "team": "Spain"
+ },
+ {
+   "playername": "ToxikeN",
+   "role": "DPS",
+   "team": "Spain"
+ },
+ {
+   "playername": "BromaS",
+   "role": "Flex",
+   "team": "Spain"
+ },
+ {
+   "playername": "Networkz",
+   "role": "Tank",
+   "team": "Spain"
+ },
+ {
+   "playername": "neptuNo",
+   "role": "Support",
+   "team": "Spain"
+ },
+ {
+   "playername": "HarryHook",
+   "role": "Support",
+   "team": "Spain"
+ },
+ {
+   "playername": "dhaK",
+   "role": "Support",
+   "team": "Spain"
+ },
+ {
+   "playername": "Linepro",
+   "role": "Support",
+   "team": "Spain"
+ },
+ {
+   "playername": "SharP",
+   "role": "DPS",
+   "team": "Sweden"
+ },
+ {
+   "playername": "snillo",
+   "role": "DPS",
+   "team": "Sweden"
+ },
+ {
+   "playername": "TviQ",
+   "role": "DPS",
+   "team": "Sweden"
+ },
+ {
+   "playername": "iddqd",
+   "role": "DPS",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Nevix",
+   "role": "Flex",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Manneten",
+   "role": "Flex",
+   "team": "Sweden"
+ },
+ {
+   "playername": "CWoosH",
+   "role": "Tank",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Reinforce",
+   "role": "Tank",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Graceful",
+   "role": "Support",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Luddee",
+   "role": "Support",
+   "team": "Sweden"
+ },
+ {
+   "playername": "chipshajen",
+   "role": "Support",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Zebbosai",
+   "role": "Support",
+   "team": "Sweden"
+ },
+ {
+   "playername": "Luux",
+   "role": "DPS",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Dijnn",
+   "role": "DPS",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Aisey",
+   "role": "DPS",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Shinoda",
+   "role": "DPS",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Kiba",
+   "role": "Flex",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Gintoki",
+   "role": "Flex",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Helv",
+   "role": "Tank",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Mimi7",
+   "role": "Tank",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "R3M1X",
+   "role": "Support",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Flow",
+   "role": "Support",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "Sk0rpi0n",
+   "role": "Support",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "NiV",
+   "role": "Support",
+   "team": "Switzerland"
+ },
+ {
+   "playername": "ShaiuKin",
+   "role": "DPS",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "BLUE",
+   "role": "DPS",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "Kant",
+   "role": "Flex",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "TenTen",
+   "role": "Tank",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "ATing",
+   "role": "Tank",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "Craz1S",
+   "role": "Support",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "OYO",
+   "role": "Support",
+   "team": "Taiwan"
+ },
+ {
+   "playername": "oPuTo",
+   "role": "DPS",
+   "team": "Thailand"
+ },
+ {
+   "playername": "Patiphan",
+   "role": "DPS",
+   "team": "Thailand"
+ },
+ {
+   "playername": "NzNr",
+   "role": "DPS",
+   "team": "Thailand"
+ },
+ {
+   "playername": "TNK",
+   "role": "DPS",
+   "team": "Thailand"
+ },
+ {
+   "playername": "Mickie",
+   "role": "Flex",
+   "team": "Thailand"
+ },
+ {
+   "playername": "SaiyajinGOD",
+   "role": "Flex",
+   "team": "Thailand"
+ },
+ {
+   "playername": "Teetawat",
+   "role": "Tank",
+   "team": "Thailand"
+ },
+ {
+   "playername": "QueEn",
+   "role": "Tank",
+   "team": "Thailand"
+ },
+ {
+   "playername": "Rocket",
+   "role": "Support",
+   "team": "Thailand"
+ },
+ {
+   "playername": "Pannys",
+   "role": "Support",
+   "team": "Thailand"
+ },
+ {
+   "playername": "tae",
+   "role": "Support",
+   "team": "Thailand"
+ },
+ {
+   "playername": "pichu",
+   "role": "Support",
+   "team": "Thailand"
+ },
+ {
+   "playername": "Kyb",
+   "role": "DPS",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "MikeyA",
+   "role": "DPS",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "KSP",
+   "role": "DPS",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Jellis",
+   "role": "DPS",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Smex",
+   "role": "Flex",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Moursi",
+   "role": "Flex",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "ChrisTFer",
+   "role": "Tank",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Fusions",
+   "role": "Tank",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Boombox",
+   "role": "Support",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Daiya",
+   "role": "Support",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Kruise",
+   "role": "Support",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "FunnyAstro",
+   "role": "Support",
+   "team": "United Kingdom"
+ },
+ {
+   "playername": "Danteh",
+   "role": "DPS",
+   "team": "United States"
+ },
+ {
+   "playername": "ZachaREEE",
+   "role": "DPS",
+   "team": "United States"
+ },
+ {
+   "playername": "Hydration",
+   "role": "DPS",
+   "team": "United States"
+ },
+ {
+   "playername": "Sinatraa",
+   "role": "DPS",
+   "team": "United States"
+ },
+ {
+   "playername": "SPACE",
+   "role": "Flex",
+   "team": "United States"
+ },
+ {
+   "playername": "McGravy",
+   "role": "Flex",
+   "team": "United States"
+ },
+ {
+   "playername": "super",
+   "role": "Tank",
+   "team": "United States"
+ },
+ {
+   "playername": "Muma",
+   "role": "Tank",
+   "team": "United States"
+ },
+ {
+   "playername": "Elk",
+   "role": "Support",
+   "team": "United States"
+ },
+ {
+   "playername": "Moth",
+   "role": "Support",
+   "team": "United States"
+ },
+ {
+   "playername": "Rawkus",
+   "role": "Support",
+   "team": "United States"
+ },
+ {
+   "playername": "sleepy ",
+   "role": "Support",
+   "team": "United States"
+ }
+]
